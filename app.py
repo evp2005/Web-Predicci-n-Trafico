@@ -9,6 +9,8 @@ from streamlit_lottie import st_lottie
 import streamlit.components.v1 as components
 from modelo_prediccion import predecir_trafico_diario
 
+api_key = st.secrets["API_KEY"]
+
 def main():
     # Carga y preprocesamiento del dataset
     datosTrafico = pd.read_csv("Dataset_limpio.csv")
@@ -151,10 +153,10 @@ def main():
         st.map(map_data, height=285)
     with cl2:
         if str(ubi_start) and str(ubi_end) == "None":
-            components.html("""
+            components.html(f"""
                 <div style="border:3px solid #2c3e50; border-radius:20px; overflow:hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
                     <script
-                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOd6ZFmKTMdfjLuQ0v66SbN3vnOUdOOMY&libraries=maps,marker"
+                        src="https://maps.googleapis.com/maps/api/js?key={api_key}&libraries=maps,marker"
                         defer
                     ></script>
                     <gmp-map center="37.4220656,-122.21378127" zoom="10" map-id="" style="height: 500px"></gmp-map>
@@ -173,7 +175,7 @@ def main():
                 components.html(f"""
                 <div style="border:3px solid #2c3e50; border-radius:20px; overflow:hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
                     <iframe
-                        src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyAmBcsfFRbPqws5zmAewz69aw6HGRSVnZc&origin={res1}&destination={res2}&mode=driving&avoid=tolls&region=PE'
+                        src='https://www.google.com/maps/embed/v1/directions?key={api_key}&origin={res1}&destination={res2}&mode=driving&avoid=tolls&region=PE'
                         height="510" width= "100%"
                     ></iframe>
                 </div>""",height=520)
