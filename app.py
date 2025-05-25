@@ -28,7 +28,8 @@ def main():
                                             labels=['Baja', 'Media', 'Alta', 'Muy Alta'])
         datosTrafico['Congestion'] = datosTrafico['Congestion'].astype(str)
 
-    tablaTrafico = pd.DataFrame(datosTrafico)
+    datosTraficoF = pd.read_csv("dataset_trafico_limpio.csv")
+    tablaTrafico = pd.DataFrame(datosTraficoF)
 
     # --- ENCABEZADO DE LA PAGINA ---
     st.html("""
@@ -394,6 +395,7 @@ def main():
         st.markdown('</div>', unsafe_allow_html=True)
             
     st.divider()
+    st.dataframe(tablaTrafico, hide_index=True)
 
 if __name__ == "__main__":
     main()
