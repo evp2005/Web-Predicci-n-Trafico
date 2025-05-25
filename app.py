@@ -34,7 +34,7 @@ def main():
     # --- ENCABEZADO DE LA PAGINA ---
     st.html("""
         <style>
-            h1, h2, p, h3 {text-align: center;}
+            div, h1, h2, p, h3 {text-align: center;}
             .stColumn.st-emotion-cache-1mwoiw6.e1lln2w82 {padding: 10px; background: #222; border-radius: 10px;}
             /* Nuevo estilo para centrar el contenido de las columnas de métricas */
             .metric-container {
