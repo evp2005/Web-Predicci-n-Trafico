@@ -1,0 +1,1921 @@
+Zona,Fecha,DiaSemana,HoraInicio,HoraFin,Feriado,EventoEspecial,FlujoVehicular,Congestion
+Av. Paseo de la Republica,2025-05-01,Saturday,00:00,01:00,no,ninguno,39,muy bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,01:00,02:00,no,ninguno,93,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,02:00,03:00,no,ninguno,66,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,03:00,04:00,no,ninguno,50,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,04:00,05:00,no,ninguno,77,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,05:00,06:00,no,ninguno,257,muy alto
+Av. Paseo de la Republica,2025-05-01,Saturday,06:00,07:00,no,ninguno,298,muy alto
+Av. Paseo de la Republica,2025-05-01,Saturday,07:00,08:00,no,ninguno,255,muy alto
+Av. Paseo de la Republica,2025-05-01,Saturday,08:00,09:00,no,ninguno,145,regular
+Av. Paseo de la Republica,2025-05-01,Saturday,09:00,10:00,no,ninguno,101,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,10:00,11:00,no,ninguno,105,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,11:00,12:00,no,ninguno,145,regular
+Av. Paseo de la Republica,2025-05-01,Saturday,12:00,13:00,no,ninguno,107,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,13:00,14:00,no,ninguno,93,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,14:00,15:00,no,ninguno,110,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,15:00,16:00,no,ninguno,145,regular
+Av. Paseo de la Republica,2025-05-01,Saturday,16:00,17:00,no,ninguno,216,alto
+Av. Paseo de la Republica,2025-05-01,Saturday,17:00,18:00,no,ninguno,299,muy alto
+Av. Paseo de la Republica,2025-05-01,Saturday,18:00,19:00,no,ninguno,286,muy alto
+Av. Paseo de la Republica,2025-05-01,Saturday,19:00,20:00,no,ninguno,206,alto
+Av. Paseo de la Republica,2025-05-01,Saturday,20:00,21:00,no,ninguno,140,regular
+Av. Paseo de la Republica,2025-05-01,Saturday,21:00,22:00,no,ninguno,162,regular
+Av. Paseo de la Republica,2025-05-01,Saturday,22:00,23:00,no,ninguno,58,bajo
+Av. Paseo de la Republica,2025-05-01,Saturday,23:00,24:00,no,ninguno,75,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,00:00,01:00,no,ninguno,44,muy bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,01:00,02:00,no,ninguno,34,muy bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,02:00,03:00,no,ninguno,94,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,03:00,04:00,no,ninguno,98,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,04:00,05:00,no,ninguno,80,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,05:00,06:00,no,ninguno,178,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,06:00,07:00,no,ninguno,165,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,07:00,08:00,no,ninguno,272,muy alto
+Av. Alfredo Benavides,2025-05-01,Saturday,08:00,09:00,no,ninguno,174,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,09:00,10:00,no,ninguno,127,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,10:00,11:00,no,ninguno,96,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,11:00,12:00,no,ninguno,109,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,12:00,13:00,no,ninguno,82,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,13:00,14:00,no,ninguno,147,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,14:00,15:00,no,ninguno,100,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,15:00,16:00,no,ninguno,142,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,16:00,17:00,no,ninguno,243,alto
+Av. Alfredo Benavides,2025-05-01,Saturday,17:00,18:00,no,ninguno,202,alto
+Av. Alfredo Benavides,2025-05-01,Saturday,18:00,19:00,no,ninguno,344,muy alto
+Av. Alfredo Benavides,2025-05-01,Saturday,19:00,20:00,no,ninguno,275,muy alto
+Av. Alfredo Benavides,2025-05-01,Saturday,20:00,21:00,no,ninguno,136,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,21:00,22:00,no,ninguno,154,regular
+Av. Alfredo Benavides,2025-05-01,Saturday,22:00,23:00,no,ninguno,68,bajo
+Av. Alfredo Benavides,2025-05-01,Saturday,23:00,24:00,no,ninguno,57,bajo
+Av. Universitaria,2025-05-01,Saturday,00:00,01:00,no,ninguno,93,bajo
+Av. Universitaria,2025-05-01,Saturday,01:00,02:00,no,ninguno,27,muy bajo
+Av. Universitaria,2025-05-01,Saturday,02:00,03:00,no,ninguno,42,muy bajo
+Av. Universitaria,2025-05-01,Saturday,03:00,04:00,no,ninguno,44,muy bajo
+Av. Universitaria,2025-05-01,Saturday,04:00,05:00,no,ninguno,91,bajo
+Av. Universitaria,2025-05-01,Saturday,05:00,06:00,no,ninguno,247,alto
+Av. Universitaria,2025-05-01,Saturday,06:00,07:00,no,ninguno,297,muy alto
+Av. Universitaria,2025-05-01,Saturday,07:00,08:00,no,ninguno,158,regular
+Av. Universitaria,2025-05-01,Saturday,08:00,09:00,no,ninguno,164,regular
+Av. Universitaria,2025-05-01,Saturday,09:00,10:00,no,ninguno,141,regular
+Av. Universitaria,2025-05-01,Saturday,10:00,11:00,no,ninguno,99,bajo
+Av. Universitaria,2025-05-01,Saturday,11:00,12:00,no,ninguno,133,regular
+Av. Universitaria,2025-05-01,Saturday,12:00,13:00,no,ninguno,134,regular
+Av. Universitaria,2025-05-01,Saturday,13:00,14:00,no,ninguno,149,regular
+Av. Universitaria,2025-05-01,Saturday,14:00,15:00,no,ninguno,124,regular
+Av. Universitaria,2025-05-01,Saturday,15:00,16:00,no,ninguno,163,regular
+Av. Universitaria,2025-05-01,Saturday,16:00,17:00,no,ninguno,146,regular
+Av. Universitaria,2025-05-01,Saturday,17:00,18:00,no,ninguno,318,muy alto
+Av. Universitaria,2025-05-01,Saturday,18:00,19:00,no,ninguno,336,muy alto
+Av. Universitaria,2025-05-01,Saturday,19:00,20:00,no,ninguno,258,muy alto
+Av. Universitaria,2025-05-01,Saturday,20:00,21:00,no,ninguno,121,regular
+Av. Universitaria,2025-05-01,Saturday,21:00,22:00,no,ninguno,105,bajo
+Av. Universitaria,2025-05-01,Saturday,22:00,23:00,no,ninguno,56,bajo
+Av. Universitaria,2025-05-01,Saturday,23:00,24:00,no,ninguno,81,bajo
+Av. de la Marina,2025-05-01,Saturday,00:00,01:00,no,ninguno,43,muy bajo
+Av. de la Marina,2025-05-01,Saturday,01:00,02:00,no,ninguno,28,muy bajo
+Av. de la Marina,2025-05-01,Saturday,02:00,03:00,no,ninguno,76,bajo
+Av. de la Marina,2025-05-01,Saturday,03:00,04:00,no,ninguno,52,bajo
+Av. de la Marina,2025-05-01,Saturday,04:00,05:00,no,ninguno,22,muy bajo
+Av. de la Marina,2025-05-01,Saturday,05:00,06:00,no,ninguno,260,muy alto
+Av. de la Marina,2025-05-01,Saturday,06:00,07:00,no,ninguno,270,muy alto
+Av. de la Marina,2025-05-01,Saturday,07:00,08:00,no,ninguno,171,regular
+Av. de la Marina,2025-05-01,Saturday,08:00,09:00,no,ninguno,133,regular
+Av. de la Marina,2025-05-01,Saturday,09:00,10:00,no,ninguno,101,bajo
+Av. de la Marina,2025-05-01,Saturday,10:00,11:00,no,ninguno,120,regular
+Av. de la Marina,2025-05-01,Saturday,11:00,12:00,no,ninguno,115,bajo
+Av. de la Marina,2025-05-01,Saturday,12:00,13:00,no,ninguno,80,bajo
+Av. de la Marina,2025-05-01,Saturday,13:00,14:00,no,ninguno,90,bajo
+Av. de la Marina,2025-05-01,Saturday,14:00,15:00,no,ninguno,116,bajo
+Av. de la Marina,2025-05-01,Saturday,15:00,16:00,no,ninguno,162,regular
+Av. de la Marina,2025-05-01,Saturday,16:00,17:00,no,ninguno,158,regular
+Av. de la Marina,2025-05-01,Saturday,17:00,18:00,no,ninguno,332,muy alto
+Av. de la Marina,2025-05-01,Saturday,18:00,19:00,no,ninguno,306,muy alto
+Av. de la Marina,2025-05-01,Saturday,19:00,20:00,no,ninguno,340,muy alto
+Av. de la Marina,2025-05-01,Saturday,20:00,21:00,no,ninguno,160,regular
+Av. de la Marina,2025-05-01,Saturday,21:00,22:00,no,ninguno,110,bajo
+Av. de la Marina,2025-05-01,Saturday,22:00,23:00,no,ninguno,62,bajo
+Av. de la Marina,2025-05-01,Saturday,23:00,24:00,no,ninguno,63,bajo
+Av. Abancay,2025-05-01,Saturday,00:00,01:00,no,ninguno,85,bajo
+Av. Abancay,2025-05-01,Saturday,01:00,02:00,no,ninguno,42,muy bajo
+Av. Abancay,2025-05-01,Saturday,02:00,03:00,no,ninguno,75,bajo
+Av. Abancay,2025-05-01,Saturday,03:00,04:00,no,ninguno,61,bajo
+Av. Abancay,2025-05-01,Saturday,04:00,05:00,no,ninguno,90,bajo
+Av. Abancay,2025-05-01,Saturday,05:00,06:00,no,ninguno,162,regular
+Av. Abancay,2025-05-01,Saturday,06:00,07:00,no,ninguno,273,muy alto
+Av. Abancay,2025-05-01,Saturday,07:00,08:00,no,ninguno,269,muy alto
+Av. Abancay,2025-05-01,Saturday,08:00,09:00,no,ninguno,110,bajo
+Av. Abancay,2025-05-01,Saturday,09:00,10:00,no,ninguno,193,alto
+Av. Abancay,2025-05-01,Saturday,10:00,11:00,no,ninguno,81,bajo
+Av. Abancay,2025-05-01,Saturday,11:00,12:00,no,ninguno,144,regular
+Av. Abancay,2025-05-01,Saturday,12:00,13:00,no,ninguno,82,bajo
+Av. Abancay,2025-05-01,Saturday,13:00,14:00,no,ninguno,116,bajo
+Av. Abancay,2025-05-01,Saturday,14:00,15:00,no,ninguno,80,bajo
+Av. Abancay,2025-05-01,Saturday,15:00,16:00,no,ninguno,200,alto
+Av. Abancay,2025-05-01,Saturday,16:00,17:00,no,ninguno,206,alto
+Av. Abancay,2025-05-01,Saturday,17:00,18:00,no,ninguno,326,muy alto
+Av. Abancay,2025-05-01,Saturday,18:00,19:00,no,ninguno,264,muy alto
+Av. Abancay,2025-05-01,Saturday,19:00,20:00,no,ninguno,218,alto
+Av. Abancay,2025-05-01,Saturday,20:00,21:00,no,ninguno,108,bajo
+Av. Abancay,2025-05-01,Saturday,21:00,22:00,no,ninguno,152,regular
+Av. Abancay,2025-05-01,Saturday,22:00,23:00,no,ninguno,88,bajo
+Av. Abancay,2025-05-01,Saturday,23:00,24:00,no,ninguno,57,bajo
+Av. Mexico,2025-05-01,Saturday,00:00,01:00,no,ninguno,25,muy bajo
+Av. Mexico,2025-05-01,Saturday,01:00,02:00,no,ninguno,27,muy bajo
+Av. Mexico,2025-05-01,Saturday,02:00,03:00,no,ninguno,42,muy bajo
+Av. Mexico,2025-05-01,Saturday,03:00,04:00,no,ninguno,27,muy bajo
+Av. Mexico,2025-05-01,Saturday,04:00,05:00,no,ninguno,20,muy bajo
+Av. Mexico,2025-05-01,Saturday,05:00,06:00,no,ninguno,183,alto
+Av. Mexico,2025-05-01,Saturday,06:00,07:00,no,ninguno,172,regular
+Av. Mexico,2025-05-01,Saturday,07:00,08:00,no,ninguno,280,muy alto
+Av. Mexico,2025-05-01,Saturday,08:00,09:00,no,ninguno,170,regular
+Av. Mexico,2025-05-01,Saturday,09:00,10:00,no,ninguno,117,bajo
+Av. Mexico,2025-05-01,Saturday,10:00,11:00,no,ninguno,136,regular
+Av. Mexico,2025-05-01,Saturday,11:00,12:00,no,ninguno,128,regular
+Av. Mexico,2025-05-01,Saturday,12:00,13:00,no,ninguno,116,bajo
+Av. Mexico,2025-05-01,Saturday,13:00,14:00,no,ninguno,110,bajo
+Av. Mexico,2025-05-01,Saturday,14:00,15:00,no,ninguno,136,regular
+Av. Mexico,2025-05-01,Saturday,15:00,16:00,no,ninguno,219,alto
+Av. Mexico,2025-05-01,Saturday,16:00,17:00,no,ninguno,147,regular
+Av. Mexico,2025-05-01,Saturday,17:00,18:00,no,ninguno,329,muy alto
+Av. Mexico,2025-05-01,Saturday,18:00,19:00,no,ninguno,200,alto
+Av. Mexico,2025-05-01,Saturday,19:00,20:00,no,ninguno,226,alto
+Av. Mexico,2025-05-01,Saturday,20:00,21:00,no,ninguno,118,bajo
+Av. Mexico,2025-05-01,Saturday,21:00,22:00,no,ninguno,108,bajo
+Av. Mexico,2025-05-01,Saturday,22:00,23:00,no,ninguno,78,bajo
+Av. Mexico,2025-05-01,Saturday,23:00,24:00,no,ninguno,90,bajo
+Av. Argentina,2025-05-01,Saturday,00:00,01:00,no,ninguno,57,bajo
+Av. Argentina,2025-05-01,Saturday,01:00,02:00,no,ninguno,52,bajo
+Av. Argentina,2025-05-01,Saturday,02:00,03:00,no,ninguno,57,bajo
+Av. Argentina,2025-05-01,Saturday,03:00,04:00,no,ninguno,30,muy bajo
+Av. Argentina,2025-05-01,Saturday,04:00,05:00,no,ninguno,89,bajo
+Av. Argentina,2025-05-01,Saturday,05:00,06:00,no,ninguno,233,alto
+Av. Argentina,2025-05-01,Saturday,06:00,07:00,no,ninguno,266,muy alto
+Av. Argentina,2025-05-01,Saturday,07:00,08:00,no,ninguno,272,muy alto
+Av. Argentina,2025-05-01,Saturday,08:00,09:00,no,ninguno,142,regular
+Av. Argentina,2025-05-01,Saturday,09:00,10:00,no,ninguno,187,alto
+Av. Argentina,2025-05-01,Saturday,10:00,11:00,no,ninguno,125,regular
+Av. Argentina,2025-05-01,Saturday,11:00,12:00,no,ninguno,81,bajo
+Av. Argentina,2025-05-01,Saturday,12:00,13:00,no,ninguno,148,regular
+Av. Argentina,2025-05-01,Saturday,13:00,14:00,no,ninguno,123,regular
+Av. Argentina,2025-05-01,Saturday,14:00,15:00,no,ninguno,132,regular
+Av. Argentina,2025-05-01,Saturday,15:00,16:00,no,ninguno,172,regular
+Av. Argentina,2025-05-01,Saturday,16:00,17:00,no,ninguno,125,regular
+Av. Argentina,2025-05-01,Saturday,17:00,18:00,no,ninguno,248,alto
+Av. Argentina,2025-05-01,Saturday,18:00,19:00,no,ninguno,273,muy alto
+Av. Argentina,2025-05-01,Saturday,19:00,20:00,no,ninguno,346,muy alto
+Av. Argentina,2025-05-01,Saturday,20:00,21:00,no,ninguno,123,regular
+Av. Argentina,2025-05-01,Saturday,21:00,22:00,no,ninguno,121,regular
+Av. Argentina,2025-05-01,Saturday,22:00,23:00,no,ninguno,47,muy bajo
+Av. Argentina,2025-05-01,Saturday,23:00,24:00,no,ninguno,77,bajo
+Av. Venezuela,2025-05-01,Saturday,00:00,01:00,no,ninguno,22,muy bajo
+Av. Venezuela,2025-05-01,Saturday,01:00,02:00,no,ninguno,59,bajo
+Av. Venezuela,2025-05-01,Saturday,02:00,03:00,no,ninguno,31,muy bajo
+Av. Venezuela,2025-05-01,Saturday,03:00,04:00,no,ninguno,80,bajo
+Av. Venezuela,2025-05-01,Saturday,04:00,05:00,no,ninguno,44,muy bajo
+Av. Venezuela,2025-05-01,Saturday,05:00,06:00,no,ninguno,284,muy alto
+Av. Venezuela,2025-05-01,Saturday,06:00,07:00,no,ninguno,150,regular
+Av. Venezuela,2025-05-01,Saturday,07:00,08:00,no,ninguno,288,muy alto
+Av. Venezuela,2025-05-01,Saturday,08:00,09:00,no,ninguno,191,alto
+Av. Venezuela,2025-05-01,Saturday,09:00,10:00,no,ninguno,139,regular
+Av. Venezuela,2025-05-01,Saturday,10:00,11:00,no,ninguno,146,regular
+Av. Venezuela,2025-05-01,Saturday,11:00,12:00,no,ninguno,87,bajo
+Av. Venezuela,2025-05-01,Saturday,12:00,13:00,no,ninguno,102,bajo
+Av. Venezuela,2025-05-01,Saturday,13:00,14:00,no,ninguno,113,bajo
+Av. Venezuela,2025-05-01,Saturday,14:00,15:00,no,ninguno,147,regular
+Av. Venezuela,2025-05-01,Saturday,15:00,16:00,no,ninguno,171,regular
+Av. Venezuela,2025-05-01,Saturday,16:00,17:00,no,ninguno,134,regular
+Av. Venezuela,2025-05-01,Saturday,17:00,18:00,no,ninguno,237,alto
+Av. Venezuela,2025-05-01,Saturday,18:00,19:00,no,ninguno,243,alto
+Av. Venezuela,2025-05-01,Saturday,19:00,20:00,no,ninguno,288,muy alto
+Av. Venezuela,2025-05-01,Saturday,20:00,21:00,no,ninguno,147,regular
+Av. Venezuela,2025-05-01,Saturday,21:00,22:00,no,ninguno,159,regular
+Av. Venezuela,2025-05-01,Saturday,22:00,23:00,no,ninguno,62,bajo
+Av. Venezuela,2025-05-01,Saturday,23:00,24:00,no,ninguno,46,muy bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,89,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,94,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,40,muy bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,82,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,53,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,154,regular
+Av. Paseo de la Republica,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,268,muy alto
+Av. Paseo de la Republica,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,290,muy alto
+Av. Paseo de la Republica,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,106,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,174,regular
+Av. Paseo de la Republica,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,144,regular
+Av. Paseo de la Republica,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,100,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,134,regular
+Av. Paseo de la Republica,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,95,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,96,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,242,alto
+Av. Paseo de la Republica,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,128,regular
+Av. Paseo de la Republica,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,349,muy alto
+Av. Paseo de la Republica,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,259,muy alto
+Av. Paseo de la Republica,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,344,muy alto
+Av. Paseo de la Republica,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,102,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,123,regular
+Av. Paseo de la Republica,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,72,bajo
+Av. Paseo de la Republica,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,49,muy bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,35,muy bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,99,bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,29,muy bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,93,bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,51,bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,156,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,263,muy alto
+Av. Alfredo Benavides,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,213,alto
+Av. Alfredo Benavides,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,179,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,184,alto
+Av. Alfredo Benavides,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,108,bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,142,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,125,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,105,bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,144,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,178,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,120,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,218,alto
+Av. Alfredo Benavides,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,251,muy alto
+Av. Alfredo Benavides,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,307,muy alto
+Av. Alfredo Benavides,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,138,regular
+Av. Alfredo Benavides,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,114,bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,66,bajo
+Av. Alfredo Benavides,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,42,muy bajo
+Av. Universitaria,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,70,bajo
+Av. Universitaria,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,64,bajo
+Av. Universitaria,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,22,muy bajo
+Av. Universitaria,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,25,muy bajo
+Av. Universitaria,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,76,bajo
+Av. Universitaria,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,248,alto
+Av. Universitaria,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,264,muy alto
+Av. Universitaria,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,163,regular
+Av. Universitaria,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,133,regular
+Av. Universitaria,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,181,alto
+Av. Universitaria,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,138,regular
+Av. Universitaria,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,96,bajo
+Av. Universitaria,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,126,regular
+Av. Universitaria,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,106,bajo
+Av. Universitaria,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,137,regular
+Av. Universitaria,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,135,regular
+Av. Universitaria,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,135,regular
+Av. Universitaria,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,292,muy alto
+Av. Universitaria,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,265,muy alto
+Av. Universitaria,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,295,muy alto
+Av. Universitaria,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,170,regular
+Av. Universitaria,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,137,regular
+Av. Universitaria,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,60,bajo
+Av. Universitaria,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,99,bajo
+Av. de la Marina,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,83,bajo
+Av. de la Marina,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,55,bajo
+Av. de la Marina,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,37,muy bajo
+Av. de la Marina,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,35,muy bajo
+Av. de la Marina,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,73,bajo
+Av. de la Marina,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,242,alto
+Av. de la Marina,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,283,muy alto
+Av. de la Marina,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,249,alto
+Av. de la Marina,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,152,regular
+Av. de la Marina,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,175,regular
+Av. de la Marina,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,130,regular
+Av. de la Marina,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,93,bajo
+Av. de la Marina,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,122,regular
+Av. de la Marina,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,138,regular
+Av. de la Marina,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,90,bajo
+Av. de la Marina,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,215,alto
+Av. de la Marina,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,196,alto
+Av. de la Marina,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,330,muy alto
+Av. de la Marina,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,301,muy alto
+Av. de la Marina,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,317,muy alto
+Av. de la Marina,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,122,regular
+Av. de la Marina,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,160,regular
+Av. de la Marina,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,84,bajo
+Av. de la Marina,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,69,bajo
+Av. Abancay,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,72,bajo
+Av. Abancay,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,49,muy bajo
+Av. Abancay,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,48,muy bajo
+Av. Abancay,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,87,bajo
+Av. Abancay,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,51,bajo
+Av. Abancay,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,167,regular
+Av. Abancay,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,189,alto
+Av. Abancay,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,212,alto
+Av. Abancay,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,163,regular
+Av. Abancay,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,149,regular
+Av. Abancay,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,92,bajo
+Av. Abancay,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,130,regular
+Av. Abancay,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,105,bajo
+Av. Abancay,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,98,bajo
+Av. Abancay,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,148,regular
+Av. Abancay,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,143,regular
+Av. Abancay,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,194,alto
+Av. Abancay,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,224,alto
+Av. Abancay,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,260,muy alto
+Av. Abancay,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,223,alto
+Av. Abancay,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,124,regular
+Av. Abancay,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,118,bajo
+Av. Abancay,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,53,bajo
+Av. Abancay,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,95,bajo
+Av. Mexico,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,48,muy bajo
+Av. Mexico,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,42,muy bajo
+Av. Mexico,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,30,muy bajo
+Av. Mexico,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,22,muy bajo
+Av. Mexico,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,43,muy bajo
+Av. Mexico,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,194,alto
+Av. Mexico,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,201,alto
+Av. Mexico,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,182,alto
+Av. Mexico,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,111,bajo
+Av. Mexico,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,176,regular
+Av. Mexico,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,141,regular
+Av. Mexico,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,123,regular
+Av. Mexico,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,106,bajo
+Av. Mexico,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,129,regular
+Av. Mexico,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,121,regular
+Av. Mexico,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,150,regular
+Av. Mexico,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,152,regular
+Av. Mexico,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,314,muy alto
+Av. Mexico,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,220,alto
+Av. Mexico,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,288,muy alto
+Av. Mexico,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,142,regular
+Av. Mexico,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,100,bajo
+Av. Mexico,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,85,bajo
+Av. Mexico,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,59,bajo
+Av. Argentina,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,41,muy bajo
+Av. Argentina,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,62,bajo
+Av. Argentina,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,33,muy bajo
+Av. Argentina,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,95,bajo
+Av. Argentina,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,78,bajo
+Av. Argentina,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,293,muy alto
+Av. Argentina,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,187,alto
+Av. Argentina,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,261,muy alto
+Av. Argentina,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,144,regular
+Av. Argentina,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,147,regular
+Av. Argentina,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,94,bajo
+Av. Argentina,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,94,bajo
+Av. Argentina,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,126,regular
+Av. Argentina,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,121,regular
+Av. Argentina,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,110,bajo
+Av. Argentina,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,225,alto
+Av. Argentina,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,185,alto
+Av. Argentina,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,270,muy alto
+Av. Argentina,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,293,muy alto
+Av. Argentina,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,258,muy alto
+Av. Argentina,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,156,regular
+Av. Argentina,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,168,regular
+Av. Argentina,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,45,muy bajo
+Av. Argentina,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,66,bajo
+Av. Venezuela,2025-05-02,Sunday,00:00,01:00,no,Partido de futbol,83,bajo
+Av. Venezuela,2025-05-02,Sunday,01:00,02:00,no,Partido de futbol,48,muy bajo
+Av. Venezuela,2025-05-02,Sunday,02:00,03:00,no,Partido de futbol,46,muy bajo
+Av. Venezuela,2025-05-02,Sunday,03:00,04:00,no,Partido de futbol,91,bajo
+Av. Venezuela,2025-05-02,Sunday,04:00,05:00,no,Partido de futbol,66,bajo
+Av. Venezuela,2025-05-02,Sunday,05:00,06:00,no,Partido de futbol,197,alto
+Av. Venezuela,2025-05-02,Sunday,06:00,07:00,no,Partido de futbol,253,muy alto
+Av. Venezuela,2025-05-02,Sunday,07:00,08:00,no,Partido de futbol,297,muy alto
+Av. Venezuela,2025-05-02,Sunday,08:00,09:00,no,Partido de futbol,100,bajo
+Av. Venezuela,2025-05-02,Sunday,09:00,10:00,no,Partido de futbol,111,bajo
+Av. Venezuela,2025-05-02,Sunday,10:00,11:00,no,Partido de futbol,92,bajo
+Av. Venezuela,2025-05-02,Sunday,11:00,12:00,no,Partido de futbol,117,bajo
+Av. Venezuela,2025-05-02,Sunday,12:00,13:00,no,Partido de futbol,80,bajo
+Av. Venezuela,2025-05-02,Sunday,13:00,14:00,no,Partido de futbol,119,bajo
+Av. Venezuela,2025-05-02,Sunday,14:00,15:00,no,Partido de futbol,119,bajo
+Av. Venezuela,2025-05-02,Sunday,15:00,16:00,no,Partido de futbol,201,alto
+Av. Venezuela,2025-05-02,Sunday,16:00,17:00,no,Partido de futbol,146,regular
+Av. Venezuela,2025-05-02,Sunday,17:00,18:00,no,Partido de futbol,265,muy alto
+Av. Venezuela,2025-05-02,Sunday,18:00,19:00,no,Partido de futbol,328,muy alto
+Av. Venezuela,2025-05-02,Sunday,19:00,20:00,no,Partido de futbol,308,muy alto
+Av. Venezuela,2025-05-02,Sunday,20:00,21:00,no,Partido de futbol,107,bajo
+Av. Venezuela,2025-05-02,Sunday,21:00,22:00,no,Partido de futbol,160,regular
+Av. Venezuela,2025-05-02,Sunday,22:00,23:00,no,Partido de futbol,72,bajo
+Av. Venezuela,2025-05-02,Sunday,23:00,24:00,no,Partido de futbol,47,muy bajo
+Av. Paseo de la Republica,2025-05-03,Monday,00:00,01:00,no,ninguno,61,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,01:00,02:00,no,ninguno,95,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,02:00,03:00,no,ninguno,72,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,03:00,04:00,no,ninguno,38,muy bajo
+Av. Paseo de la Republica,2025-05-03,Monday,04:00,05:00,no,ninguno,93,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,05:00,06:00,no,ninguno,224,alto
+Av. Paseo de la Republica,2025-05-03,Monday,06:00,07:00,no,ninguno,198,alto
+Av. Paseo de la Republica,2025-05-03,Monday,07:00,08:00,no,ninguno,193,alto
+Av. Paseo de la Republica,2025-05-03,Monday,08:00,09:00,no,ninguno,149,regular
+Av. Paseo de la Republica,2025-05-03,Monday,09:00,10:00,no,ninguno,175,regular
+Av. Paseo de la Republica,2025-05-03,Monday,10:00,11:00,no,ninguno,96,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,11:00,12:00,no,ninguno,136,regular
+Av. Paseo de la Republica,2025-05-03,Monday,12:00,13:00,no,ninguno,98,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,13:00,14:00,no,ninguno,134,regular
+Av. Paseo de la Republica,2025-05-03,Monday,14:00,15:00,no,ninguno,135,regular
+Av. Paseo de la Republica,2025-05-03,Monday,15:00,16:00,no,ninguno,200,alto
+Av. Paseo de la Republica,2025-05-03,Monday,16:00,17:00,no,ninguno,196,alto
+Av. Paseo de la Republica,2025-05-03,Monday,17:00,18:00,no,ninguno,257,muy alto
+Av. Paseo de la Republica,2025-05-03,Monday,18:00,19:00,no,ninguno,278,muy alto
+Av. Paseo de la Republica,2025-05-03,Monday,19:00,20:00,no,ninguno,215,alto
+Av. Paseo de la Republica,2025-05-03,Monday,20:00,21:00,no,ninguno,147,regular
+Av. Paseo de la Republica,2025-05-03,Monday,21:00,22:00,no,ninguno,109,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,22:00,23:00,no,ninguno,80,bajo
+Av. Paseo de la Republica,2025-05-03,Monday,23:00,24:00,no,ninguno,73,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,00:00,01:00,no,ninguno,72,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,01:00,02:00,no,ninguno,31,muy bajo
+Av. Alfredo Benavides,2025-05-03,Monday,02:00,03:00,no,ninguno,81,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,03:00,04:00,no,ninguno,73,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,04:00,05:00,no,ninguno,61,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,05:00,06:00,no,ninguno,152,regular
+Av. Alfredo Benavides,2025-05-03,Monday,06:00,07:00,no,ninguno,262,muy alto
+Av. Alfredo Benavides,2025-05-03,Monday,07:00,08:00,no,ninguno,275,muy alto
+Av. Alfredo Benavides,2025-05-03,Monday,08:00,09:00,no,ninguno,194,alto
+Av. Alfredo Benavides,2025-05-03,Monday,09:00,10:00,no,ninguno,102,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,10:00,11:00,no,ninguno,108,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,11:00,12:00,no,ninguno,138,regular
+Av. Alfredo Benavides,2025-05-03,Monday,12:00,13:00,no,ninguno,104,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,13:00,14:00,no,ninguno,96,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,14:00,15:00,no,ninguno,104,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,15:00,16:00,no,ninguno,226,alto
+Av. Alfredo Benavides,2025-05-03,Monday,16:00,17:00,no,ninguno,167,regular
+Av. Alfredo Benavides,2025-05-03,Monday,17:00,18:00,no,ninguno,214,alto
+Av. Alfredo Benavides,2025-05-03,Monday,18:00,19:00,no,ninguno,336,muy alto
+Av. Alfredo Benavides,2025-05-03,Monday,19:00,20:00,no,ninguno,234,alto
+Av. Alfredo Benavides,2025-05-03,Monday,20:00,21:00,no,ninguno,139,regular
+Av. Alfredo Benavides,2025-05-03,Monday,21:00,22:00,no,ninguno,130,regular
+Av. Alfredo Benavides,2025-05-03,Monday,22:00,23:00,no,ninguno,78,bajo
+Av. Alfredo Benavides,2025-05-03,Monday,23:00,24:00,no,ninguno,74,bajo
+Av. Universitaria,2025-05-03,Monday,00:00,01:00,no,ninguno,39,muy bajo
+Av. Universitaria,2025-05-03,Monday,01:00,02:00,no,ninguno,46,muy bajo
+Av. Universitaria,2025-05-03,Monday,02:00,03:00,no,ninguno,63,bajo
+Av. Universitaria,2025-05-03,Monday,03:00,04:00,no,ninguno,40,muy bajo
+Av. Universitaria,2025-05-03,Monday,04:00,05:00,no,ninguno,94,bajo
+Av. Universitaria,2025-05-03,Monday,05:00,06:00,no,ninguno,292,muy alto
+Av. Universitaria,2025-05-03,Monday,06:00,07:00,no,ninguno,286,muy alto
+Av. Universitaria,2025-05-03,Monday,07:00,08:00,no,ninguno,287,muy alto
+Av. Universitaria,2025-05-03,Monday,08:00,09:00,no,ninguno,129,regular
+Av. Universitaria,2025-05-03,Monday,09:00,10:00,no,ninguno,114,bajo
+Av. Universitaria,2025-05-03,Monday,10:00,11:00,no,ninguno,131,regular
+Av. Universitaria,2025-05-03,Monday,11:00,12:00,no,ninguno,116,bajo
+Av. Universitaria,2025-05-03,Monday,12:00,13:00,no,ninguno,141,regular
+Av. Universitaria,2025-05-03,Monday,13:00,14:00,no,ninguno,147,regular
+Av. Universitaria,2025-05-03,Monday,14:00,15:00,no,ninguno,103,bajo
+Av. Universitaria,2025-05-03,Monday,15:00,16:00,no,ninguno,211,alto
+Av. Universitaria,2025-05-03,Monday,16:00,17:00,no,ninguno,227,alto
+Av. Universitaria,2025-05-03,Monday,17:00,18:00,no,ninguno,255,muy alto
+Av. Universitaria,2025-05-03,Monday,18:00,19:00,no,ninguno,216,alto
+Av. Universitaria,2025-05-03,Monday,19:00,20:00,no,ninguno,262,muy alto
+Av. Universitaria,2025-05-03,Monday,20:00,21:00,no,ninguno,104,bajo
+Av. Universitaria,2025-05-03,Monday,21:00,22:00,no,ninguno,120,regular
+Av. Universitaria,2025-05-03,Monday,22:00,23:00,no,ninguno,51,bajo
+Av. Universitaria,2025-05-03,Monday,23:00,24:00,no,ninguno,86,bajo
+Av. de la Marina,2025-05-03,Monday,00:00,01:00,no,ninguno,75,bajo
+Av. de la Marina,2025-05-03,Monday,01:00,02:00,no,ninguno,37,muy bajo
+Av. de la Marina,2025-05-03,Monday,02:00,03:00,no,ninguno,81,bajo
+Av. de la Marina,2025-05-03,Monday,03:00,04:00,no,ninguno,61,bajo
+Av. de la Marina,2025-05-03,Monday,04:00,05:00,no,ninguno,83,bajo
+Av. de la Marina,2025-05-03,Monday,05:00,06:00,no,ninguno,227,alto
+Av. de la Marina,2025-05-03,Monday,06:00,07:00,no,ninguno,294,muy alto
+Av. de la Marina,2025-05-03,Monday,07:00,08:00,no,ninguno,155,regular
+Av. de la Marina,2025-05-03,Monday,08:00,09:00,no,ninguno,120,regular
+Av. de la Marina,2025-05-03,Monday,09:00,10:00,no,ninguno,169,regular
+Av. de la Marina,2025-05-03,Monday,10:00,11:00,no,ninguno,122,regular
+Av. de la Marina,2025-05-03,Monday,11:00,12:00,no,ninguno,104,bajo
+Av. de la Marina,2025-05-03,Monday,12:00,13:00,no,ninguno,92,bajo
+Av. de la Marina,2025-05-03,Monday,13:00,14:00,no,ninguno,105,bajo
+Av. de la Marina,2025-05-03,Monday,14:00,15:00,no,ninguno,82,bajo
+Av. de la Marina,2025-05-03,Monday,15:00,16:00,no,ninguno,176,regular
+Av. de la Marina,2025-05-03,Monday,16:00,17:00,no,ninguno,157,regular
+Av. de la Marina,2025-05-03,Monday,17:00,18:00,no,ninguno,314,muy alto
+Av. de la Marina,2025-05-03,Monday,18:00,19:00,no,ninguno,309,muy alto
+Av. de la Marina,2025-05-03,Monday,19:00,20:00,no,ninguno,267,muy alto
+Av. de la Marina,2025-05-03,Monday,20:00,21:00,no,ninguno,143,regular
+Av. de la Marina,2025-05-03,Monday,21:00,22:00,no,ninguno,144,regular
+Av. de la Marina,2025-05-03,Monday,22:00,23:00,no,ninguno,66,bajo
+Av. de la Marina,2025-05-03,Monday,23:00,24:00,no,ninguno,87,bajo
+Av. Abancay,2025-05-03,Monday,00:00,01:00,no,ninguno,23,muy bajo
+Av. Abancay,2025-05-03,Monday,01:00,02:00,no,ninguno,75,bajo
+Av. Abancay,2025-05-03,Monday,02:00,03:00,no,ninguno,40,muy bajo
+Av. Abancay,2025-05-03,Monday,03:00,04:00,no,ninguno,71,bajo
+Av. Abancay,2025-05-03,Monday,04:00,05:00,no,ninguno,70,bajo
+Av. Abancay,2025-05-03,Monday,05:00,06:00,no,ninguno,191,alto
+Av. Abancay,2025-05-03,Monday,06:00,07:00,no,ninguno,276,muy alto
+Av. Abancay,2025-05-03,Monday,07:00,08:00,no,ninguno,290,muy alto
+Av. Abancay,2025-05-03,Monday,08:00,09:00,no,ninguno,137,regular
+Av. Abancay,2025-05-03,Monday,09:00,10:00,no,ninguno,181,alto
+Av. Abancay,2025-05-03,Monday,10:00,11:00,no,ninguno,126,regular
+Av. Abancay,2025-05-03,Monday,11:00,12:00,no,ninguno,103,bajo
+Av. Abancay,2025-05-03,Monday,12:00,13:00,no,ninguno,100,bajo
+Av. Abancay,2025-05-03,Monday,13:00,14:00,no,ninguno,100,bajo
+Av. Abancay,2025-05-03,Monday,14:00,15:00,no,ninguno,125,regular
+Av. Abancay,2025-05-03,Monday,15:00,16:00,no,ninguno,148,regular
+Av. Abancay,2025-05-03,Monday,16:00,17:00,no,ninguno,136,regular
+Av. Abancay,2025-05-03,Monday,17:00,18:00,no,ninguno,305,muy alto
+Av. Abancay,2025-05-03,Monday,18:00,19:00,no,ninguno,333,muy alto
+Av. Abancay,2025-05-03,Monday,19:00,20:00,no,ninguno,259,muy alto
+Av. Abancay,2025-05-03,Monday,20:00,21:00,no,ninguno,139,regular
+Av. Abancay,2025-05-03,Monday,21:00,22:00,no,ninguno,136,regular
+Av. Abancay,2025-05-03,Monday,22:00,23:00,no,ninguno,64,bajo
+Av. Abancay,2025-05-03,Monday,23:00,24:00,no,ninguno,83,bajo
+Av. Mexico,2025-05-03,Monday,00:00,01:00,no,ninguno,86,bajo
+Av. Mexico,2025-05-03,Monday,01:00,02:00,no,ninguno,40,muy bajo
+Av. Mexico,2025-05-03,Monday,02:00,03:00,no,ninguno,20,muy bajo
+Av. Mexico,2025-05-03,Monday,03:00,04:00,no,ninguno,43,muy bajo
+Av. Mexico,2025-05-03,Monday,04:00,05:00,no,ninguno,60,bajo
+Av. Mexico,2025-05-03,Monday,05:00,06:00,no,ninguno,162,regular
+Av. Mexico,2025-05-03,Monday,06:00,07:00,no,ninguno,289,muy alto
+Av. Mexico,2025-05-03,Monday,07:00,08:00,no,ninguno,265,muy alto
+Av. Mexico,2025-05-03,Monday,08:00,09:00,no,ninguno,199,alto
+Av. Mexico,2025-05-03,Monday,09:00,10:00,no,ninguno,148,regular
+Av. Mexico,2025-05-03,Monday,10:00,11:00,no,ninguno,132,regular
+Av. Mexico,2025-05-03,Monday,11:00,12:00,no,ninguno,116,bajo
+Av. Mexico,2025-05-03,Monday,12:00,13:00,no,ninguno,81,bajo
+Av. Mexico,2025-05-03,Monday,13:00,14:00,no,ninguno,144,regular
+Av. Mexico,2025-05-03,Monday,14:00,15:00,no,ninguno,137,regular
+Av. Mexico,2025-05-03,Monday,15:00,16:00,no,ninguno,142,regular
+Av. Mexico,2025-05-03,Monday,16:00,17:00,no,ninguno,165,regular
+Av. Mexico,2025-05-03,Monday,17:00,18:00,no,ninguno,340,muy alto
+Av. Mexico,2025-05-03,Monday,18:00,19:00,no,ninguno,322,muy alto
+Av. Mexico,2025-05-03,Monday,19:00,20:00,no,ninguno,263,muy alto
+Av. Mexico,2025-05-03,Monday,20:00,21:00,no,ninguno,169,regular
+Av. Mexico,2025-05-03,Monday,21:00,22:00,no,ninguno,122,regular
+Av. Mexico,2025-05-03,Monday,22:00,23:00,no,ninguno,79,bajo
+Av. Mexico,2025-05-03,Monday,23:00,24:00,no,ninguno,75,bajo
+Av. Argentina,2025-05-03,Monday,00:00,01:00,no,ninguno,25,muy bajo
+Av. Argentina,2025-05-03,Monday,01:00,02:00,no,ninguno,66,bajo
+Av. Argentina,2025-05-03,Monday,02:00,03:00,no,ninguno,29,muy bajo
+Av. Argentina,2025-05-03,Monday,03:00,04:00,no,ninguno,68,bajo
+Av. Argentina,2025-05-03,Monday,04:00,05:00,no,ninguno,77,bajo
+Av. Argentina,2025-05-03,Monday,05:00,06:00,no,ninguno,191,alto
+Av. Argentina,2025-05-03,Monday,06:00,07:00,no,ninguno,244,alto
+Av. Argentina,2025-05-03,Monday,07:00,08:00,no,ninguno,244,alto
+Av. Argentina,2025-05-03,Monday,08:00,09:00,no,ninguno,179,regular
+Av. Argentina,2025-05-03,Monday,09:00,10:00,no,ninguno,128,regular
+Av. Argentina,2025-05-03,Monday,10:00,11:00,no,ninguno,121,regular
+Av. Argentina,2025-05-03,Monday,11:00,12:00,no,ninguno,84,bajo
+Av. Argentina,2025-05-03,Monday,12:00,13:00,no,ninguno,93,bajo
+Av. Argentina,2025-05-03,Monday,13:00,14:00,no,ninguno,134,regular
+Av. Argentina,2025-05-03,Monday,14:00,15:00,no,ninguno,148,regular
+Av. Argentina,2025-05-03,Monday,15:00,16:00,no,ninguno,137,regular
+Av. Argentina,2025-05-03,Monday,16:00,17:00,no,ninguno,158,regular
+Av. Argentina,2025-05-03,Monday,17:00,18:00,no,ninguno,256,muy alto
+Av. Argentina,2025-05-03,Monday,18:00,19:00,no,ninguno,219,alto
+Av. Argentina,2025-05-03,Monday,19:00,20:00,no,ninguno,271,muy alto
+Av. Argentina,2025-05-03,Monday,20:00,21:00,no,ninguno,161,regular
+Av. Argentina,2025-05-03,Monday,21:00,22:00,no,ninguno,136,regular
+Av. Argentina,2025-05-03,Monday,22:00,23:00,no,ninguno,40,muy bajo
+Av. Argentina,2025-05-03,Monday,23:00,24:00,no,ninguno,91,bajo
+Av. Venezuela,2025-05-03,Monday,00:00,01:00,no,ninguno,36,muy bajo
+Av. Venezuela,2025-05-03,Monday,01:00,02:00,no,ninguno,90,bajo
+Av. Venezuela,2025-05-03,Monday,02:00,03:00,no,ninguno,98,bajo
+Av. Venezuela,2025-05-03,Monday,03:00,04:00,no,ninguno,66,bajo
+Av. Venezuela,2025-05-03,Monday,04:00,05:00,no,ninguno,75,bajo
+Av. Venezuela,2025-05-03,Monday,05:00,06:00,no,ninguno,158,regular
+Av. Venezuela,2025-05-03,Monday,06:00,07:00,no,ninguno,293,muy alto
+Av. Venezuela,2025-05-03,Monday,07:00,08:00,no,ninguno,294,muy alto
+Av. Venezuela,2025-05-03,Monday,08:00,09:00,no,ninguno,107,bajo
+Av. Venezuela,2025-05-03,Monday,09:00,10:00,no,ninguno,181,alto
+Av. Venezuela,2025-05-03,Monday,10:00,11:00,no,ninguno,127,regular
+Av. Venezuela,2025-05-03,Monday,11:00,12:00,no,ninguno,115,bajo
+Av. Venezuela,2025-05-03,Monday,12:00,13:00,no,ninguno,128,regular
+Av. Venezuela,2025-05-03,Monday,13:00,14:00,no,ninguno,115,bajo
+Av. Venezuela,2025-05-03,Monday,14:00,15:00,no,ninguno,124,regular
+Av. Venezuela,2025-05-03,Monday,15:00,16:00,no,ninguno,193,alto
+Av. Venezuela,2025-05-03,Monday,16:00,17:00,no,ninguno,210,alto
+Av. Venezuela,2025-05-03,Monday,17:00,18:00,no,ninguno,325,muy alto
+Av. Venezuela,2025-05-03,Monday,18:00,19:00,no,ninguno,221,alto
+Av. Venezuela,2025-05-03,Monday,19:00,20:00,no,ninguno,220,alto
+Av. Venezuela,2025-05-03,Monday,20:00,21:00,no,ninguno,162,regular
+Av. Venezuela,2025-05-03,Monday,21:00,22:00,no,ninguno,169,regular
+Av. Venezuela,2025-05-03,Monday,22:00,23:00,no,ninguno,62,bajo
+Av. Venezuela,2025-05-03,Monday,23:00,24:00,no,ninguno,40,muy bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,00:00,01:00,no,Concierto,22,muy bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,01:00,02:00,no,Concierto,64,bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,02:00,03:00,no,Concierto,63,bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,03:00,04:00,no,Concierto,43,muy bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,04:00,05:00,no,Concierto,41,muy bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,05:00,06:00,no,Concierto,150,regular
+Av. Paseo de la Republica,2025-05-04,Tuesday,06:00,07:00,no,Concierto,198,alto
+Av. Paseo de la Republica,2025-05-04,Tuesday,07:00,08:00,no,Concierto,235,alto
+Av. Paseo de la Republica,2025-05-04,Tuesday,08:00,09:00,no,Concierto,179,regular
+Av. Paseo de la Republica,2025-05-04,Tuesday,09:00,10:00,no,Concierto,179,regular
+Av. Paseo de la Republica,2025-05-04,Tuesday,10:00,11:00,no,Concierto,132,regular
+Av. Paseo de la Republica,2025-05-04,Tuesday,11:00,12:00,no,Concierto,85,bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,12:00,13:00,no,Concierto,99,bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,13:00,14:00,no,Concierto,87,bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,14:00,15:00,no,Concierto,140,regular
+Av. Paseo de la Republica,2025-05-04,Tuesday,15:00,16:00,no,Concierto,205,alto
+Av. Paseo de la Republica,2025-05-04,Tuesday,16:00,17:00,no,Concierto,221,alto
+Av. Paseo de la Republica,2025-05-04,Tuesday,17:00,18:00,no,Concierto,259,muy alto
+Av. Paseo de la Republica,2025-05-04,Tuesday,18:00,19:00,no,Concierto,279,muy alto
+Av. Paseo de la Republica,2025-05-04,Tuesday,19:00,20:00,no,Concierto,328,muy alto
+Av. Paseo de la Republica,2025-05-04,Tuesday,20:00,21:00,no,Concierto,143,regular
+Av. Paseo de la Republica,2025-05-04,Tuesday,21:00,22:00,no,Concierto,160,regular
+Av. Paseo de la Republica,2025-05-04,Tuesday,22:00,23:00,no,Concierto,88,bajo
+Av. Paseo de la Republica,2025-05-04,Tuesday,23:00,24:00,no,Concierto,90,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,00:00,01:00,no,Concierto,91,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,01:00,02:00,no,Concierto,53,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,02:00,03:00,no,Concierto,54,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,03:00,04:00,no,Concierto,75,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,04:00,05:00,no,Concierto,33,muy bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,05:00,06:00,no,Concierto,233,alto
+Av. Alfredo Benavides,2025-05-04,Tuesday,06:00,07:00,no,Concierto,165,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,07:00,08:00,no,Concierto,233,alto
+Av. Alfredo Benavides,2025-05-04,Tuesday,08:00,09:00,no,Concierto,188,alto
+Av. Alfredo Benavides,2025-05-04,Tuesday,09:00,10:00,no,Concierto,144,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,10:00,11:00,no,Concierto,110,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,11:00,12:00,no,Concierto,125,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,12:00,13:00,no,Concierto,135,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,13:00,14:00,no,Concierto,126,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,14:00,15:00,no,Concierto,98,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,15:00,16:00,no,Concierto,142,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,16:00,17:00,no,Concierto,139,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,17:00,18:00,no,Concierto,299,muy alto
+Av. Alfredo Benavides,2025-05-04,Tuesday,18:00,19:00,no,Concierto,283,muy alto
+Av. Alfredo Benavides,2025-05-04,Tuesday,19:00,20:00,no,Concierto,208,alto
+Av. Alfredo Benavides,2025-05-04,Tuesday,20:00,21:00,no,Concierto,152,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,21:00,22:00,no,Concierto,151,regular
+Av. Alfredo Benavides,2025-05-04,Tuesday,22:00,23:00,no,Concierto,92,bajo
+Av. Alfredo Benavides,2025-05-04,Tuesday,23:00,24:00,no,Concierto,46,muy bajo
+Av. Universitaria,2025-05-04,Tuesday,00:00,01:00,no,Concierto,83,bajo
+Av. Universitaria,2025-05-04,Tuesday,01:00,02:00,no,Concierto,88,bajo
+Av. Universitaria,2025-05-04,Tuesday,02:00,03:00,no,Concierto,54,bajo
+Av. Universitaria,2025-05-04,Tuesday,03:00,04:00,no,Concierto,47,muy bajo
+Av. Universitaria,2025-05-04,Tuesday,04:00,05:00,no,Concierto,41,muy bajo
+Av. Universitaria,2025-05-04,Tuesday,05:00,06:00,no,Concierto,155,regular
+Av. Universitaria,2025-05-04,Tuesday,06:00,07:00,no,Concierto,271,muy alto
+Av. Universitaria,2025-05-04,Tuesday,07:00,08:00,no,Concierto,203,alto
+Av. Universitaria,2025-05-04,Tuesday,08:00,09:00,no,Concierto,114,bajo
+Av. Universitaria,2025-05-04,Tuesday,09:00,10:00,no,Concierto,109,bajo
+Av. Universitaria,2025-05-04,Tuesday,10:00,11:00,no,Concierto,115,bajo
+Av. Universitaria,2025-05-04,Tuesday,11:00,12:00,no,Concierto,103,bajo
+Av. Universitaria,2025-05-04,Tuesday,12:00,13:00,no,Concierto,135,regular
+Av. Universitaria,2025-05-04,Tuesday,13:00,14:00,no,Concierto,112,bajo
+Av. Universitaria,2025-05-04,Tuesday,14:00,15:00,no,Concierto,95,bajo
+Av. Universitaria,2025-05-04,Tuesday,15:00,16:00,no,Concierto,245,alto
+Av. Universitaria,2025-05-04,Tuesday,16:00,17:00,no,Concierto,168,regular
+Av. Universitaria,2025-05-04,Tuesday,17:00,18:00,no,Concierto,203,alto
+Av. Universitaria,2025-05-04,Tuesday,18:00,19:00,no,Concierto,311,muy alto
+Av. Universitaria,2025-05-04,Tuesday,19:00,20:00,no,Concierto,305,muy alto
+Av. Universitaria,2025-05-04,Tuesday,20:00,21:00,no,Concierto,155,regular
+Av. Universitaria,2025-05-04,Tuesday,21:00,22:00,no,Concierto,179,regular
+Av. Universitaria,2025-05-04,Tuesday,22:00,23:00,no,Concierto,96,bajo
+Av. Universitaria,2025-05-04,Tuesday,23:00,24:00,no,Concierto,59,bajo
+Av. de la Marina,2025-05-04,Tuesday,00:00,01:00,no,Concierto,26,muy bajo
+Av. de la Marina,2025-05-04,Tuesday,01:00,02:00,no,Concierto,74,bajo
+Av. de la Marina,2025-05-04,Tuesday,02:00,03:00,no,Concierto,74,bajo
+Av. de la Marina,2025-05-04,Tuesday,03:00,04:00,no,Concierto,36,muy bajo
+Av. de la Marina,2025-05-04,Tuesday,04:00,05:00,no,Concierto,28,muy bajo
+Av. de la Marina,2025-05-04,Tuesday,05:00,06:00,no,Concierto,186,alto
+Av. de la Marina,2025-05-04,Tuesday,06:00,07:00,no,Concierto,257,muy alto
+Av. de la Marina,2025-05-04,Tuesday,07:00,08:00,no,Concierto,244,alto
+Av. de la Marina,2025-05-04,Tuesday,08:00,09:00,no,Concierto,115,bajo
+Av. de la Marina,2025-05-04,Tuesday,09:00,10:00,no,Concierto,190,alto
+Av. de la Marina,2025-05-04,Tuesday,10:00,11:00,no,Concierto,138,regular
+Av. de la Marina,2025-05-04,Tuesday,11:00,12:00,no,Concierto,148,regular
+Av. de la Marina,2025-05-04,Tuesday,12:00,13:00,no,Concierto,115,bajo
+Av. de la Marina,2025-05-04,Tuesday,13:00,14:00,no,Concierto,105,bajo
+Av. de la Marina,2025-05-04,Tuesday,14:00,15:00,no,Concierto,82,bajo
+Av. de la Marina,2025-05-04,Tuesday,15:00,16:00,no,Concierto,121,regular
+Av. de la Marina,2025-05-04,Tuesday,16:00,17:00,no,Concierto,151,regular
+Av. de la Marina,2025-05-04,Tuesday,17:00,18:00,no,Concierto,336,muy alto
+Av. de la Marina,2025-05-04,Tuesday,18:00,19:00,no,Concierto,241,alto
+Av. de la Marina,2025-05-04,Tuesday,19:00,20:00,no,Concierto,316,muy alto
+Av. de la Marina,2025-05-04,Tuesday,20:00,21:00,no,Concierto,137,regular
+Av. de la Marina,2025-05-04,Tuesday,21:00,22:00,no,Concierto,172,regular
+Av. de la Marina,2025-05-04,Tuesday,22:00,23:00,no,Concierto,98,bajo
+Av. de la Marina,2025-05-04,Tuesday,23:00,24:00,no,Concierto,75,bajo
+Av. Abancay,2025-05-04,Tuesday,00:00,01:00,no,Concierto,76,bajo
+Av. Abancay,2025-05-04,Tuesday,01:00,02:00,no,Concierto,50,bajo
+Av. Abancay,2025-05-04,Tuesday,02:00,03:00,no,Concierto,97,bajo
+Av. Abancay,2025-05-04,Tuesday,03:00,04:00,no,Concierto,97,bajo
+Av. Abancay,2025-05-04,Tuesday,04:00,05:00,no,Concierto,69,bajo
+Av. Abancay,2025-05-04,Tuesday,05:00,06:00,no,Concierto,267,muy alto
+Av. Abancay,2025-05-04,Tuesday,06:00,07:00,no,Concierto,286,muy alto
+Av. Abancay,2025-05-04,Tuesday,07:00,08:00,no,Concierto,222,alto
+Av. Abancay,2025-05-04,Tuesday,08:00,09:00,no,Concierto,122,regular
+Av. Abancay,2025-05-04,Tuesday,09:00,10:00,no,Concierto,139,regular
+Av. Abancay,2025-05-04,Tuesday,10:00,11:00,no,Concierto,119,bajo
+Av. Abancay,2025-05-04,Tuesday,11:00,12:00,no,Concierto,83,bajo
+Av. Abancay,2025-05-04,Tuesday,12:00,13:00,no,Concierto,104,bajo
+Av. Abancay,2025-05-04,Tuesday,13:00,14:00,no,Concierto,105,bajo
+Av. Abancay,2025-05-04,Tuesday,14:00,15:00,no,Concierto,102,bajo
+Av. Abancay,2025-05-04,Tuesday,15:00,16:00,no,Concierto,189,alto
+Av. Abancay,2025-05-04,Tuesday,16:00,17:00,no,Concierto,139,regular
+Av. Abancay,2025-05-04,Tuesday,17:00,18:00,no,Concierto,204,alto
+Av. Abancay,2025-05-04,Tuesday,18:00,19:00,no,Concierto,240,alto
+Av. Abancay,2025-05-04,Tuesday,19:00,20:00,no,Concierto,258,muy alto
+Av. Abancay,2025-05-04,Tuesday,20:00,21:00,no,Concierto,141,regular
+Av. Abancay,2025-05-04,Tuesday,21:00,22:00,no,Concierto,129,regular
+Av. Abancay,2025-05-04,Tuesday,22:00,23:00,no,Concierto,77,bajo
+Av. Abancay,2025-05-04,Tuesday,23:00,24:00,no,Concierto,78,bajo
+Av. Mexico,2025-05-04,Tuesday,00:00,01:00,no,Concierto,76,bajo
+Av. Mexico,2025-05-04,Tuesday,01:00,02:00,no,Concierto,41,muy bajo
+Av. Mexico,2025-05-04,Tuesday,02:00,03:00,no,Concierto,70,bajo
+Av. Mexico,2025-05-04,Tuesday,03:00,04:00,no,Concierto,41,muy bajo
+Av. Mexico,2025-05-04,Tuesday,04:00,05:00,no,Concierto,39,muy bajo
+Av. Mexico,2025-05-04,Tuesday,05:00,06:00,no,Concierto,272,muy alto
+Av. Mexico,2025-05-04,Tuesday,06:00,07:00,no,Concierto,220,alto
+Av. Mexico,2025-05-04,Tuesday,07:00,08:00,no,Concierto,153,regular
+Av. Mexico,2025-05-04,Tuesday,08:00,09:00,no,Concierto,152,regular
+Av. Mexico,2025-05-04,Tuesday,09:00,10:00,no,Concierto,184,alto
+Av. Mexico,2025-05-04,Tuesday,10:00,11:00,no,Concierto,115,bajo
+Av. Mexico,2025-05-04,Tuesday,11:00,12:00,no,Concierto,120,regular
+Av. Mexico,2025-05-04,Tuesday,12:00,13:00,no,Concierto,87,bajo
+Av. Mexico,2025-05-04,Tuesday,13:00,14:00,no,Concierto,134,regular
+Av. Mexico,2025-05-04,Tuesday,14:00,15:00,no,Concierto,126,regular
+Av. Mexico,2025-05-04,Tuesday,15:00,16:00,no,Concierto,153,regular
+Av. Mexico,2025-05-04,Tuesday,16:00,17:00,no,Concierto,201,alto
+Av. Mexico,2025-05-04,Tuesday,17:00,18:00,no,Concierto,301,muy alto
+Av. Mexico,2025-05-04,Tuesday,18:00,19:00,no,Concierto,300,muy alto
+Av. Mexico,2025-05-04,Tuesday,19:00,20:00,no,Concierto,268,muy alto
+Av. Mexico,2025-05-04,Tuesday,20:00,21:00,no,Concierto,111,bajo
+Av. Mexico,2025-05-04,Tuesday,21:00,22:00,no,Concierto,114,bajo
+Av. Mexico,2025-05-04,Tuesday,22:00,23:00,no,Concierto,93,bajo
+Av. Mexico,2025-05-04,Tuesday,23:00,24:00,no,Concierto,64,bajo
+Av. Argentina,2025-05-04,Tuesday,00:00,01:00,no,Concierto,58,bajo
+Av. Argentina,2025-05-04,Tuesday,01:00,02:00,no,Concierto,34,muy bajo
+Av. Argentina,2025-05-04,Tuesday,02:00,03:00,no,Concierto,27,muy bajo
+Av. Argentina,2025-05-04,Tuesday,03:00,04:00,no,Concierto,23,muy bajo
+Av. Argentina,2025-05-04,Tuesday,04:00,05:00,no,Concierto,83,bajo
+Av. Argentina,2025-05-04,Tuesday,05:00,06:00,no,Concierto,266,muy alto
+Av. Argentina,2025-05-04,Tuesday,06:00,07:00,no,Concierto,181,alto
+Av. Argentina,2025-05-04,Tuesday,07:00,08:00,no,Concierto,204,alto
+Av. Argentina,2025-05-04,Tuesday,08:00,09:00,no,Concierto,147,regular
+Av. Argentina,2025-05-04,Tuesday,09:00,10:00,no,Concierto,103,bajo
+Av. Argentina,2025-05-04,Tuesday,10:00,11:00,no,Concierto,118,bajo
+Av. Argentina,2025-05-04,Tuesday,11:00,12:00,no,Concierto,98,bajo
+Av. Argentina,2025-05-04,Tuesday,12:00,13:00,no,Concierto,83,bajo
+Av. Argentina,2025-05-04,Tuesday,13:00,14:00,no,Concierto,100,bajo
+Av. Argentina,2025-05-04,Tuesday,14:00,15:00,no,Concierto,82,bajo
+Av. Argentina,2025-05-04,Tuesday,15:00,16:00,no,Concierto,175,regular
+Av. Argentina,2025-05-04,Tuesday,16:00,17:00,no,Concierto,199,alto
+Av. Argentina,2025-05-04,Tuesday,17:00,18:00,no,Concierto,263,muy alto
+Av. Argentina,2025-05-04,Tuesday,18:00,19:00,no,Concierto,224,alto
+Av. Argentina,2025-05-04,Tuesday,19:00,20:00,no,Concierto,261,muy alto
+Av. Argentina,2025-05-04,Tuesday,20:00,21:00,no,Concierto,152,regular
+Av. Argentina,2025-05-04,Tuesday,21:00,22:00,no,Concierto,113,bajo
+Av. Argentina,2025-05-04,Tuesday,22:00,23:00,no,Concierto,52,bajo
+Av. Argentina,2025-05-04,Tuesday,23:00,24:00,no,Concierto,67,bajo
+Av. Venezuela,2025-05-04,Tuesday,00:00,01:00,no,Concierto,78,bajo
+Av. Venezuela,2025-05-04,Tuesday,01:00,02:00,no,Concierto,91,bajo
+Av. Venezuela,2025-05-04,Tuesday,02:00,03:00,no,Concierto,89,bajo
+Av. Venezuela,2025-05-04,Tuesday,03:00,04:00,no,Concierto,99,bajo
+Av. Venezuela,2025-05-04,Tuesday,04:00,05:00,no,Concierto,25,muy bajo
+Av. Venezuela,2025-05-04,Tuesday,05:00,06:00,no,Concierto,296,muy alto
+Av. Venezuela,2025-05-04,Tuesday,06:00,07:00,no,Concierto,185,alto
+Av. Venezuela,2025-05-04,Tuesday,07:00,08:00,no,Concierto,278,muy alto
+Av. Venezuela,2025-05-04,Tuesday,08:00,09:00,no,Concierto,192,alto
+Av. Venezuela,2025-05-04,Tuesday,09:00,10:00,no,Concierto,136,regular
+Av. Venezuela,2025-05-04,Tuesday,10:00,11:00,no,Concierto,148,regular
+Av. Venezuela,2025-05-04,Tuesday,11:00,12:00,no,Concierto,138,regular
+Av. Venezuela,2025-05-04,Tuesday,12:00,13:00,no,Concierto,82,bajo
+Av. Venezuela,2025-05-04,Tuesday,13:00,14:00,no,Concierto,126,regular
+Av. Venezuela,2025-05-04,Tuesday,14:00,15:00,no,Concierto,112,bajo
+Av. Venezuela,2025-05-04,Tuesday,15:00,16:00,no,Concierto,238,alto
+Av. Venezuela,2025-05-04,Tuesday,16:00,17:00,no,Concierto,150,regular
+Av. Venezuela,2025-05-04,Tuesday,17:00,18:00,no,Concierto,204,alto
+Av. Venezuela,2025-05-04,Tuesday,18:00,19:00,no,Concierto,321,muy alto
+Av. Venezuela,2025-05-04,Tuesday,19:00,20:00,no,Concierto,286,muy alto
+Av. Venezuela,2025-05-04,Tuesday,20:00,21:00,no,Concierto,136,regular
+Av. Venezuela,2025-05-04,Tuesday,21:00,22:00,no,Concierto,152,regular
+Av. Venezuela,2025-05-04,Tuesday,22:00,23:00,no,Concierto,60,bajo
+Av. Venezuela,2025-05-04,Tuesday,23:00,24:00,no,Concierto,48,muy bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,00:00,01:00,no,Desfile,83,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,01:00,02:00,no,Desfile,86,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,02:00,03:00,no,Desfile,66,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,03:00,04:00,no,Desfile,40,muy bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,04:00,05:00,no,Desfile,89,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,05:00,06:00,no,Desfile,159,regular
+Av. Paseo de la Republica,2025-05-05,Wednesday,06:00,07:00,no,Desfile,224,alto
+Av. Paseo de la Republica,2025-05-05,Wednesday,07:00,08:00,no,Desfile,285,muy alto
+Av. Paseo de la Republica,2025-05-05,Wednesday,08:00,09:00,no,Desfile,152,regular
+Av. Paseo de la Republica,2025-05-05,Wednesday,09:00,10:00,no,Desfile,142,regular
+Av. Paseo de la Republica,2025-05-05,Wednesday,10:00,11:00,no,Desfile,144,regular
+Av. Paseo de la Republica,2025-05-05,Wednesday,11:00,12:00,no,Desfile,130,regular
+Av. Paseo de la Republica,2025-05-05,Wednesday,12:00,13:00,no,Desfile,95,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,13:00,14:00,no,Desfile,93,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,14:00,15:00,no,Desfile,118,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,15:00,16:00,no,Desfile,225,alto
+Av. Paseo de la Republica,2025-05-05,Wednesday,16:00,17:00,no,Desfile,206,alto
+Av. Paseo de la Republica,2025-05-05,Wednesday,17:00,18:00,no,Desfile,319,muy alto
+Av. Paseo de la Republica,2025-05-05,Wednesday,18:00,19:00,no,Desfile,222,alto
+Av. Paseo de la Republica,2025-05-05,Wednesday,19:00,20:00,no,Desfile,246,alto
+Av. Paseo de la Republica,2025-05-05,Wednesday,20:00,21:00,no,Desfile,135,regular
+Av. Paseo de la Republica,2025-05-05,Wednesday,21:00,22:00,no,Desfile,138,regular
+Av. Paseo de la Republica,2025-05-05,Wednesday,22:00,23:00,no,Desfile,96,bajo
+Av. Paseo de la Republica,2025-05-05,Wednesday,23:00,24:00,no,Desfile,78,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,00:00,01:00,no,Desfile,53,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,01:00,02:00,no,Desfile,64,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,02:00,03:00,no,Desfile,83,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,03:00,04:00,no,Desfile,20,muy bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,04:00,05:00,no,Desfile,87,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,05:00,06:00,no,Desfile,294,muy alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,06:00,07:00,no,Desfile,216,alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,07:00,08:00,no,Desfile,295,muy alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,08:00,09:00,no,Desfile,194,alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,09:00,10:00,no,Desfile,165,regular
+Av. Alfredo Benavides,2025-05-05,Wednesday,10:00,11:00,no,Desfile,142,regular
+Av. Alfredo Benavides,2025-05-05,Wednesday,11:00,12:00,no,Desfile,122,regular
+Av. Alfredo Benavides,2025-05-05,Wednesday,12:00,13:00,no,Desfile,102,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,13:00,14:00,no,Desfile,84,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,14:00,15:00,no,Desfile,97,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,15:00,16:00,no,Desfile,158,regular
+Av. Alfredo Benavides,2025-05-05,Wednesday,16:00,17:00,no,Desfile,239,alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,17:00,18:00,no,Desfile,277,muy alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,18:00,19:00,no,Desfile,256,muy alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,19:00,20:00,no,Desfile,273,muy alto
+Av. Alfredo Benavides,2025-05-05,Wednesday,20:00,21:00,no,Desfile,124,regular
+Av. Alfredo Benavides,2025-05-05,Wednesday,21:00,22:00,no,Desfile,173,regular
+Av. Alfredo Benavides,2025-05-05,Wednesday,22:00,23:00,no,Desfile,54,bajo
+Av. Alfredo Benavides,2025-05-05,Wednesday,23:00,24:00,no,Desfile,83,bajo
+Av. Universitaria,2025-05-05,Wednesday,00:00,01:00,no,Desfile,20,muy bajo
+Av. Universitaria,2025-05-05,Wednesday,01:00,02:00,no,Desfile,48,muy bajo
+Av. Universitaria,2025-05-05,Wednesday,02:00,03:00,no,Desfile,72,bajo
+Av. Universitaria,2025-05-05,Wednesday,03:00,04:00,no,Desfile,63,bajo
+Av. Universitaria,2025-05-05,Wednesday,04:00,05:00,no,Desfile,40,muy bajo
+Av. Universitaria,2025-05-05,Wednesday,05:00,06:00,no,Desfile,271,muy alto
+Av. Universitaria,2025-05-05,Wednesday,06:00,07:00,no,Desfile,220,alto
+Av. Universitaria,2025-05-05,Wednesday,07:00,08:00,no,Desfile,278,muy alto
+Av. Universitaria,2025-05-05,Wednesday,08:00,09:00,no,Desfile,150,regular
+Av. Universitaria,2025-05-05,Wednesday,09:00,10:00,no,Desfile,171,regular
+Av. Universitaria,2025-05-05,Wednesday,10:00,11:00,no,Desfile,131,regular
+Av. Universitaria,2025-05-05,Wednesday,11:00,12:00,no,Desfile,145,regular
+Av. Universitaria,2025-05-05,Wednesday,12:00,13:00,no,Desfile,92,bajo
+Av. Universitaria,2025-05-05,Wednesday,13:00,14:00,no,Desfile,149,regular
+Av. Universitaria,2025-05-05,Wednesday,14:00,15:00,no,Desfile,102,bajo
+Av. Universitaria,2025-05-05,Wednesday,15:00,16:00,no,Desfile,120,regular
+Av. Universitaria,2025-05-05,Wednesday,16:00,17:00,no,Desfile,137,regular
+Av. Universitaria,2025-05-05,Wednesday,17:00,18:00,no,Desfile,278,muy alto
+Av. Universitaria,2025-05-05,Wednesday,18:00,19:00,no,Desfile,299,muy alto
+Av. Universitaria,2025-05-05,Wednesday,19:00,20:00,no,Desfile,202,alto
+Av. Universitaria,2025-05-05,Wednesday,20:00,21:00,no,Desfile,102,bajo
+Av. Universitaria,2025-05-05,Wednesday,21:00,22:00,no,Desfile,160,regular
+Av. Universitaria,2025-05-05,Wednesday,22:00,23:00,no,Desfile,64,bajo
+Av. Universitaria,2025-05-05,Wednesday,23:00,24:00,no,Desfile,58,bajo
+Av. de la Marina,2025-05-05,Wednesday,00:00,01:00,no,Desfile,50,bajo
+Av. de la Marina,2025-05-05,Wednesday,01:00,02:00,no,Desfile,73,bajo
+Av. de la Marina,2025-05-05,Wednesday,02:00,03:00,no,Desfile,77,bajo
+Av. de la Marina,2025-05-05,Wednesday,03:00,04:00,no,Desfile,92,bajo
+Av. de la Marina,2025-05-05,Wednesday,04:00,05:00,no,Desfile,80,bajo
+Av. de la Marina,2025-05-05,Wednesday,05:00,06:00,no,Desfile,237,alto
+Av. de la Marina,2025-05-05,Wednesday,06:00,07:00,no,Desfile,169,regular
+Av. de la Marina,2025-05-05,Wednesday,07:00,08:00,no,Desfile,192,alto
+Av. de la Marina,2025-05-05,Wednesday,08:00,09:00,no,Desfile,169,regular
+Av. de la Marina,2025-05-05,Wednesday,09:00,10:00,no,Desfile,172,regular
+Av. de la Marina,2025-05-05,Wednesday,10:00,11:00,no,Desfile,110,bajo
+Av. de la Marina,2025-05-05,Wednesday,11:00,12:00,no,Desfile,106,bajo
+Av. de la Marina,2025-05-05,Wednesday,12:00,13:00,no,Desfile,85,bajo
+Av. de la Marina,2025-05-05,Wednesday,13:00,14:00,no,Desfile,143,regular
+Av. de la Marina,2025-05-05,Wednesday,14:00,15:00,no,Desfile,111,bajo
+Av. de la Marina,2025-05-05,Wednesday,15:00,16:00,no,Desfile,175,regular
+Av. de la Marina,2025-05-05,Wednesday,16:00,17:00,no,Desfile,134,regular
+Av. de la Marina,2025-05-05,Wednesday,17:00,18:00,no,Desfile,220,alto
+Av. de la Marina,2025-05-05,Wednesday,18:00,19:00,no,Desfile,347,muy alto
+Av. de la Marina,2025-05-05,Wednesday,19:00,20:00,no,Desfile,249,alto
+Av. de la Marina,2025-05-05,Wednesday,20:00,21:00,no,Desfile,146,regular
+Av. de la Marina,2025-05-05,Wednesday,21:00,22:00,no,Desfile,108,bajo
+Av. de la Marina,2025-05-05,Wednesday,22:00,23:00,no,Desfile,70,bajo
+Av. de la Marina,2025-05-05,Wednesday,23:00,24:00,no,Desfile,98,bajo
+Av. Abancay,2025-05-05,Wednesday,00:00,01:00,no,Desfile,55,bajo
+Av. Abancay,2025-05-05,Wednesday,01:00,02:00,no,Desfile,66,bajo
+Av. Abancay,2025-05-05,Wednesday,02:00,03:00,no,Desfile,77,bajo
+Av. Abancay,2025-05-05,Wednesday,03:00,04:00,no,Desfile,49,muy bajo
+Av. Abancay,2025-05-05,Wednesday,04:00,05:00,no,Desfile,50,bajo
+Av. Abancay,2025-05-05,Wednesday,05:00,06:00,no,Desfile,275,muy alto
+Av. Abancay,2025-05-05,Wednesday,06:00,07:00,no,Desfile,230,alto
+Av. Abancay,2025-05-05,Wednesday,07:00,08:00,no,Desfile,247,alto
+Av. Abancay,2025-05-05,Wednesday,08:00,09:00,no,Desfile,131,regular
+Av. Abancay,2025-05-05,Wednesday,09:00,10:00,no,Desfile,165,regular
+Av. Abancay,2025-05-05,Wednesday,10:00,11:00,no,Desfile,100,bajo
+Av. Abancay,2025-05-05,Wednesday,11:00,12:00,no,Desfile,127,regular
+Av. Abancay,2025-05-05,Wednesday,12:00,13:00,no,Desfile,138,regular
+Av. Abancay,2025-05-05,Wednesday,13:00,14:00,no,Desfile,146,regular
+Av. Abancay,2025-05-05,Wednesday,14:00,15:00,no,Desfile,94,bajo
+Av. Abancay,2025-05-05,Wednesday,15:00,16:00,no,Desfile,247,alto
+Av. Abancay,2025-05-05,Wednesday,16:00,17:00,no,Desfile,138,regular
+Av. Abancay,2025-05-05,Wednesday,17:00,18:00,no,Desfile,268,muy alto
+Av. Abancay,2025-05-05,Wednesday,18:00,19:00,no,Desfile,200,alto
+Av. Abancay,2025-05-05,Wednesday,19:00,20:00,no,Desfile,206,alto
+Av. Abancay,2025-05-05,Wednesday,20:00,21:00,no,Desfile,124,regular
+Av. Abancay,2025-05-05,Wednesday,21:00,22:00,no,Desfile,149,regular
+Av. Abancay,2025-05-05,Wednesday,22:00,23:00,no,Desfile,69,bajo
+Av. Abancay,2025-05-05,Wednesday,23:00,24:00,no,Desfile,45,muy bajo
+Av. Mexico,2025-05-05,Wednesday,00:00,01:00,no,Desfile,37,muy bajo
+Av. Mexico,2025-05-05,Wednesday,01:00,02:00,no,Desfile,98,bajo
+Av. Mexico,2025-05-05,Wednesday,02:00,03:00,no,Desfile,56,bajo
+Av. Mexico,2025-05-05,Wednesday,03:00,04:00,no,Desfile,75,bajo
+Av. Mexico,2025-05-05,Wednesday,04:00,05:00,no,Desfile,49,muy bajo
+Av. Mexico,2025-05-05,Wednesday,05:00,06:00,no,Desfile,199,alto
+Av. Mexico,2025-05-05,Wednesday,06:00,07:00,no,Desfile,209,alto
+Av. Mexico,2025-05-05,Wednesday,07:00,08:00,no,Desfile,238,alto
+Av. Mexico,2025-05-05,Wednesday,08:00,09:00,no,Desfile,136,regular
+Av. Mexico,2025-05-05,Wednesday,09:00,10:00,no,Desfile,110,bajo
+Av. Mexico,2025-05-05,Wednesday,10:00,11:00,no,Desfile,82,bajo
+Av. Mexico,2025-05-05,Wednesday,11:00,12:00,no,Desfile,106,bajo
+Av. Mexico,2025-05-05,Wednesday,12:00,13:00,no,Desfile,137,regular
+Av. Mexico,2025-05-05,Wednesday,13:00,14:00,no,Desfile,143,regular
+Av. Mexico,2025-05-05,Wednesday,14:00,15:00,no,Desfile,96,bajo
+Av. Mexico,2025-05-05,Wednesday,15:00,16:00,no,Desfile,244,alto
+Av. Mexico,2025-05-05,Wednesday,16:00,17:00,no,Desfile,225,alto
+Av. Mexico,2025-05-05,Wednesday,17:00,18:00,no,Desfile,266,muy alto
+Av. Mexico,2025-05-05,Wednesday,18:00,19:00,no,Desfile,211,alto
+Av. Mexico,2025-05-05,Wednesday,19:00,20:00,no,Desfile,283,muy alto
+Av. Mexico,2025-05-05,Wednesday,20:00,21:00,no,Desfile,142,regular
+Av. Mexico,2025-05-05,Wednesday,21:00,22:00,no,Desfile,125,regular
+Av. Mexico,2025-05-05,Wednesday,22:00,23:00,no,Desfile,77,bajo
+Av. Mexico,2025-05-05,Wednesday,23:00,24:00,no,Desfile,90,bajo
+Av. Argentina,2025-05-05,Wednesday,00:00,01:00,no,Desfile,44,muy bajo
+Av. Argentina,2025-05-05,Wednesday,01:00,02:00,no,Desfile,86,bajo
+Av. Argentina,2025-05-05,Wednesday,02:00,03:00,no,Desfile,73,bajo
+Av. Argentina,2025-05-05,Wednesday,03:00,04:00,no,Desfile,78,bajo
+Av. Argentina,2025-05-05,Wednesday,04:00,05:00,no,Desfile,47,muy bajo
+Av. Argentina,2025-05-05,Wednesday,05:00,06:00,no,Desfile,175,regular
+Av. Argentina,2025-05-05,Wednesday,06:00,07:00,no,Desfile,260,muy alto
+Av. Argentina,2025-05-05,Wednesday,07:00,08:00,no,Desfile,285,muy alto
+Av. Argentina,2025-05-05,Wednesday,08:00,09:00,no,Desfile,115,bajo
+Av. Argentina,2025-05-05,Wednesday,09:00,10:00,no,Desfile,143,regular
+Av. Argentina,2025-05-05,Wednesday,10:00,11:00,no,Desfile,101,bajo
+Av. Argentina,2025-05-05,Wednesday,11:00,12:00,no,Desfile,126,regular
+Av. Argentina,2025-05-05,Wednesday,12:00,13:00,no,Desfile,138,regular
+Av. Argentina,2025-05-05,Wednesday,13:00,14:00,no,Desfile,104,bajo
+Av. Argentina,2025-05-05,Wednesday,14:00,15:00,no,Desfile,114,bajo
+Av. Argentina,2025-05-05,Wednesday,15:00,16:00,no,Desfile,227,alto
+Av. Argentina,2025-05-05,Wednesday,16:00,17:00,no,Desfile,244,alto
+Av. Argentina,2025-05-05,Wednesday,17:00,18:00,no,Desfile,319,muy alto
+Av. Argentina,2025-05-05,Wednesday,18:00,19:00,no,Desfile,290,muy alto
+Av. Argentina,2025-05-05,Wednesday,19:00,20:00,no,Desfile,306,muy alto
+Av. Argentina,2025-05-05,Wednesday,20:00,21:00,no,Desfile,116,bajo
+Av. Argentina,2025-05-05,Wednesday,21:00,22:00,no,Desfile,135,regular
+Av. Argentina,2025-05-05,Wednesday,22:00,23:00,no,Desfile,91,bajo
+Av. Argentina,2025-05-05,Wednesday,23:00,24:00,no,Desfile,93,bajo
+Av. Venezuela,2025-05-05,Wednesday,00:00,01:00,no,Desfile,43,muy bajo
+Av. Venezuela,2025-05-05,Wednesday,01:00,02:00,no,Desfile,94,bajo
+Av. Venezuela,2025-05-05,Wednesday,02:00,03:00,no,Desfile,52,bajo
+Av. Venezuela,2025-05-05,Wednesday,03:00,04:00,no,Desfile,35,muy bajo
+Av. Venezuela,2025-05-05,Wednesday,04:00,05:00,no,Desfile,76,bajo
+Av. Venezuela,2025-05-05,Wednesday,05:00,06:00,no,Desfile,180,alto
+Av. Venezuela,2025-05-05,Wednesday,06:00,07:00,no,Desfile,281,muy alto
+Av. Venezuela,2025-05-05,Wednesday,07:00,08:00,no,Desfile,245,alto
+Av. Venezuela,2025-05-05,Wednesday,08:00,09:00,no,Desfile,194,alto
+Av. Venezuela,2025-05-05,Wednesday,09:00,10:00,no,Desfile,152,regular
+Av. Venezuela,2025-05-05,Wednesday,10:00,11:00,no,Desfile,96,bajo
+Av. Venezuela,2025-05-05,Wednesday,11:00,12:00,no,Desfile,95,bajo
+Av. Venezuela,2025-05-05,Wednesday,12:00,13:00,no,Desfile,128,regular
+Av. Venezuela,2025-05-05,Wednesday,13:00,14:00,no,Desfile,101,bajo
+Av. Venezuela,2025-05-05,Wednesday,14:00,15:00,no,Desfile,118,bajo
+Av. Venezuela,2025-05-05,Wednesday,15:00,16:00,no,Desfile,194,alto
+Av. Venezuela,2025-05-05,Wednesday,16:00,17:00,no,Desfile,155,regular
+Av. Venezuela,2025-05-05,Wednesday,17:00,18:00,no,Desfile,253,muy alto
+Av. Venezuela,2025-05-05,Wednesday,18:00,19:00,no,Desfile,241,alto
+Av. Venezuela,2025-05-05,Wednesday,19:00,20:00,no,Desfile,202,alto
+Av. Venezuela,2025-05-05,Wednesday,20:00,21:00,no,Desfile,136,regular
+Av. Venezuela,2025-05-05,Wednesday,21:00,22:00,no,Desfile,155,regular
+Av. Venezuela,2025-05-05,Wednesday,22:00,23:00,no,Desfile,58,bajo
+Av. Venezuela,2025-05-05,Wednesday,23:00,24:00,no,Desfile,84,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,45,muy bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,59,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,82,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,24,muy bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,40,muy bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,277,muy alto
+Av. Paseo de la Republica,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,209,alto
+Av. Paseo de la Republica,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,249,alto
+Av. Paseo de la Republica,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,101,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,180,alto
+Av. Paseo de la Republica,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,95,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,126,regular
+Av. Paseo de la Republica,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,111,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,85,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,104,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,186,alto
+Av. Paseo de la Republica,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,228,alto
+Av. Paseo de la Republica,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,295,muy alto
+Av. Paseo de la Republica,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,321,muy alto
+Av. Paseo de la Republica,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,339,muy alto
+Av. Paseo de la Republica,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,163,regular
+Av. Paseo de la Republica,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,170,regular
+Av. Paseo de la Republica,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,66,bajo
+Av. Paseo de la Republica,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,44,muy bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,22,muy bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,55,bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,94,bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,42,muy bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,85,bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,239,alto
+Av. Alfredo Benavides,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,231,alto
+Av. Alfredo Benavides,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,208,alto
+Av. Alfredo Benavides,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,138,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,124,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,131,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,148,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,87,bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,145,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,97,bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,233,alto
+Av. Alfredo Benavides,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,143,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,255,muy alto
+Av. Alfredo Benavides,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,328,muy alto
+Av. Alfredo Benavides,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,232,alto
+Av. Alfredo Benavides,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,172,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,152,regular
+Av. Alfredo Benavides,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,63,bajo
+Av. Alfredo Benavides,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,76,bajo
+Av. Universitaria,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,25,muy bajo
+Av. Universitaria,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,51,bajo
+Av. Universitaria,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,59,bajo
+Av. Universitaria,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,28,muy bajo
+Av. Universitaria,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,84,bajo
+Av. Universitaria,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,217,alto
+Av. Universitaria,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,228,alto
+Av. Universitaria,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,265,muy alto
+Av. Universitaria,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,138,regular
+Av. Universitaria,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,171,regular
+Av. Universitaria,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,112,bajo
+Av. Universitaria,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,95,bajo
+Av. Universitaria,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,120,regular
+Av. Universitaria,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,131,regular
+Av. Universitaria,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,92,bajo
+Av. Universitaria,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,221,alto
+Av. Universitaria,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,227,alto
+Av. Universitaria,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,274,muy alto
+Av. Universitaria,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,247,alto
+Av. Universitaria,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,331,muy alto
+Av. Universitaria,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,164,regular
+Av. Universitaria,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,121,regular
+Av. Universitaria,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,78,bajo
+Av. Universitaria,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,87,bajo
+Av. de la Marina,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,85,bajo
+Av. de la Marina,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,52,bajo
+Av. de la Marina,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,85,bajo
+Av. de la Marina,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,78,bajo
+Av. de la Marina,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,85,bajo
+Av. de la Marina,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,155,regular
+Av. de la Marina,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,250,muy alto
+Av. de la Marina,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,240,alto
+Av. de la Marina,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,196,alto
+Av. de la Marina,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,149,regular
+Av. de la Marina,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,121,regular
+Av. de la Marina,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,146,regular
+Av. de la Marina,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,116,bajo
+Av. de la Marina,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,115,bajo
+Av. de la Marina,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,142,regular
+Av. de la Marina,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,122,regular
+Av. de la Marina,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,136,regular
+Av. de la Marina,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,325,muy alto
+Av. de la Marina,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,218,alto
+Av. de la Marina,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,325,muy alto
+Av. de la Marina,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,164,regular
+Av. de la Marina,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,112,bajo
+Av. de la Marina,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,98,bajo
+Av. de la Marina,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,90,bajo
+Av. Abancay,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,85,bajo
+Av. Abancay,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,80,bajo
+Av. Abancay,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,84,bajo
+Av. Abancay,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,33,muy bajo
+Av. Abancay,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,46,muy bajo
+Av. Abancay,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,196,alto
+Av. Abancay,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,187,alto
+Av. Abancay,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,295,muy alto
+Av. Abancay,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,150,regular
+Av. Abancay,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,160,regular
+Av. Abancay,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,97,bajo
+Av. Abancay,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,101,bajo
+Av. Abancay,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,93,bajo
+Av. Abancay,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,148,regular
+Av. Abancay,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,82,bajo
+Av. Abancay,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,194,alto
+Av. Abancay,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,120,regular
+Av. Abancay,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,257,muy alto
+Av. Abancay,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,287,muy alto
+Av. Abancay,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,273,muy alto
+Av. Abancay,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,125,regular
+Av. Abancay,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,146,regular
+Av. Abancay,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,42,muy bajo
+Av. Abancay,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,74,bajo
+Av. Mexico,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,49,muy bajo
+Av. Mexico,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,90,bajo
+Av. Mexico,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,97,bajo
+Av. Mexico,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,66,bajo
+Av. Mexico,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,94,bajo
+Av. Mexico,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,200,alto
+Av. Mexico,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,197,alto
+Av. Mexico,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,189,alto
+Av. Mexico,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,129,regular
+Av. Mexico,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,103,bajo
+Av. Mexico,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,92,bajo
+Av. Mexico,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,88,bajo
+Av. Mexico,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,86,bajo
+Av. Mexico,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,107,bajo
+Av. Mexico,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,116,bajo
+Av. Mexico,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,143,regular
+Av. Mexico,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,169,regular
+Av. Mexico,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,256,muy alto
+Av. Mexico,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,205,alto
+Av. Mexico,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,228,alto
+Av. Mexico,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,162,regular
+Av. Mexico,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,174,regular
+Av. Mexico,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,72,bajo
+Av. Mexico,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,55,bajo
+Av. Argentina,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,74,bajo
+Av. Argentina,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,47,muy bajo
+Av. Argentina,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,23,muy bajo
+Av. Argentina,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,98,bajo
+Av. Argentina,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,84,bajo
+Av. Argentina,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,253,muy alto
+Av. Argentina,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,217,alto
+Av. Argentina,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,200,alto
+Av. Argentina,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,185,alto
+Av. Argentina,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,121,regular
+Av. Argentina,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,95,bajo
+Av. Argentina,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,80,bajo
+Av. Argentina,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,123,regular
+Av. Argentina,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,142,regular
+Av. Argentina,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,132,regular
+Av. Argentina,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,200,alto
+Av. Argentina,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,243,alto
+Av. Argentina,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,343,muy alto
+Av. Argentina,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,264,muy alto
+Av. Argentina,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,220,alto
+Av. Argentina,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,151,regular
+Av. Argentina,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,153,regular
+Av. Argentina,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,56,bajo
+Av. Argentina,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,56,bajo
+Av. Venezuela,2025-05-06,Thursday,00:00,01:00,no,Partido de futbol,78,bajo
+Av. Venezuela,2025-05-06,Thursday,01:00,02:00,no,Partido de futbol,48,muy bajo
+Av. Venezuela,2025-05-06,Thursday,02:00,03:00,no,Partido de futbol,23,muy bajo
+Av. Venezuela,2025-05-06,Thursday,03:00,04:00,no,Partido de futbol,39,muy bajo
+Av. Venezuela,2025-05-06,Thursday,04:00,05:00,no,Partido de futbol,92,bajo
+Av. Venezuela,2025-05-06,Thursday,05:00,06:00,no,Partido de futbol,189,alto
+Av. Venezuela,2025-05-06,Thursday,06:00,07:00,no,Partido de futbol,253,muy alto
+Av. Venezuela,2025-05-06,Thursday,07:00,08:00,no,Partido de futbol,210,alto
+Av. Venezuela,2025-05-06,Thursday,08:00,09:00,no,Partido de futbol,199,alto
+Av. Venezuela,2025-05-06,Thursday,09:00,10:00,no,Partido de futbol,124,regular
+Av. Venezuela,2025-05-06,Thursday,10:00,11:00,no,Partido de futbol,85,bajo
+Av. Venezuela,2025-05-06,Thursday,11:00,12:00,no,Partido de futbol,133,regular
+Av. Venezuela,2025-05-06,Thursday,12:00,13:00,no,Partido de futbol,86,bajo
+Av. Venezuela,2025-05-06,Thursday,13:00,14:00,no,Partido de futbol,125,regular
+Av. Venezuela,2025-05-06,Thursday,14:00,15:00,no,Partido de futbol,132,regular
+Av. Venezuela,2025-05-06,Thursday,15:00,16:00,no,Partido de futbol,196,alto
+Av. Venezuela,2025-05-06,Thursday,16:00,17:00,no,Partido de futbol,210,alto
+Av. Venezuela,2025-05-06,Thursday,17:00,18:00,no,Partido de futbol,323,muy alto
+Av. Venezuela,2025-05-06,Thursday,18:00,19:00,no,Partido de futbol,285,muy alto
+Av. Venezuela,2025-05-06,Thursday,19:00,20:00,no,Partido de futbol,311,muy alto
+Av. Venezuela,2025-05-06,Thursday,20:00,21:00,no,Partido de futbol,176,regular
+Av. Venezuela,2025-05-06,Thursday,21:00,22:00,no,Partido de futbol,147,regular
+Av. Venezuela,2025-05-06,Thursday,22:00,23:00,no,Partido de futbol,48,muy bajo
+Av. Venezuela,2025-05-06,Thursday,23:00,24:00,no,Partido de futbol,77,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,00:00,01:00,si,ninguno,78,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,01:00,02:00,si,ninguno,69,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,02:00,03:00,si,ninguno,74,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,03:00,04:00,si,ninguno,47,muy bajo
+Av. Paseo de la Republica,2025-05-07,Friday,04:00,05:00,si,ninguno,37,muy bajo
+Av. Paseo de la Republica,2025-05-07,Friday,05:00,06:00,si,ninguno,251,muy alto
+Av. Paseo de la Republica,2025-05-07,Friday,06:00,07:00,si,ninguno,174,regular
+Av. Paseo de la Republica,2025-05-07,Friday,07:00,08:00,si,ninguno,293,muy alto
+Av. Paseo de la Republica,2025-05-07,Friday,08:00,09:00,si,ninguno,148,regular
+Av. Paseo de la Republica,2025-05-07,Friday,09:00,10:00,si,ninguno,122,regular
+Av. Paseo de la Republica,2025-05-07,Friday,10:00,11:00,si,ninguno,102,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,11:00,12:00,si,ninguno,92,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,12:00,13:00,si,ninguno,96,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,13:00,14:00,si,ninguno,111,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,14:00,15:00,si,ninguno,92,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,15:00,16:00,si,ninguno,136,regular
+Av. Paseo de la Republica,2025-05-07,Friday,16:00,17:00,si,ninguno,191,alto
+Av. Paseo de la Republica,2025-05-07,Friday,17:00,18:00,si,ninguno,324,muy alto
+Av. Paseo de la Republica,2025-05-07,Friday,18:00,19:00,si,ninguno,303,muy alto
+Av. Paseo de la Republica,2025-05-07,Friday,19:00,20:00,si,ninguno,330,muy alto
+Av. Paseo de la Republica,2025-05-07,Friday,20:00,21:00,si,ninguno,105,bajo
+Av. Paseo de la Republica,2025-05-07,Friday,21:00,22:00,si,ninguno,136,regular
+Av. Paseo de la Republica,2025-05-07,Friday,22:00,23:00,si,ninguno,44,muy bajo
+Av. Paseo de la Republica,2025-05-07,Friday,23:00,24:00,si,ninguno,49,muy bajo
+Av. Alfredo Benavides,2025-05-07,Friday,00:00,01:00,si,ninguno,96,bajo
+Av. Alfredo Benavides,2025-05-07,Friday,01:00,02:00,si,ninguno,56,bajo
+Av. Alfredo Benavides,2025-05-07,Friday,02:00,03:00,si,ninguno,81,bajo
+Av. Alfredo Benavides,2025-05-07,Friday,03:00,04:00,si,ninguno,48,muy bajo
+Av. Alfredo Benavides,2025-05-07,Friday,04:00,05:00,si,ninguno,38,muy bajo
+Av. Alfredo Benavides,2025-05-07,Friday,05:00,06:00,si,ninguno,235,alto
+Av. Alfredo Benavides,2025-05-07,Friday,06:00,07:00,si,ninguno,174,regular
+Av. Alfredo Benavides,2025-05-07,Friday,07:00,08:00,si,ninguno,177,regular
+Av. Alfredo Benavides,2025-05-07,Friday,08:00,09:00,si,ninguno,170,regular
+Av. Alfredo Benavides,2025-05-07,Friday,09:00,10:00,si,ninguno,127,regular
+Av. Alfredo Benavides,2025-05-07,Friday,10:00,11:00,si,ninguno,136,regular
+Av. Alfredo Benavides,2025-05-07,Friday,11:00,12:00,si,ninguno,131,regular
+Av. Alfredo Benavides,2025-05-07,Friday,12:00,13:00,si,ninguno,136,regular
+Av. Alfredo Benavides,2025-05-07,Friday,13:00,14:00,si,ninguno,118,bajo
+Av. Alfredo Benavides,2025-05-07,Friday,14:00,15:00,si,ninguno,135,regular
+Av. Alfredo Benavides,2025-05-07,Friday,15:00,16:00,si,ninguno,189,alto
+Av. Alfredo Benavides,2025-05-07,Friday,16:00,17:00,si,ninguno,157,regular
+Av. Alfredo Benavides,2025-05-07,Friday,17:00,18:00,si,ninguno,277,muy alto
+Av. Alfredo Benavides,2025-05-07,Friday,18:00,19:00,si,ninguno,281,muy alto
+Av. Alfredo Benavides,2025-05-07,Friday,19:00,20:00,si,ninguno,214,alto
+Av. Alfredo Benavides,2025-05-07,Friday,20:00,21:00,si,ninguno,157,regular
+Av. Alfredo Benavides,2025-05-07,Friday,21:00,22:00,si,ninguno,120,regular
+Av. Alfredo Benavides,2025-05-07,Friday,22:00,23:00,si,ninguno,63,bajo
+Av. Alfredo Benavides,2025-05-07,Friday,23:00,24:00,si,ninguno,76,bajo
+Av. Universitaria,2025-05-07,Friday,00:00,01:00,si,ninguno,30,muy bajo
+Av. Universitaria,2025-05-07,Friday,01:00,02:00,si,ninguno,59,bajo
+Av. Universitaria,2025-05-07,Friday,02:00,03:00,si,ninguno,60,bajo
+Av. Universitaria,2025-05-07,Friday,03:00,04:00,si,ninguno,56,bajo
+Av. Universitaria,2025-05-07,Friday,04:00,05:00,si,ninguno,97,bajo
+Av. Universitaria,2025-05-07,Friday,05:00,06:00,si,ninguno,194,alto
+Av. Universitaria,2025-05-07,Friday,06:00,07:00,si,ninguno,276,muy alto
+Av. Universitaria,2025-05-07,Friday,07:00,08:00,si,ninguno,239,alto
+Av. Universitaria,2025-05-07,Friday,08:00,09:00,si,ninguno,161,regular
+Av. Universitaria,2025-05-07,Friday,09:00,10:00,si,ninguno,138,regular
+Av. Universitaria,2025-05-07,Friday,10:00,11:00,si,ninguno,117,bajo
+Av. Universitaria,2025-05-07,Friday,11:00,12:00,si,ninguno,134,regular
+Av. Universitaria,2025-05-07,Friday,12:00,13:00,si,ninguno,101,bajo
+Av. Universitaria,2025-05-07,Friday,13:00,14:00,si,ninguno,94,bajo
+Av. Universitaria,2025-05-07,Friday,14:00,15:00,si,ninguno,141,regular
+Av. Universitaria,2025-05-07,Friday,15:00,16:00,si,ninguno,155,regular
+Av. Universitaria,2025-05-07,Friday,16:00,17:00,si,ninguno,162,regular
+Av. Universitaria,2025-05-07,Friday,17:00,18:00,si,ninguno,213,alto
+Av. Universitaria,2025-05-07,Friday,18:00,19:00,si,ninguno,315,muy alto
+Av. Universitaria,2025-05-07,Friday,19:00,20:00,si,ninguno,344,muy alto
+Av. Universitaria,2025-05-07,Friday,20:00,21:00,si,ninguno,152,regular
+Av. Universitaria,2025-05-07,Friday,21:00,22:00,si,ninguno,140,regular
+Av. Universitaria,2025-05-07,Friday,22:00,23:00,si,ninguno,96,bajo
+Av. Universitaria,2025-05-07,Friday,23:00,24:00,si,ninguno,96,bajo
+Av. de la Marina,2025-05-07,Friday,00:00,01:00,si,ninguno,27,muy bajo
+Av. de la Marina,2025-05-07,Friday,01:00,02:00,si,ninguno,84,bajo
+Av. de la Marina,2025-05-07,Friday,02:00,03:00,si,ninguno,89,bajo
+Av. de la Marina,2025-05-07,Friday,03:00,04:00,si,ninguno,93,bajo
+Av. de la Marina,2025-05-07,Friday,04:00,05:00,si,ninguno,34,muy bajo
+Av. de la Marina,2025-05-07,Friday,05:00,06:00,si,ninguno,241,alto
+Av. de la Marina,2025-05-07,Friday,06:00,07:00,si,ninguno,282,muy alto
+Av. de la Marina,2025-05-07,Friday,07:00,08:00,si,ninguno,248,alto
+Av. de la Marina,2025-05-07,Friday,08:00,09:00,si,ninguno,152,regular
+Av. de la Marina,2025-05-07,Friday,09:00,10:00,si,ninguno,100,bajo
+Av. de la Marina,2025-05-07,Friday,10:00,11:00,si,ninguno,120,regular
+Av. de la Marina,2025-05-07,Friday,11:00,12:00,si,ninguno,98,bajo
+Av. de la Marina,2025-05-07,Friday,12:00,13:00,si,ninguno,94,bajo
+Av. de la Marina,2025-05-07,Friday,13:00,14:00,si,ninguno,116,bajo
+Av. de la Marina,2025-05-07,Friday,14:00,15:00,si,ninguno,83,bajo
+Av. de la Marina,2025-05-07,Friday,15:00,16:00,si,ninguno,243,alto
+Av. de la Marina,2025-05-07,Friday,16:00,17:00,si,ninguno,209,alto
+Av. de la Marina,2025-05-07,Friday,17:00,18:00,si,ninguno,301,muy alto
+Av. de la Marina,2025-05-07,Friday,18:00,19:00,si,ninguno,332,muy alto
+Av. de la Marina,2025-05-07,Friday,19:00,20:00,si,ninguno,323,muy alto
+Av. de la Marina,2025-05-07,Friday,20:00,21:00,si,ninguno,157,regular
+Av. de la Marina,2025-05-07,Friday,21:00,22:00,si,ninguno,124,regular
+Av. de la Marina,2025-05-07,Friday,22:00,23:00,si,ninguno,69,bajo
+Av. de la Marina,2025-05-07,Friday,23:00,24:00,si,ninguno,45,muy bajo
+Av. Abancay,2025-05-07,Friday,00:00,01:00,si,ninguno,27,muy bajo
+Av. Abancay,2025-05-07,Friday,01:00,02:00,si,ninguno,45,muy bajo
+Av. Abancay,2025-05-07,Friday,02:00,03:00,si,ninguno,23,muy bajo
+Av. Abancay,2025-05-07,Friday,03:00,04:00,si,ninguno,58,bajo
+Av. Abancay,2025-05-07,Friday,04:00,05:00,si,ninguno,90,bajo
+Av. Abancay,2025-05-07,Friday,05:00,06:00,si,ninguno,296,muy alto
+Av. Abancay,2025-05-07,Friday,06:00,07:00,si,ninguno,172,regular
+Av. Abancay,2025-05-07,Friday,07:00,08:00,si,ninguno,248,alto
+Av. Abancay,2025-05-07,Friday,08:00,09:00,si,ninguno,173,regular
+Av. Abancay,2025-05-07,Friday,09:00,10:00,si,ninguno,195,alto
+Av. Abancay,2025-05-07,Friday,10:00,11:00,si,ninguno,116,bajo
+Av. Abancay,2025-05-07,Friday,11:00,12:00,si,ninguno,115,bajo
+Av. Abancay,2025-05-07,Friday,12:00,13:00,si,ninguno,81,bajo
+Av. Abancay,2025-05-07,Friday,13:00,14:00,si,ninguno,101,bajo
+Av. Abancay,2025-05-07,Friday,14:00,15:00,si,ninguno,105,bajo
+Av. Abancay,2025-05-07,Friday,15:00,16:00,si,ninguno,208,alto
+Av. Abancay,2025-05-07,Friday,16:00,17:00,si,ninguno,161,regular
+Av. Abancay,2025-05-07,Friday,17:00,18:00,si,ninguno,230,alto
+Av. Abancay,2025-05-07,Friday,18:00,19:00,si,ninguno,237,alto
+Av. Abancay,2025-05-07,Friday,19:00,20:00,si,ninguno,319,muy alto
+Av. Abancay,2025-05-07,Friday,20:00,21:00,si,ninguno,174,regular
+Av. Abancay,2025-05-07,Friday,21:00,22:00,si,ninguno,152,regular
+Av. Abancay,2025-05-07,Friday,22:00,23:00,si,ninguno,40,muy bajo
+Av. Abancay,2025-05-07,Friday,23:00,24:00,si,ninguno,44,muy bajo
+Av. Mexico,2025-05-07,Friday,00:00,01:00,si,ninguno,37,muy bajo
+Av. Mexico,2025-05-07,Friday,01:00,02:00,si,ninguno,30,muy bajo
+Av. Mexico,2025-05-07,Friday,02:00,03:00,si,ninguno,53,bajo
+Av. Mexico,2025-05-07,Friday,03:00,04:00,si,ninguno,76,bajo
+Av. Mexico,2025-05-07,Friday,04:00,05:00,si,ninguno,28,muy bajo
+Av. Mexico,2025-05-07,Friday,05:00,06:00,si,ninguno,161,regular
+Av. Mexico,2025-05-07,Friday,06:00,07:00,si,ninguno,222,alto
+Av. Mexico,2025-05-07,Friday,07:00,08:00,si,ninguno,199,alto
+Av. Mexico,2025-05-07,Friday,08:00,09:00,si,ninguno,123,regular
+Av. Mexico,2025-05-07,Friday,09:00,10:00,si,ninguno,119,bajo
+Av. Mexico,2025-05-07,Friday,10:00,11:00,si,ninguno,110,bajo
+Av. Mexico,2025-05-07,Friday,11:00,12:00,si,ninguno,94,bajo
+Av. Mexico,2025-05-07,Friday,12:00,13:00,si,ninguno,120,regular
+Av. Mexico,2025-05-07,Friday,13:00,14:00,si,ninguno,94,bajo
+Av. Mexico,2025-05-07,Friday,14:00,15:00,si,ninguno,113,bajo
+Av. Mexico,2025-05-07,Friday,15:00,16:00,si,ninguno,177,regular
+Av. Mexico,2025-05-07,Friday,16:00,17:00,si,ninguno,185,alto
+Av. Mexico,2025-05-07,Friday,17:00,18:00,si,ninguno,204,alto
+Av. Mexico,2025-05-07,Friday,18:00,19:00,si,ninguno,273,muy alto
+Av. Mexico,2025-05-07,Friday,19:00,20:00,si,ninguno,262,muy alto
+Av. Mexico,2025-05-07,Friday,20:00,21:00,si,ninguno,114,bajo
+Av. Mexico,2025-05-07,Friday,21:00,22:00,si,ninguno,176,regular
+Av. Mexico,2025-05-07,Friday,22:00,23:00,si,ninguno,99,bajo
+Av. Mexico,2025-05-07,Friday,23:00,24:00,si,ninguno,43,muy bajo
+Av. Argentina,2025-05-07,Friday,00:00,01:00,si,ninguno,28,muy bajo
+Av. Argentina,2025-05-07,Friday,01:00,02:00,si,ninguno,83,bajo
+Av. Argentina,2025-05-07,Friday,02:00,03:00,si,ninguno,99,bajo
+Av. Argentina,2025-05-07,Friday,03:00,04:00,si,ninguno,80,bajo
+Av. Argentina,2025-05-07,Friday,04:00,05:00,si,ninguno,46,muy bajo
+Av. Argentina,2025-05-07,Friday,05:00,06:00,si,ninguno,270,muy alto
+Av. Argentina,2025-05-07,Friday,06:00,07:00,si,ninguno,208,alto
+Av. Argentina,2025-05-07,Friday,07:00,08:00,si,ninguno,230,alto
+Av. Argentina,2025-05-07,Friday,08:00,09:00,si,ninguno,106,bajo
+Av. Argentina,2025-05-07,Friday,09:00,10:00,si,ninguno,153,regular
+Av. Argentina,2025-05-07,Friday,10:00,11:00,si,ninguno,123,regular
+Av. Argentina,2025-05-07,Friday,11:00,12:00,si,ninguno,105,bajo
+Av. Argentina,2025-05-07,Friday,12:00,13:00,si,ninguno,85,bajo
+Av. Argentina,2025-05-07,Friday,13:00,14:00,si,ninguno,111,bajo
+Av. Argentina,2025-05-07,Friday,14:00,15:00,si,ninguno,110,bajo
+Av. Argentina,2025-05-07,Friday,15:00,16:00,si,ninguno,124,regular
+Av. Argentina,2025-05-07,Friday,16:00,17:00,si,ninguno,136,regular
+Av. Argentina,2025-05-07,Friday,17:00,18:00,si,ninguno,247,alto
+Av. Argentina,2025-05-07,Friday,18:00,19:00,si,ninguno,302,muy alto
+Av. Argentina,2025-05-07,Friday,19:00,20:00,si,ninguno,303,muy alto
+Av. Argentina,2025-05-07,Friday,20:00,21:00,si,ninguno,152,regular
+Av. Argentina,2025-05-07,Friday,21:00,22:00,si,ninguno,163,regular
+Av. Argentina,2025-05-07,Friday,22:00,23:00,si,ninguno,46,muy bajo
+Av. Argentina,2025-05-07,Friday,23:00,24:00,si,ninguno,53,bajo
+Av. Venezuela,2025-05-07,Friday,00:00,01:00,si,ninguno,39,muy bajo
+Av. Venezuela,2025-05-07,Friday,01:00,02:00,si,ninguno,20,muy bajo
+Av. Venezuela,2025-05-07,Friday,02:00,03:00,si,ninguno,74,bajo
+Av. Venezuela,2025-05-07,Friday,03:00,04:00,si,ninguno,76,bajo
+Av. Venezuela,2025-05-07,Friday,04:00,05:00,si,ninguno,80,bajo
+Av. Venezuela,2025-05-07,Friday,05:00,06:00,si,ninguno,231,alto
+Av. Venezuela,2025-05-07,Friday,06:00,07:00,si,ninguno,238,alto
+Av. Venezuela,2025-05-07,Friday,07:00,08:00,si,ninguno,282,muy alto
+Av. Venezuela,2025-05-07,Friday,08:00,09:00,si,ninguno,173,regular
+Av. Venezuela,2025-05-07,Friday,09:00,10:00,si,ninguno,192,alto
+Av. Venezuela,2025-05-07,Friday,10:00,11:00,si,ninguno,89,bajo
+Av. Venezuela,2025-05-07,Friday,11:00,12:00,si,ninguno,90,bajo
+Av. Venezuela,2025-05-07,Friday,12:00,13:00,si,ninguno,147,regular
+Av. Venezuela,2025-05-07,Friday,13:00,14:00,si,ninguno,124,regular
+Av. Venezuela,2025-05-07,Friday,14:00,15:00,si,ninguno,117,bajo
+Av. Venezuela,2025-05-07,Friday,15:00,16:00,si,ninguno,180,alto
+Av. Venezuela,2025-05-07,Friday,16:00,17:00,si,ninguno,230,alto
+Av. Venezuela,2025-05-07,Friday,17:00,18:00,si,ninguno,237,alto
+Av. Venezuela,2025-05-07,Friday,18:00,19:00,si,ninguno,272,muy alto
+Av. Venezuela,2025-05-07,Friday,19:00,20:00,si,ninguno,299,muy alto
+Av. Venezuela,2025-05-07,Friday,20:00,21:00,si,ninguno,118,bajo
+Av. Venezuela,2025-05-07,Friday,21:00,22:00,si,ninguno,175,regular
+Av. Venezuela,2025-05-07,Friday,22:00,23:00,si,ninguno,96,bajo
+Av. Venezuela,2025-05-07,Friday,23:00,24:00,si,ninguno,49,muy bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,00:00,01:00,no,ninguno,56,bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,01:00,02:00,no,ninguno,45,muy bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,02:00,03:00,no,ninguno,67,bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,03:00,04:00,no,ninguno,98,bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,04:00,05:00,no,ninguno,73,bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,05:00,06:00,no,ninguno,225,alto
+Av. Paseo de la Republica,2025-05-08,Saturday,06:00,07:00,no,ninguno,232,alto
+Av. Paseo de la Republica,2025-05-08,Saturday,07:00,08:00,no,ninguno,248,alto
+Av. Paseo de la Republica,2025-05-08,Saturday,08:00,09:00,no,ninguno,166,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,09:00,10:00,no,ninguno,137,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,10:00,11:00,no,ninguno,149,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,11:00,12:00,no,ninguno,82,bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,12:00,13:00,no,ninguno,126,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,13:00,14:00,no,ninguno,114,bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,14:00,15:00,no,ninguno,147,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,15:00,16:00,no,ninguno,186,alto
+Av. Paseo de la Republica,2025-05-08,Saturday,16:00,17:00,no,ninguno,127,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,17:00,18:00,no,ninguno,329,muy alto
+Av. Paseo de la Republica,2025-05-08,Saturday,18:00,19:00,no,ninguno,277,muy alto
+Av. Paseo de la Republica,2025-05-08,Saturday,19:00,20:00,no,ninguno,218,alto
+Av. Paseo de la Republica,2025-05-08,Saturday,20:00,21:00,no,ninguno,123,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,21:00,22:00,no,ninguno,138,regular
+Av. Paseo de la Republica,2025-05-08,Saturday,22:00,23:00,no,ninguno,69,bajo
+Av. Paseo de la Republica,2025-05-08,Saturday,23:00,24:00,no,ninguno,92,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,00:00,01:00,no,ninguno,56,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,01:00,02:00,no,ninguno,91,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,02:00,03:00,no,ninguno,61,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,03:00,04:00,no,ninguno,77,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,04:00,05:00,no,ninguno,73,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,05:00,06:00,no,ninguno,270,muy alto
+Av. Alfredo Benavides,2025-05-08,Saturday,06:00,07:00,no,ninguno,191,alto
+Av. Alfredo Benavides,2025-05-08,Saturday,07:00,08:00,no,ninguno,167,regular
+Av. Alfredo Benavides,2025-05-08,Saturday,08:00,09:00,no,ninguno,163,regular
+Av. Alfredo Benavides,2025-05-08,Saturday,09:00,10:00,no,ninguno,185,alto
+Av. Alfredo Benavides,2025-05-08,Saturday,10:00,11:00,no,ninguno,149,regular
+Av. Alfredo Benavides,2025-05-08,Saturday,11:00,12:00,no,ninguno,107,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,12:00,13:00,no,ninguno,134,regular
+Av. Alfredo Benavides,2025-05-08,Saturday,13:00,14:00,no,ninguno,97,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,14:00,15:00,no,ninguno,87,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,15:00,16:00,no,ninguno,159,regular
+Av. Alfredo Benavides,2025-05-08,Saturday,16:00,17:00,no,ninguno,140,regular
+Av. Alfredo Benavides,2025-05-08,Saturday,17:00,18:00,no,ninguno,314,muy alto
+Av. Alfredo Benavides,2025-05-08,Saturday,18:00,19:00,no,ninguno,269,muy alto
+Av. Alfredo Benavides,2025-05-08,Saturday,19:00,20:00,no,ninguno,282,muy alto
+Av. Alfredo Benavides,2025-05-08,Saturday,20:00,21:00,no,ninguno,138,regular
+Av. Alfredo Benavides,2025-05-08,Saturday,21:00,22:00,no,ninguno,114,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,22:00,23:00,no,ninguno,83,bajo
+Av. Alfredo Benavides,2025-05-08,Saturday,23:00,24:00,no,ninguno,54,bajo
+Av. Universitaria,2025-05-08,Saturday,00:00,01:00,no,ninguno,56,bajo
+Av. Universitaria,2025-05-08,Saturday,01:00,02:00,no,ninguno,87,bajo
+Av. Universitaria,2025-05-08,Saturday,02:00,03:00,no,ninguno,96,bajo
+Av. Universitaria,2025-05-08,Saturday,03:00,04:00,no,ninguno,79,bajo
+Av. Universitaria,2025-05-08,Saturday,04:00,05:00,no,ninguno,87,bajo
+Av. Universitaria,2025-05-08,Saturday,05:00,06:00,no,ninguno,240,alto
+Av. Universitaria,2025-05-08,Saturday,06:00,07:00,no,ninguno,173,regular
+Av. Universitaria,2025-05-08,Saturday,07:00,08:00,no,ninguno,173,regular
+Av. Universitaria,2025-05-08,Saturday,08:00,09:00,no,ninguno,130,regular
+Av. Universitaria,2025-05-08,Saturday,09:00,10:00,no,ninguno,171,regular
+Av. Universitaria,2025-05-08,Saturday,10:00,11:00,no,ninguno,96,bajo
+Av. Universitaria,2025-05-08,Saturday,11:00,12:00,no,ninguno,103,bajo
+Av. Universitaria,2025-05-08,Saturday,12:00,13:00,no,ninguno,111,bajo
+Av. Universitaria,2025-05-08,Saturday,13:00,14:00,no,ninguno,146,regular
+Av. Universitaria,2025-05-08,Saturday,14:00,15:00,no,ninguno,91,bajo
+Av. Universitaria,2025-05-08,Saturday,15:00,16:00,no,ninguno,171,regular
+Av. Universitaria,2025-05-08,Saturday,16:00,17:00,no,ninguno,145,regular
+Av. Universitaria,2025-05-08,Saturday,17:00,18:00,no,ninguno,288,muy alto
+Av. Universitaria,2025-05-08,Saturday,18:00,19:00,no,ninguno,258,muy alto
+Av. Universitaria,2025-05-08,Saturday,19:00,20:00,no,ninguno,344,muy alto
+Av. Universitaria,2025-05-08,Saturday,20:00,21:00,no,ninguno,154,regular
+Av. Universitaria,2025-05-08,Saturday,21:00,22:00,no,ninguno,172,regular
+Av. Universitaria,2025-05-08,Saturday,22:00,23:00,no,ninguno,83,bajo
+Av. Universitaria,2025-05-08,Saturday,23:00,24:00,no,ninguno,43,muy bajo
+Av. de la Marina,2025-05-08,Saturday,00:00,01:00,no,ninguno,56,bajo
+Av. de la Marina,2025-05-08,Saturday,01:00,02:00,no,ninguno,25,muy bajo
+Av. de la Marina,2025-05-08,Saturday,02:00,03:00,no,ninguno,86,bajo
+Av. de la Marina,2025-05-08,Saturday,03:00,04:00,no,ninguno,61,bajo
+Av. de la Marina,2025-05-08,Saturday,04:00,05:00,no,ninguno,79,bajo
+Av. de la Marina,2025-05-08,Saturday,05:00,06:00,no,ninguno,184,alto
+Av. de la Marina,2025-05-08,Saturday,06:00,07:00,no,ninguno,291,muy alto
+Av. de la Marina,2025-05-08,Saturday,07:00,08:00,no,ninguno,227,alto
+Av. de la Marina,2025-05-08,Saturday,08:00,09:00,no,ninguno,138,regular
+Av. de la Marina,2025-05-08,Saturday,09:00,10:00,no,ninguno,178,regular
+Av. de la Marina,2025-05-08,Saturday,10:00,11:00,no,ninguno,81,bajo
+Av. de la Marina,2025-05-08,Saturday,11:00,12:00,no,ninguno,98,bajo
+Av. de la Marina,2025-05-08,Saturday,12:00,13:00,no,ninguno,107,bajo
+Av. de la Marina,2025-05-08,Saturday,13:00,14:00,no,ninguno,145,regular
+Av. de la Marina,2025-05-08,Saturday,14:00,15:00,no,ninguno,115,bajo
+Av. de la Marina,2025-05-08,Saturday,15:00,16:00,no,ninguno,244,alto
+Av. de la Marina,2025-05-08,Saturday,16:00,17:00,no,ninguno,147,regular
+Av. de la Marina,2025-05-08,Saturday,17:00,18:00,no,ninguno,297,muy alto
+Av. de la Marina,2025-05-08,Saturday,18:00,19:00,no,ninguno,281,muy alto
+Av. de la Marina,2025-05-08,Saturday,19:00,20:00,no,ninguno,266,muy alto
+Av. de la Marina,2025-05-08,Saturday,20:00,21:00,no,ninguno,158,regular
+Av. de la Marina,2025-05-08,Saturday,21:00,22:00,no,ninguno,139,regular
+Av. de la Marina,2025-05-08,Saturday,22:00,23:00,no,ninguno,55,bajo
+Av. de la Marina,2025-05-08,Saturday,23:00,24:00,no,ninguno,97,bajo
+Av. Abancay,2025-05-08,Saturday,00:00,01:00,no,ninguno,93,bajo
+Av. Abancay,2025-05-08,Saturday,01:00,02:00,no,ninguno,26,muy bajo
+Av. Abancay,2025-05-08,Saturday,02:00,03:00,no,ninguno,61,bajo
+Av. Abancay,2025-05-08,Saturday,03:00,04:00,no,ninguno,48,muy bajo
+Av. Abancay,2025-05-08,Saturday,04:00,05:00,no,ninguno,60,bajo
+Av. Abancay,2025-05-08,Saturday,05:00,06:00,no,ninguno,295,muy alto
+Av. Abancay,2025-05-08,Saturday,06:00,07:00,no,ninguno,263,muy alto
+Av. Abancay,2025-05-08,Saturday,07:00,08:00,no,ninguno,190,alto
+Av. Abancay,2025-05-08,Saturday,08:00,09:00,no,ninguno,109,bajo
+Av. Abancay,2025-05-08,Saturday,09:00,10:00,no,ninguno,126,regular
+Av. Abancay,2025-05-08,Saturday,10:00,11:00,no,ninguno,95,bajo
+Av. Abancay,2025-05-08,Saturday,11:00,12:00,no,ninguno,113,bajo
+Av. Abancay,2025-05-08,Saturday,12:00,13:00,no,ninguno,80,bajo
+Av. Abancay,2025-05-08,Saturday,13:00,14:00,no,ninguno,81,bajo
+Av. Abancay,2025-05-08,Saturday,14:00,15:00,no,ninguno,130,regular
+Av. Abancay,2025-05-08,Saturday,15:00,16:00,no,ninguno,127,regular
+Av. Abancay,2025-05-08,Saturday,16:00,17:00,no,ninguno,132,regular
+Av. Abancay,2025-05-08,Saturday,17:00,18:00,no,ninguno,299,muy alto
+Av. Abancay,2025-05-08,Saturday,18:00,19:00,no,ninguno,288,muy alto
+Av. Abancay,2025-05-08,Saturday,19:00,20:00,no,ninguno,203,alto
+Av. Abancay,2025-05-08,Saturday,20:00,21:00,no,ninguno,176,regular
+Av. Abancay,2025-05-08,Saturday,21:00,22:00,no,ninguno,149,regular
+Av. Abancay,2025-05-08,Saturday,22:00,23:00,no,ninguno,87,bajo
+Av. Abancay,2025-05-08,Saturday,23:00,24:00,no,ninguno,79,bajo
+Av. Mexico,2025-05-08,Saturday,00:00,01:00,no,ninguno,40,muy bajo
+Av. Mexico,2025-05-08,Saturday,01:00,02:00,no,ninguno,35,muy bajo
+Av. Mexico,2025-05-08,Saturday,02:00,03:00,no,ninguno,65,bajo
+Av. Mexico,2025-05-08,Saturday,03:00,04:00,no,ninguno,72,bajo
+Av. Mexico,2025-05-08,Saturday,04:00,05:00,no,ninguno,27,muy bajo
+Av. Mexico,2025-05-08,Saturday,05:00,06:00,no,ninguno,232,alto
+Av. Mexico,2025-05-08,Saturday,06:00,07:00,no,ninguno,231,alto
+Av. Mexico,2025-05-08,Saturday,07:00,08:00,no,ninguno,157,regular
+Av. Mexico,2025-05-08,Saturday,08:00,09:00,no,ninguno,117,bajo
+Av. Mexico,2025-05-08,Saturday,09:00,10:00,no,ninguno,112,bajo
+Av. Mexico,2025-05-08,Saturday,10:00,11:00,no,ninguno,140,regular
+Av. Mexico,2025-05-08,Saturday,11:00,12:00,no,ninguno,134,regular
+Av. Mexico,2025-05-08,Saturday,12:00,13:00,no,ninguno,149,regular
+Av. Mexico,2025-05-08,Saturday,13:00,14:00,no,ninguno,147,regular
+Av. Mexico,2025-05-08,Saturday,14:00,15:00,no,ninguno,129,regular
+Av. Mexico,2025-05-08,Saturday,15:00,16:00,no,ninguno,226,alto
+Av. Mexico,2025-05-08,Saturday,16:00,17:00,no,ninguno,226,alto
+Av. Mexico,2025-05-08,Saturday,17:00,18:00,no,ninguno,340,muy alto
+Av. Mexico,2025-05-08,Saturday,18:00,19:00,no,ninguno,223,alto
+Av. Mexico,2025-05-08,Saturday,19:00,20:00,no,ninguno,322,muy alto
+Av. Mexico,2025-05-08,Saturday,20:00,21:00,no,ninguno,131,regular
+Av. Mexico,2025-05-08,Saturday,21:00,22:00,no,ninguno,138,regular
+Av. Mexico,2025-05-08,Saturday,22:00,23:00,no,ninguno,80,bajo
+Av. Mexico,2025-05-08,Saturday,23:00,24:00,no,ninguno,51,bajo
+Av. Argentina,2025-05-08,Saturday,00:00,01:00,no,ninguno,23,muy bajo
+Av. Argentina,2025-05-08,Saturday,01:00,02:00,no,ninguno,99,bajo
+Av. Argentina,2025-05-08,Saturday,02:00,03:00,no,ninguno,82,bajo
+Av. Argentina,2025-05-08,Saturday,03:00,04:00,no,ninguno,47,muy bajo
+Av. Argentina,2025-05-08,Saturday,04:00,05:00,no,ninguno,55,bajo
+Av. Argentina,2025-05-08,Saturday,05:00,06:00,no,ninguno,230,alto
+Av. Argentina,2025-05-08,Saturday,06:00,07:00,no,ninguno,164,regular
+Av. Argentina,2025-05-08,Saturday,07:00,08:00,no,ninguno,264,muy alto
+Av. Argentina,2025-05-08,Saturday,08:00,09:00,no,ninguno,165,regular
+Av. Argentina,2025-05-08,Saturday,09:00,10:00,no,ninguno,188,alto
+Av. Argentina,2025-05-08,Saturday,10:00,11:00,no,ninguno,139,regular
+Av. Argentina,2025-05-08,Saturday,11:00,12:00,no,ninguno,104,bajo
+Av. Argentina,2025-05-08,Saturday,12:00,13:00,no,ninguno,81,bajo
+Av. Argentina,2025-05-08,Saturday,13:00,14:00,no,ninguno,124,regular
+Av. Argentina,2025-05-08,Saturday,14:00,15:00,no,ninguno,103,bajo
+Av. Argentina,2025-05-08,Saturday,15:00,16:00,no,ninguno,152,regular
+Av. Argentina,2025-05-08,Saturday,16:00,17:00,no,ninguno,191,alto
+Av. Argentina,2025-05-08,Saturday,17:00,18:00,no,ninguno,303,muy alto
+Av. Argentina,2025-05-08,Saturday,18:00,19:00,no,ninguno,347,muy alto
+Av. Argentina,2025-05-08,Saturday,19:00,20:00,no,ninguno,221,alto
+Av. Argentina,2025-05-08,Saturday,20:00,21:00,no,ninguno,106,bajo
+Av. Argentina,2025-05-08,Saturday,21:00,22:00,no,ninguno,115,bajo
+Av. Argentina,2025-05-08,Saturday,22:00,23:00,no,ninguno,58,bajo
+Av. Argentina,2025-05-08,Saturday,23:00,24:00,no,ninguno,46,muy bajo
+Av. Venezuela,2025-05-08,Saturday,00:00,01:00,no,ninguno,34,muy bajo
+Av. Venezuela,2025-05-08,Saturday,01:00,02:00,no,ninguno,35,muy bajo
+Av. Venezuela,2025-05-08,Saturday,02:00,03:00,no,ninguno,98,bajo
+Av. Venezuela,2025-05-08,Saturday,03:00,04:00,no,ninguno,24,muy bajo
+Av. Venezuela,2025-05-08,Saturday,04:00,05:00,no,ninguno,36,muy bajo
+Av. Venezuela,2025-05-08,Saturday,05:00,06:00,no,ninguno,209,alto
+Av. Venezuela,2025-05-08,Saturday,06:00,07:00,no,ninguno,246,alto
+Av. Venezuela,2025-05-08,Saturday,07:00,08:00,no,ninguno,264,muy alto
+Av. Venezuela,2025-05-08,Saturday,08:00,09:00,no,ninguno,180,alto
+Av. Venezuela,2025-05-08,Saturday,09:00,10:00,no,ninguno,188,alto
+Av. Venezuela,2025-05-08,Saturday,10:00,11:00,no,ninguno,121,regular
+Av. Venezuela,2025-05-08,Saturday,11:00,12:00,no,ninguno,101,bajo
+Av. Venezuela,2025-05-08,Saturday,12:00,13:00,no,ninguno,145,regular
+Av. Venezuela,2025-05-08,Saturday,13:00,14:00,no,ninguno,95,bajo
+Av. Venezuela,2025-05-08,Saturday,14:00,15:00,no,ninguno,148,regular
+Av. Venezuela,2025-05-08,Saturday,15:00,16:00,no,ninguno,180,alto
+Av. Venezuela,2025-05-08,Saturday,16:00,17:00,no,ninguno,247,alto
+Av. Venezuela,2025-05-08,Saturday,17:00,18:00,no,ninguno,285,muy alto
+Av. Venezuela,2025-05-08,Saturday,18:00,19:00,no,ninguno,223,alto
+Av. Venezuela,2025-05-08,Saturday,19:00,20:00,no,ninguno,214,alto
+Av. Venezuela,2025-05-08,Saturday,20:00,21:00,no,ninguno,124,regular
+Av. Venezuela,2025-05-08,Saturday,21:00,22:00,no,ninguno,173,regular
+Av. Venezuela,2025-05-08,Saturday,22:00,23:00,no,ninguno,56,bajo
+Av. Venezuela,2025-05-08,Saturday,23:00,24:00,no,ninguno,98,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,00:00,01:00,no,Desfile,46,muy bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,01:00,02:00,no,Desfile,79,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,02:00,03:00,no,Desfile,38,muy bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,03:00,04:00,no,Desfile,27,muy bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,04:00,05:00,no,Desfile,58,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,05:00,06:00,no,Desfile,163,regular
+Av. Paseo de la Republica,2025-05-09,Sunday,06:00,07:00,no,Desfile,193,alto
+Av. Paseo de la Republica,2025-05-09,Sunday,07:00,08:00,no,Desfile,269,muy alto
+Av. Paseo de la Republica,2025-05-09,Sunday,08:00,09:00,no,Desfile,156,regular
+Av. Paseo de la Republica,2025-05-09,Sunday,09:00,10:00,no,Desfile,177,regular
+Av. Paseo de la Republica,2025-05-09,Sunday,10:00,11:00,no,Desfile,104,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,11:00,12:00,no,Desfile,119,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,12:00,13:00,no,Desfile,127,regular
+Av. Paseo de la Republica,2025-05-09,Sunday,13:00,14:00,no,Desfile,132,regular
+Av. Paseo de la Republica,2025-05-09,Sunday,14:00,15:00,no,Desfile,105,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,15:00,16:00,no,Desfile,229,alto
+Av. Paseo de la Republica,2025-05-09,Sunday,16:00,17:00,no,Desfile,208,alto
+Av. Paseo de la Republica,2025-05-09,Sunday,17:00,18:00,no,Desfile,281,muy alto
+Av. Paseo de la Republica,2025-05-09,Sunday,18:00,19:00,no,Desfile,220,alto
+Av. Paseo de la Republica,2025-05-09,Sunday,19:00,20:00,no,Desfile,264,muy alto
+Av. Paseo de la Republica,2025-05-09,Sunday,20:00,21:00,no,Desfile,112,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,21:00,22:00,no,Desfile,122,regular
+Av. Paseo de la Republica,2025-05-09,Sunday,22:00,23:00,no,Desfile,93,bajo
+Av. Paseo de la Republica,2025-05-09,Sunday,23:00,24:00,no,Desfile,98,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,00:00,01:00,no,Desfile,27,muy bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,01:00,02:00,no,Desfile,96,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,02:00,03:00,no,Desfile,77,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,03:00,04:00,no,Desfile,42,muy bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,04:00,05:00,no,Desfile,35,muy bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,05:00,06:00,no,Desfile,212,alto
+Av. Alfredo Benavides,2025-05-09,Sunday,06:00,07:00,no,Desfile,289,muy alto
+Av. Alfredo Benavides,2025-05-09,Sunday,07:00,08:00,no,Desfile,289,muy alto
+Av. Alfredo Benavides,2025-05-09,Sunday,08:00,09:00,no,Desfile,104,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,09:00,10:00,no,Desfile,113,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,10:00,11:00,no,Desfile,84,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,11:00,12:00,no,Desfile,99,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,12:00,13:00,no,Desfile,149,regular
+Av. Alfredo Benavides,2025-05-09,Sunday,13:00,14:00,no,Desfile,120,regular
+Av. Alfredo Benavides,2025-05-09,Sunday,14:00,15:00,no,Desfile,95,bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,15:00,16:00,no,Desfile,179,regular
+Av. Alfredo Benavides,2025-05-09,Sunday,16:00,17:00,no,Desfile,157,regular
+Av. Alfredo Benavides,2025-05-09,Sunday,17:00,18:00,no,Desfile,232,alto
+Av. Alfredo Benavides,2025-05-09,Sunday,18:00,19:00,no,Desfile,263,muy alto
+Av. Alfredo Benavides,2025-05-09,Sunday,19:00,20:00,no,Desfile,219,alto
+Av. Alfredo Benavides,2025-05-09,Sunday,20:00,21:00,no,Desfile,138,regular
+Av. Alfredo Benavides,2025-05-09,Sunday,21:00,22:00,no,Desfile,167,regular
+Av. Alfredo Benavides,2025-05-09,Sunday,22:00,23:00,no,Desfile,49,muy bajo
+Av. Alfredo Benavides,2025-05-09,Sunday,23:00,24:00,no,Desfile,95,bajo
+Av. Universitaria,2025-05-09,Sunday,00:00,01:00,no,Desfile,37,muy bajo
+Av. Universitaria,2025-05-09,Sunday,01:00,02:00,no,Desfile,40,muy bajo
+Av. Universitaria,2025-05-09,Sunday,02:00,03:00,no,Desfile,27,muy bajo
+Av. Universitaria,2025-05-09,Sunday,03:00,04:00,no,Desfile,85,bajo
+Av. Universitaria,2025-05-09,Sunday,04:00,05:00,no,Desfile,63,bajo
+Av. Universitaria,2025-05-09,Sunday,05:00,06:00,no,Desfile,181,alto
+Av. Universitaria,2025-05-09,Sunday,06:00,07:00,no,Desfile,218,alto
+Av. Universitaria,2025-05-09,Sunday,07:00,08:00,no,Desfile,208,alto
+Av. Universitaria,2025-05-09,Sunday,08:00,09:00,no,Desfile,163,regular
+Av. Universitaria,2025-05-09,Sunday,09:00,10:00,no,Desfile,182,alto
+Av. Universitaria,2025-05-09,Sunday,10:00,11:00,no,Desfile,139,regular
+Av. Universitaria,2025-05-09,Sunday,11:00,12:00,no,Desfile,117,bajo
+Av. Universitaria,2025-05-09,Sunday,12:00,13:00,no,Desfile,119,bajo
+Av. Universitaria,2025-05-09,Sunday,13:00,14:00,no,Desfile,105,bajo
+Av. Universitaria,2025-05-09,Sunday,14:00,15:00,no,Desfile,120,regular
+Av. Universitaria,2025-05-09,Sunday,15:00,16:00,no,Desfile,248,alto
+Av. Universitaria,2025-05-09,Sunday,16:00,17:00,no,Desfile,137,regular
+Av. Universitaria,2025-05-09,Sunday,17:00,18:00,no,Desfile,284,muy alto
+Av. Universitaria,2025-05-09,Sunday,18:00,19:00,no,Desfile,201,alto
+Av. Universitaria,2025-05-09,Sunday,19:00,20:00,no,Desfile,324,muy alto
+Av. Universitaria,2025-05-09,Sunday,20:00,21:00,no,Desfile,158,regular
+Av. Universitaria,2025-05-09,Sunday,21:00,22:00,no,Desfile,173,regular
+Av. Universitaria,2025-05-09,Sunday,22:00,23:00,no,Desfile,56,bajo
+Av. Universitaria,2025-05-09,Sunday,23:00,24:00,no,Desfile,46,muy bajo
+Av. de la Marina,2025-05-09,Sunday,00:00,01:00,no,Desfile,43,muy bajo
+Av. de la Marina,2025-05-09,Sunday,01:00,02:00,no,Desfile,79,bajo
+Av. de la Marina,2025-05-09,Sunday,02:00,03:00,no,Desfile,85,bajo
+Av. de la Marina,2025-05-09,Sunday,03:00,04:00,no,Desfile,57,bajo
+Av. de la Marina,2025-05-09,Sunday,04:00,05:00,no,Desfile,99,bajo
+Av. de la Marina,2025-05-09,Sunday,05:00,06:00,no,Desfile,195,alto
+Av. de la Marina,2025-05-09,Sunday,06:00,07:00,no,Desfile,294,muy alto
+Av. de la Marina,2025-05-09,Sunday,07:00,08:00,no,Desfile,277,muy alto
+Av. de la Marina,2025-05-09,Sunday,08:00,09:00,no,Desfile,129,regular
+Av. de la Marina,2025-05-09,Sunday,09:00,10:00,no,Desfile,174,regular
+Av. de la Marina,2025-05-09,Sunday,10:00,11:00,no,Desfile,100,bajo
+Av. de la Marina,2025-05-09,Sunday,11:00,12:00,no,Desfile,116,bajo
+Av. de la Marina,2025-05-09,Sunday,12:00,13:00,no,Desfile,91,bajo
+Av. de la Marina,2025-05-09,Sunday,13:00,14:00,no,Desfile,105,bajo
+Av. de la Marina,2025-05-09,Sunday,14:00,15:00,no,Desfile,146,regular
+Av. de la Marina,2025-05-09,Sunday,15:00,16:00,no,Desfile,163,regular
+Av. de la Marina,2025-05-09,Sunday,16:00,17:00,no,Desfile,128,regular
+Av. de la Marina,2025-05-09,Sunday,17:00,18:00,no,Desfile,278,muy alto
+Av. de la Marina,2025-05-09,Sunday,18:00,19:00,no,Desfile,349,muy alto
+Av. de la Marina,2025-05-09,Sunday,19:00,20:00,no,Desfile,301,muy alto
+Av. de la Marina,2025-05-09,Sunday,20:00,21:00,no,Desfile,121,regular
+Av. de la Marina,2025-05-09,Sunday,21:00,22:00,no,Desfile,107,bajo
+Av. de la Marina,2025-05-09,Sunday,22:00,23:00,no,Desfile,55,bajo
+Av. de la Marina,2025-05-09,Sunday,23:00,24:00,no,Desfile,42,muy bajo
+Av. Abancay,2025-05-09,Sunday,00:00,01:00,no,Desfile,57,bajo
+Av. Abancay,2025-05-09,Sunday,01:00,02:00,no,Desfile,23,muy bajo
+Av. Abancay,2025-05-09,Sunday,02:00,03:00,no,Desfile,82,bajo
+Av. Abancay,2025-05-09,Sunday,03:00,04:00,no,Desfile,47,muy bajo
+Av. Abancay,2025-05-09,Sunday,04:00,05:00,no,Desfile,67,bajo
+Av. Abancay,2025-05-09,Sunday,05:00,06:00,no,Desfile,280,muy alto
+Av. Abancay,2025-05-09,Sunday,06:00,07:00,no,Desfile,213,alto
+Av. Abancay,2025-05-09,Sunday,07:00,08:00,no,Desfile,257,muy alto
+Av. Abancay,2025-05-09,Sunday,08:00,09:00,no,Desfile,191,alto
+Av. Abancay,2025-05-09,Sunday,09:00,10:00,no,Desfile,199,alto
+Av. Abancay,2025-05-09,Sunday,10:00,11:00,no,Desfile,89,bajo
+Av. Abancay,2025-05-09,Sunday,11:00,12:00,no,Desfile,129,regular
+Av. Abancay,2025-05-09,Sunday,12:00,13:00,no,Desfile,118,bajo
+Av. Abancay,2025-05-09,Sunday,13:00,14:00,no,Desfile,149,regular
+Av. Abancay,2025-05-09,Sunday,14:00,15:00,no,Desfile,100,bajo
+Av. Abancay,2025-05-09,Sunday,15:00,16:00,no,Desfile,152,regular
+Av. Abancay,2025-05-09,Sunday,16:00,17:00,no,Desfile,247,alto
+Av. Abancay,2025-05-09,Sunday,17:00,18:00,no,Desfile,214,alto
+Av. Abancay,2025-05-09,Sunday,18:00,19:00,no,Desfile,332,muy alto
+Av. Abancay,2025-05-09,Sunday,19:00,20:00,no,Desfile,314,muy alto
+Av. Abancay,2025-05-09,Sunday,20:00,21:00,no,Desfile,123,regular
+Av. Abancay,2025-05-09,Sunday,21:00,22:00,no,Desfile,157,regular
+Av. Abancay,2025-05-09,Sunday,22:00,23:00,no,Desfile,50,bajo
+Av. Abancay,2025-05-09,Sunday,23:00,24:00,no,Desfile,51,bajo
+Av. Mexico,2025-05-09,Sunday,00:00,01:00,no,Desfile,64,bajo
+Av. Mexico,2025-05-09,Sunday,01:00,02:00,no,Desfile,31,muy bajo
+Av. Mexico,2025-05-09,Sunday,02:00,03:00,no,Desfile,63,bajo
+Av. Mexico,2025-05-09,Sunday,03:00,04:00,no,Desfile,49,muy bajo
+Av. Mexico,2025-05-09,Sunday,04:00,05:00,no,Desfile,52,bajo
+Av. Mexico,2025-05-09,Sunday,05:00,06:00,no,Desfile,261,muy alto
+Av. Mexico,2025-05-09,Sunday,06:00,07:00,no,Desfile,179,regular
+Av. Mexico,2025-05-09,Sunday,07:00,08:00,no,Desfile,178,regular
+Av. Mexico,2025-05-09,Sunday,08:00,09:00,no,Desfile,104,bajo
+Av. Mexico,2025-05-09,Sunday,09:00,10:00,no,Desfile,173,regular
+Av. Mexico,2025-05-09,Sunday,10:00,11:00,no,Desfile,109,bajo
+Av. Mexico,2025-05-09,Sunday,11:00,12:00,no,Desfile,139,regular
+Av. Mexico,2025-05-09,Sunday,12:00,13:00,no,Desfile,81,bajo
+Av. Mexico,2025-05-09,Sunday,13:00,14:00,no,Desfile,89,bajo
+Av. Mexico,2025-05-09,Sunday,14:00,15:00,no,Desfile,147,regular
+Av. Mexico,2025-05-09,Sunday,15:00,16:00,no,Desfile,141,regular
+Av. Mexico,2025-05-09,Sunday,16:00,17:00,no,Desfile,133,regular
+Av. Mexico,2025-05-09,Sunday,17:00,18:00,no,Desfile,233,alto
+Av. Mexico,2025-05-09,Sunday,18:00,19:00,no,Desfile,225,alto
+Av. Mexico,2025-05-09,Sunday,19:00,20:00,no,Desfile,284,muy alto
+Av. Mexico,2025-05-09,Sunday,20:00,21:00,no,Desfile,114,bajo
+Av. Mexico,2025-05-09,Sunday,21:00,22:00,no,Desfile,154,regular
+Av. Mexico,2025-05-09,Sunday,22:00,23:00,no,Desfile,74,bajo
+Av. Mexico,2025-05-09,Sunday,23:00,24:00,no,Desfile,45,muy bajo
+Av. Argentina,2025-05-09,Sunday,00:00,01:00,no,Desfile,52,bajo
+Av. Argentina,2025-05-09,Sunday,01:00,02:00,no,Desfile,43,muy bajo
+Av. Argentina,2025-05-09,Sunday,02:00,03:00,no,Desfile,52,bajo
+Av. Argentina,2025-05-09,Sunday,03:00,04:00,no,Desfile,65,bajo
+Av. Argentina,2025-05-09,Sunday,04:00,05:00,no,Desfile,95,bajo
+Av. Argentina,2025-05-09,Sunday,05:00,06:00,no,Desfile,162,regular
+Av. Argentina,2025-05-09,Sunday,06:00,07:00,no,Desfile,242,alto
+Av. Argentina,2025-05-09,Sunday,07:00,08:00,no,Desfile,155,regular
+Av. Argentina,2025-05-09,Sunday,08:00,09:00,no,Desfile,191,alto
+Av. Argentina,2025-05-09,Sunday,09:00,10:00,no,Desfile,178,regular
+Av. Argentina,2025-05-09,Sunday,10:00,11:00,no,Desfile,80,bajo
+Av. Argentina,2025-05-09,Sunday,11:00,12:00,no,Desfile,100,bajo
+Av. Argentina,2025-05-09,Sunday,12:00,13:00,no,Desfile,91,bajo
+Av. Argentina,2025-05-09,Sunday,13:00,14:00,no,Desfile,118,bajo
+Av. Argentina,2025-05-09,Sunday,14:00,15:00,no,Desfile,93,bajo
+Av. Argentina,2025-05-09,Sunday,15:00,16:00,no,Desfile,193,alto
+Av. Argentina,2025-05-09,Sunday,16:00,17:00,no,Desfile,122,regular
+Av. Argentina,2025-05-09,Sunday,17:00,18:00,no,Desfile,329,muy alto
+Av. Argentina,2025-05-09,Sunday,18:00,19:00,no,Desfile,255,muy alto
+Av. Argentina,2025-05-09,Sunday,19:00,20:00,no,Desfile,242,alto
+Av. Argentina,2025-05-09,Sunday,20:00,21:00,no,Desfile,122,regular
+Av. Argentina,2025-05-09,Sunday,21:00,22:00,no,Desfile,160,regular
+Av. Argentina,2025-05-09,Sunday,22:00,23:00,no,Desfile,81,bajo
+Av. Argentina,2025-05-09,Sunday,23:00,24:00,no,Desfile,42,muy bajo
+Av. Venezuela,2025-05-09,Sunday,00:00,01:00,no,Desfile,80,bajo
+Av. Venezuela,2025-05-09,Sunday,01:00,02:00,no,Desfile,57,bajo
+Av. Venezuela,2025-05-09,Sunday,02:00,03:00,no,Desfile,27,muy bajo
+Av. Venezuela,2025-05-09,Sunday,03:00,04:00,no,Desfile,81,bajo
+Av. Venezuela,2025-05-09,Sunday,04:00,05:00,no,Desfile,98,bajo
+Av. Venezuela,2025-05-09,Sunday,05:00,06:00,no,Desfile,189,alto
+Av. Venezuela,2025-05-09,Sunday,06:00,07:00,no,Desfile,162,regular
+Av. Venezuela,2025-05-09,Sunday,07:00,08:00,no,Desfile,154,regular
+Av. Venezuela,2025-05-09,Sunday,08:00,09:00,no,Desfile,102,bajo
+Av. Venezuela,2025-05-09,Sunday,09:00,10:00,no,Desfile,146,regular
+Av. Venezuela,2025-05-09,Sunday,10:00,11:00,no,Desfile,117,bajo
+Av. Venezuela,2025-05-09,Sunday,11:00,12:00,no,Desfile,148,regular
+Av. Venezuela,2025-05-09,Sunday,12:00,13:00,no,Desfile,113,bajo
+Av. Venezuela,2025-05-09,Sunday,13:00,14:00,no,Desfile,111,bajo
+Av. Venezuela,2025-05-09,Sunday,14:00,15:00,no,Desfile,106,bajo
+Av. Venezuela,2025-05-09,Sunday,15:00,16:00,no,Desfile,211,alto
+Av. Venezuela,2025-05-09,Sunday,16:00,17:00,no,Desfile,228,alto
+Av. Venezuela,2025-05-09,Sunday,17:00,18:00,no,Desfile,326,muy alto
+Av. Venezuela,2025-05-09,Sunday,18:00,19:00,no,Desfile,273,muy alto
+Av. Venezuela,2025-05-09,Sunday,19:00,20:00,no,Desfile,322,muy alto
+Av. Venezuela,2025-05-09,Sunday,20:00,21:00,no,Desfile,162,regular
+Av. Venezuela,2025-05-09,Sunday,21:00,22:00,no,Desfile,129,regular
+Av. Venezuela,2025-05-09,Sunday,22:00,23:00,no,Desfile,44,muy bajo
+Av. Venezuela,2025-05-09,Sunday,23:00,24:00,no,Desfile,80,bajo
+Av. Paseo de la Republica,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,80,bajo
+Av. Paseo de la Republica,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,44,muy bajo
+Av. Paseo de la Republica,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,81,bajo
+Av. Paseo de la Republica,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,28,muy bajo
+Av. Paseo de la Republica,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,27,muy bajo
+Av. Paseo de la Republica,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,252,muy alto
+Av. Paseo de la Republica,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,269,muy alto
+Av. Paseo de la Republica,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,245,alto
+Av. Paseo de la Republica,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,184,alto
+Av. Paseo de la Republica,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,124,regular
+Av. Paseo de la Republica,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,146,regular
+Av. Paseo de la Republica,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,91,bajo
+Av. Paseo de la Republica,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,133,regular
+Av. Paseo de la Republica,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,97,bajo
+Av. Paseo de la Republica,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,92,bajo
+Av. Paseo de la Republica,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,130,regular
+Av. Paseo de la Republica,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,172,regular
+Av. Paseo de la Republica,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,208,alto
+Av. Paseo de la Republica,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,206,alto
+Av. Paseo de la Republica,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,315,muy alto
+Av. Paseo de la Republica,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,137,regular
+Av. Paseo de la Republica,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,178,regular
+Av. Paseo de la Republica,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,54,bajo
+Av. Paseo de la Republica,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,46,muy bajo
+Av. Alfredo Benavides,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,59,bajo
+Av. Alfredo Benavides,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,86,bajo
+Av. Alfredo Benavides,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,67,bajo
+Av. Alfredo Benavides,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,53,bajo
+Av. Alfredo Benavides,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,28,muy bajo
+Av. Alfredo Benavides,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,289,muy alto
+Av. Alfredo Benavides,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,215,alto
+Av. Alfredo Benavides,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,286,muy alto
+Av. Alfredo Benavides,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,147,regular
+Av. Alfredo Benavides,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,103,bajo
+Av. Alfredo Benavides,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,149,regular
+Av. Alfredo Benavides,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,137,regular
+Av. Alfredo Benavides,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,126,regular
+Av. Alfredo Benavides,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,103,bajo
+Av. Alfredo Benavides,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,137,regular
+Av. Alfredo Benavides,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,120,regular
+Av. Alfredo Benavides,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,197,alto
+Av. Alfredo Benavides,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,324,muy alto
+Av. Alfredo Benavides,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,269,muy alto
+Av. Alfredo Benavides,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,291,muy alto
+Av. Alfredo Benavides,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,162,regular
+Av. Alfredo Benavides,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,159,regular
+Av. Alfredo Benavides,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,50,bajo
+Av. Alfredo Benavides,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,70,bajo
+Av. Universitaria,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,44,muy bajo
+Av. Universitaria,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,74,bajo
+Av. Universitaria,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,82,bajo
+Av. Universitaria,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,23,muy bajo
+Av. Universitaria,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,58,bajo
+Av. Universitaria,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,261,muy alto
+Av. Universitaria,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,197,alto
+Av. Universitaria,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,242,alto
+Av. Universitaria,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,119,bajo
+Av. Universitaria,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,192,alto
+Av. Universitaria,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,103,bajo
+Av. Universitaria,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,119,bajo
+Av. Universitaria,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,114,bajo
+Av. Universitaria,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,113,bajo
+Av. Universitaria,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,113,bajo
+Av. Universitaria,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,142,regular
+Av. Universitaria,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,142,regular
+Av. Universitaria,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,324,muy alto
+Av. Universitaria,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,282,muy alto
+Av. Universitaria,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,342,muy alto
+Av. Universitaria,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,132,regular
+Av. Universitaria,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,119,bajo
+Av. Universitaria,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,75,bajo
+Av. Universitaria,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,64,bajo
+Av. de la Marina,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,92,bajo
+Av. de la Marina,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,35,muy bajo
+Av. de la Marina,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,78,bajo
+Av. de la Marina,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,57,bajo
+Av. de la Marina,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,52,bajo
+Av. de la Marina,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,280,muy alto
+Av. de la Marina,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,167,regular
+Av. de la Marina,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,154,regular
+Av. de la Marina,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,103,bajo
+Av. de la Marina,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,181,alto
+Av. de la Marina,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,98,bajo
+Av. de la Marina,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,134,regular
+Av. de la Marina,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,101,bajo
+Av. de la Marina,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,130,regular
+Av. de la Marina,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,96,bajo
+Av. de la Marina,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,224,alto
+Av. de la Marina,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,213,alto
+Av. de la Marina,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,232,alto
+Av. de la Marina,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,231,alto
+Av. de la Marina,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,260,muy alto
+Av. de la Marina,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,178,regular
+Av. de la Marina,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,103,bajo
+Av. de la Marina,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,88,bajo
+Av. de la Marina,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,90,bajo
+Av. Abancay,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,88,bajo
+Av. Abancay,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,88,bajo
+Av. Abancay,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,55,bajo
+Av. Abancay,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,75,bajo
+Av. Abancay,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,67,bajo
+Av. Abancay,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,189,alto
+Av. Abancay,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,171,regular
+Av. Abancay,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,179,regular
+Av. Abancay,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,106,bajo
+Av. Abancay,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,137,regular
+Av. Abancay,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,132,regular
+Av. Abancay,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,147,regular
+Av. Abancay,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,148,regular
+Av. Abancay,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,92,bajo
+Av. Abancay,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,138,regular
+Av. Abancay,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,180,alto
+Av. Abancay,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,206,alto
+Av. Abancay,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,230,alto
+Av. Abancay,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,309,muy alto
+Av. Abancay,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,222,alto
+Av. Abancay,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,168,regular
+Av. Abancay,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,158,regular
+Av. Abancay,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,64,bajo
+Av. Abancay,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,88,bajo
+Av. Mexico,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,29,muy bajo
+Av. Mexico,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,46,muy bajo
+Av. Mexico,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,60,bajo
+Av. Mexico,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,33,muy bajo
+Av. Mexico,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,34,muy bajo
+Av. Mexico,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,292,muy alto
+Av. Mexico,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,233,alto
+Av. Mexico,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,185,alto
+Av. Mexico,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,100,bajo
+Av. Mexico,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,124,regular
+Av. Mexico,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,106,bajo
+Av. Mexico,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,89,bajo
+Av. Mexico,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,82,bajo
+Av. Mexico,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,113,bajo
+Av. Mexico,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,97,bajo
+Av. Mexico,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,124,regular
+Av. Mexico,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,133,regular
+Av. Mexico,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,235,alto
+Av. Mexico,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,203,alto
+Av. Mexico,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,249,alto
+Av. Mexico,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,100,bajo
+Av. Mexico,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,146,regular
+Av. Mexico,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,83,bajo
+Av. Mexico,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,86,bajo
+Av. Argentina,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,84,bajo
+Av. Argentina,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,60,bajo
+Av. Argentina,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,43,muy bajo
+Av. Argentina,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,85,bajo
+Av. Argentina,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,71,bajo
+Av. Argentina,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,202,alto
+Av. Argentina,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,153,regular
+Av. Argentina,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,190,alto
+Av. Argentina,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,114,bajo
+Av. Argentina,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,103,bajo
+Av. Argentina,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,80,bajo
+Av. Argentina,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,143,regular
+Av. Argentina,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,127,regular
+Av. Argentina,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,102,bajo
+Av. Argentina,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,107,bajo
+Av. Argentina,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,143,regular
+Av. Argentina,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,229,alto
+Av. Argentina,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,236,alto
+Av. Argentina,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,311,muy alto
+Av. Argentina,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,275,muy alto
+Av. Argentina,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,123,regular
+Av. Argentina,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,174,regular
+Av. Argentina,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,53,bajo
+Av. Argentina,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,64,bajo
+Av. Venezuela,2025-05-10,Monday,00:00,01:00,si,Partido de futbol,84,bajo
+Av. Venezuela,2025-05-10,Monday,01:00,02:00,si,Partido de futbol,43,muy bajo
+Av. Venezuela,2025-05-10,Monday,02:00,03:00,si,Partido de futbol,76,bajo
+Av. Venezuela,2025-05-10,Monday,03:00,04:00,si,Partido de futbol,85,bajo
+Av. Venezuela,2025-05-10,Monday,04:00,05:00,si,Partido de futbol,56,bajo
+Av. Venezuela,2025-05-10,Monday,05:00,06:00,si,Partido de futbol,156,regular
+Av. Venezuela,2025-05-10,Monday,06:00,07:00,si,Partido de futbol,205,alto
+Av. Venezuela,2025-05-10,Monday,07:00,08:00,si,Partido de futbol,288,muy alto
+Av. Venezuela,2025-05-10,Monday,08:00,09:00,si,Partido de futbol,174,regular
+Av. Venezuela,2025-05-10,Monday,09:00,10:00,si,Partido de futbol,123,regular
+Av. Venezuela,2025-05-10,Monday,10:00,11:00,si,Partido de futbol,94,bajo
+Av. Venezuela,2025-05-10,Monday,11:00,12:00,si,Partido de futbol,138,regular
+Av. Venezuela,2025-05-10,Monday,12:00,13:00,si,Partido de futbol,80,bajo
+Av. Venezuela,2025-05-10,Monday,13:00,14:00,si,Partido de futbol,125,regular
+Av. Venezuela,2025-05-10,Monday,14:00,15:00,si,Partido de futbol,132,regular
+Av. Venezuela,2025-05-10,Monday,15:00,16:00,si,Partido de futbol,133,regular
+Av. Venezuela,2025-05-10,Monday,16:00,17:00,si,Partido de futbol,172,regular
+Av. Venezuela,2025-05-10,Monday,17:00,18:00,si,Partido de futbol,348,muy alto
+Av. Venezuela,2025-05-10,Monday,18:00,19:00,si,Partido de futbol,300,muy alto
+Av. Venezuela,2025-05-10,Monday,19:00,20:00,si,Partido de futbol,274,muy alto
+Av. Venezuela,2025-05-10,Monday,20:00,21:00,si,Partido de futbol,160,regular
+Av. Venezuela,2025-05-10,Monday,21:00,22:00,si,Partido de futbol,118,bajo
+Av. Venezuela,2025-05-10,Monday,22:00,23:00,si,Partido de futbol,52,bajo
+Av. Venezuela,2025-05-10,Monday,23:00,24:00,si,Partido de futbol,40,muy bajo

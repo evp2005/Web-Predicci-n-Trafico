@@ -1,0 +1,8 @@
+plotly
+unidecode
+streamlit-folium
+streamlit-lottie
+tensorflow
+scikit-learn 
+matplotlib
+

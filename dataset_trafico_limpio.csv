@@ -1,0 +1,2113 @@
+Ruta,Fecha,DiaSemana,Intervalo,Feriado,EventoEspecial,FlujoVehicular,Congestion
+Av. paseo de la república,2025-05-01,Jueves,00:00-01:00,si,ninguno,9,muy bajo
+Av. paseo de la república,2025-05-01,Jueves,01:00-02:00,si,ninguno,11,muy bajo
+Av. paseo de la república,2025-05-01,Jueves,02:00-03:00,si,ninguno,10,muy bajo
+Av. paseo de la república,2025-05-01,Jueves,03:00-04:00,si,ninguno,22,muy bajo
+Av. paseo de la república,2025-05-01,Jueves,04:00-05:00,si,ninguno,15,muy bajo
+Av. paseo de la república,2025-05-01,Jueves,05:00-06:00,si,ninguno,54,bajo
+Av. paseo de la república,2025-05-01,Jueves,06:00-07:00,si,ninguno,84,bajo
+Av. paseo de la república,2025-05-01,Jueves,07:00-08:00,si,ninguno,86,bajo
+Av. paseo de la república,2025-05-01,Jueves,08:00-09:00,si,ninguno,74,bajo
+Av. paseo de la república,2025-05-01,Jueves,09:00-10:00,si,ninguno,58,bajo
+Av. paseo de la república,2025-05-01,Jueves,10:00-11:00,si,ninguno,85,bajo
+Av. paseo de la república,2025-05-01,Jueves,11:00-12:00,si,ninguno,73,bajo
+Av. paseo de la república,2025-05-01,Jueves,12:00-13:00,si,ninguno,62,bajo
+Av. paseo de la república,2025-05-01,Jueves,13:00-14:00,si,ninguno,79,bajo
+Av. paseo de la república,2025-05-01,Jueves,14:00-15:00,si,ninguno,58,bajo
+Av. paseo de la república,2025-05-01,Jueves,15:00-16:00,si,ninguno,55,bajo
+Av. paseo de la república,2025-05-01,Jueves,16:00-17:00,si,ninguno,88,bajo
+Av. paseo de la república,2025-05-01,Jueves,17:00-18:00,si,ninguno,142,regular
+Av. paseo de la república,2025-05-01,Jueves,18:00-19:00,si,ninguno,121,regular
+Av. paseo de la república,2025-05-01,Jueves,19:00-20:00,si,ninguno,128,regular
+Av. paseo de la república,2025-05-01,Jueves,20:00-21:00,si,ninguno,138,regular
+Av. paseo de la república,2025-05-01,Jueves,21:00-22:00,si,ninguno,46,muy bajo
+Av. paseo de la república,2025-05-01,Jueves,22:00-23:00,si,ninguno,59,bajo
+Av. paseo de la república,2025-05-01,Jueves,23:00-00:00,si,ninguno,58,bajo
+Av. alfredo benavides,2025-05-01,Jueves,00:00-01:00,si,ninguno,14,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,01:00-02:00,si,ninguno,20,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,02:00-03:00,si,ninguno,22,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,03:00-04:00,si,ninguno,21,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,04:00-05:00,si,ninguno,20,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,05:00-06:00,si,ninguno,53,bajo
+Av. alfredo benavides,2025-05-01,Jueves,06:00-07:00,si,ninguno,51,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,07:00-08:00,si,ninguno,74,bajo
+Av. alfredo benavides,2025-05-01,Jueves,08:00-09:00,si,ninguno,73,bajo
+Av. alfredo benavides,2025-05-01,Jueves,09:00-10:00,si,ninguno,85,bajo
+Av. alfredo benavides,2025-05-01,Jueves,10:00-11:00,si,ninguno,59,bajo
+Av. alfredo benavides,2025-05-01,Jueves,11:00-12:00,si,ninguno,53,bajo
+Av. alfredo benavides,2025-05-01,Jueves,12:00-13:00,si,ninguno,67,bajo
+Av. alfredo benavides,2025-05-01,Jueves,13:00-14:00,si,ninguno,67,bajo
+Av. alfredo benavides,2025-05-01,Jueves,14:00-15:00,si,ninguno,46,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,15:00-16:00,si,ninguno,72,bajo
+Av. alfredo benavides,2025-05-01,Jueves,16:00-17:00,si,ninguno,52,bajo
+Av. alfredo benavides,2025-05-01,Jueves,17:00-18:00,si,ninguno,111,bajo
+Av. alfredo benavides,2025-05-01,Jueves,18:00-19:00,si,ninguno,81,bajo
+Av. alfredo benavides,2025-05-01,Jueves,19:00-20:00,si,ninguno,100,bajo
+Av. alfredo benavides,2025-05-01,Jueves,20:00-21:00,si,ninguno,73,bajo
+Av. alfredo benavides,2025-05-01,Jueves,21:00-22:00,si,ninguno,43,muy bajo
+Av. alfredo benavides,2025-05-01,Jueves,22:00-23:00,si,ninguno,69,bajo
+Av. alfredo benavides,2025-05-01,Jueves,23:00-00:00,si,ninguno,52,bajo
+Av. universitaria,2025-05-01,Jueves,00:00-01:00,si,ninguno,8,muy bajo
+Av. universitaria,2025-05-01,Jueves,01:00-02:00,si,ninguno,24,muy bajo
+Av. universitaria,2025-05-01,Jueves,02:00-03:00,si,ninguno,25,muy bajo
+Av. universitaria,2025-05-01,Jueves,03:00-04:00,si,ninguno,23,muy bajo
+Av. universitaria,2025-05-01,Jueves,04:00-05:00,si,ninguno,25,muy bajo
+Av. universitaria,2025-05-01,Jueves,05:00-06:00,si,ninguno,94,bajo
+Av. universitaria,2025-05-01,Jueves,06:00-07:00,si,ninguno,55,bajo
+Av. universitaria,2025-05-01,Jueves,07:00-08:00,si,ninguno,95,bajo
+Av. universitaria,2025-05-01,Jueves,08:00-09:00,si,ninguno,48,muy bajo
+Av. universitaria,2025-05-01,Jueves,09:00-10:00,si,ninguno,82,bajo
+Av. universitaria,2025-05-01,Jueves,10:00-11:00,si,ninguno,86,bajo
+Av. universitaria,2025-05-01,Jueves,11:00-12:00,si,ninguno,63,bajo
+Av. universitaria,2025-05-01,Jueves,12:00-13:00,si,ninguno,79,bajo
+Av. universitaria,2025-05-01,Jueves,13:00-14:00,si,ninguno,60,bajo
+Av. universitaria,2025-05-01,Jueves,14:00-15:00,si,ninguno,53,bajo
+Av. universitaria,2025-05-01,Jueves,15:00-16:00,si,ninguno,86,bajo
+Av. universitaria,2025-05-01,Jueves,16:00-17:00,si,ninguno,73,bajo
+Av. universitaria,2025-05-01,Jueves,17:00-18:00,si,ninguno,70,bajo
+Av. universitaria,2025-05-01,Jueves,18:00-19:00,si,ninguno,91,bajo
+Av. universitaria,2025-05-01,Jueves,19:00-20:00,si,ninguno,81,bajo
+Av. universitaria,2025-05-01,Jueves,20:00-21:00,si,ninguno,91,bajo
+Av. universitaria,2025-05-01,Jueves,21:00-22:00,si,ninguno,67,bajo
+Av. universitaria,2025-05-01,Jueves,22:00-23:00,si,ninguno,39,muy bajo
+Av. universitaria,2025-05-01,Jueves,23:00-00:00,si,ninguno,37,muy bajo
+Av. la marina,2025-05-01,Jueves,00:00-01:00,si,ninguno,24,muy bajo
+Av. la marina,2025-05-01,Jueves,01:00-02:00,si,ninguno,8,muy bajo
+Av. la marina,2025-05-01,Jueves,02:00-03:00,si,ninguno,6,muy bajo
+Av. la marina,2025-05-01,Jueves,03:00-04:00,si,ninguno,12,muy bajo
+Av. la marina,2025-05-01,Jueves,04:00-05:00,si,ninguno,5,muy bajo
+Av. la marina,2025-05-01,Jueves,05:00-06:00,si,ninguno,111,bajo
+Av. la marina,2025-05-01,Jueves,06:00-07:00,si,ninguno,99,bajo
+Av. la marina,2025-05-01,Jueves,07:00-08:00,si,ninguno,76,bajo
+Av. la marina,2025-05-01,Jueves,08:00-09:00,si,ninguno,73,bajo
+Av. la marina,2025-05-01,Jueves,09:00-10:00,si,ninguno,74,bajo
+Av. la marina,2025-05-01,Jueves,10:00-11:00,si,ninguno,52,bajo
+Av. la marina,2025-05-01,Jueves,11:00-12:00,si,ninguno,81,bajo
+Av. la marina,2025-05-01,Jueves,12:00-13:00,si,ninguno,68,bajo
+Av. la marina,2025-05-01,Jueves,13:00-14:00,si,ninguno,61,bajo
+Av. la marina,2025-05-01,Jueves,14:00-15:00,si,ninguno,62,bajo
+Av. la marina,2025-05-01,Jueves,15:00-16:00,si,ninguno,48,muy bajo
+Av. la marina,2025-05-01,Jueves,16:00-17:00,si,ninguno,46,muy bajo
+Av. la marina,2025-05-01,Jueves,17:00-18:00,si,ninguno,127,regular
+Av. la marina,2025-05-01,Jueves,18:00-19:00,si,ninguno,78,bajo
+Av. la marina,2025-05-01,Jueves,19:00-20:00,si,ninguno,79,bajo
+Av. la marina,2025-05-01,Jueves,20:00-21:00,si,ninguno,95,bajo
+Av. la marina,2025-05-01,Jueves,21:00-22:00,si,ninguno,49,muy bajo
+Av. la marina,2025-05-01,Jueves,22:00-23:00,si,ninguno,64,bajo
+Av. la marina,2025-05-01,Jueves,23:00-00:00,si,ninguno,54,bajo
+Av. abancay,2025-05-01,Jueves,00:00-01:00,si,ninguno,21,muy bajo
+Av. abancay,2025-05-01,Jueves,01:00-02:00,si,ninguno,22,muy bajo
+Av. abancay,2025-05-01,Jueves,02:00-03:00,si,ninguno,6,muy bajo
+Av. abancay,2025-05-01,Jueves,03:00-04:00,si,ninguno,20,muy bajo
+Av. abancay,2025-05-01,Jueves,04:00-05:00,si,ninguno,12,muy bajo
+Av. abancay,2025-05-01,Jueves,05:00-06:00,si,ninguno,68,bajo
+Av. abancay,2025-05-01,Jueves,06:00-07:00,si,ninguno,107,bajo
+Av. abancay,2025-05-01,Jueves,07:00-08:00,si,ninguno,100,bajo
+Av. abancay,2025-05-01,Jueves,08:00-09:00,si,ninguno,45,muy bajo
+Av. abancay,2025-05-01,Jueves,09:00-10:00,si,ninguno,56,bajo
+Av. abancay,2025-05-01,Jueves,10:00-11:00,si,ninguno,55,bajo
+Av. abancay,2025-05-01,Jueves,11:00-12:00,si,ninguno,63,bajo
+Av. abancay,2025-05-01,Jueves,12:00-13:00,si,ninguno,82,bajo
+Av. abancay,2025-05-01,Jueves,13:00-14:00,si,ninguno,71,bajo
+Av. abancay,2025-05-01,Jueves,14:00-15:00,si,ninguno,68,bajo
+Av. abancay,2025-05-01,Jueves,15:00-16:00,si,ninguno,51,bajo
+Av. abancay,2025-05-01,Jueves,16:00-17:00,si,ninguno,53,bajo
+Av. abancay,2025-05-01,Jueves,17:00-18:00,si,ninguno,66,bajo
+Av. abancay,2025-05-01,Jueves,18:00-19:00,si,ninguno,102,bajo
+Av. abancay,2025-05-01,Jueves,19:00-20:00,si,ninguno,65,bajo
+Av. abancay,2025-05-01,Jueves,20:00-21:00,si,ninguno,141,regular
+Av. abancay,2025-05-01,Jueves,21:00-22:00,si,ninguno,51,bajo
+Av. abancay,2025-05-01,Jueves,22:00-23:00,si,ninguno,42,muy bajo
+Av. abancay,2025-05-01,Jueves,23:00-00:00,si,ninguno,38,muy bajo
+Av. mexico,2025-05-01,Jueves,00:00-01:00,si,ninguno,22,muy bajo
+Av. mexico,2025-05-01,Jueves,01:00-02:00,si,ninguno,23,muy bajo
+Av. mexico,2025-05-01,Jueves,02:00-03:00,si,ninguno,7,muy bajo
+Av. mexico,2025-05-01,Jueves,03:00-04:00,si,ninguno,19,muy bajo
+Av. mexico,2025-05-01,Jueves,04:00-05:00,si,ninguno,5,muy bajo
+Av. mexico,2025-05-01,Jueves,05:00-06:00,si,ninguno,114,bajo
+Av. mexico,2025-05-01,Jueves,06:00-07:00,si,ninguno,112,bajo
+Av. mexico,2025-05-01,Jueves,07:00-08:00,si,ninguno,113,bajo
+Av. mexico,2025-05-01,Jueves,08:00-09:00,si,ninguno,60,bajo
+Av. mexico,2025-05-01,Jueves,09:00-10:00,si,ninguno,55,bajo
+Av. mexico,2025-05-01,Jueves,10:00-11:00,si,ninguno,62,bajo
+Av. mexico,2025-05-01,Jueves,11:00-12:00,si,ninguno,45,muy bajo
+Av. mexico,2025-05-01,Jueves,12:00-13:00,si,ninguno,89,bajo
+Av. mexico,2025-05-01,Jueves,13:00-14:00,si,ninguno,87,bajo
+Av. mexico,2025-05-01,Jueves,14:00-15:00,si,ninguno,56,bajo
+Av. mexico,2025-05-01,Jueves,15:00-16:00,si,ninguno,61,bajo
+Av. mexico,2025-05-01,Jueves,16:00-17:00,si,ninguno,47,muy bajo
+Av. mexico,2025-05-01,Jueves,17:00-18:00,si,ninguno,93,bajo
+Av. mexico,2025-05-01,Jueves,18:00-19:00,si,ninguno,89,bajo
+Av. mexico,2025-05-01,Jueves,19:00-20:00,si,ninguno,78,bajo
+Av. mexico,2025-05-01,Jueves,20:00-21:00,si,ninguno,88,bajo
+Av. mexico,2025-05-01,Jueves,21:00-22:00,si,ninguno,34,muy bajo
+Av. mexico,2025-05-01,Jueves,22:00-23:00,si,ninguno,34,muy bajo
+Av. mexico,2025-05-01,Jueves,23:00-00:00,si,ninguno,31,muy bajo
+Av. argentina,2025-05-01,Jueves,00:00-01:00,si,ninguno,16,muy bajo
+Av. argentina,2025-05-01,Jueves,01:00-02:00,si,ninguno,24,muy bajo
+Av. argentina,2025-05-01,Jueves,02:00-03:00,si,ninguno,18,muy bajo
+Av. argentina,2025-05-01,Jueves,03:00-04:00,si,ninguno,6,muy bajo
+Av. argentina,2025-05-01,Jueves,04:00-05:00,si,ninguno,17,muy bajo
+Av. argentina,2025-05-01,Jueves,05:00-06:00,si,ninguno,84,bajo
+Av. argentina,2025-05-01,Jueves,06:00-07:00,si,ninguno,110,bajo
+Av. argentina,2025-05-01,Jueves,07:00-08:00,si,ninguno,97,bajo
+Av. argentina,2025-05-01,Jueves,08:00-09:00,si,ninguno,62,bajo
+Av. argentina,2025-05-01,Jueves,09:00-10:00,si,ninguno,50,muy bajo
+Av. argentina,2025-05-01,Jueves,10:00-11:00,si,ninguno,51,bajo
+Av. argentina,2025-05-01,Jueves,11:00-12:00,si,ninguno,56,bajo
+Av. argentina,2025-05-01,Jueves,12:00-13:00,si,ninguno,79,bajo
+Av. argentina,2025-05-01,Jueves,13:00-14:00,si,ninguno,55,bajo
+Av. argentina,2025-05-01,Jueves,14:00-15:00,si,ninguno,73,bajo
+Av. argentina,2025-05-01,Jueves,15:00-16:00,si,ninguno,57,bajo
+Av. argentina,2025-05-01,Jueves,16:00-17:00,si,ninguno,56,bajo
+Av. argentina,2025-05-01,Jueves,17:00-18:00,si,ninguno,140,regular
+Av. argentina,2025-05-01,Jueves,18:00-19:00,si,ninguno,137,regular
+Av. argentina,2025-05-01,Jueves,19:00-20:00,si,ninguno,92,bajo
+Av. argentina,2025-05-01,Jueves,20:00-21:00,si,ninguno,109,bajo
+Av. argentina,2025-05-01,Jueves,21:00-22:00,si,ninguno,75,bajo
+Av. argentina,2025-05-01,Jueves,22:00-23:00,si,ninguno,67,bajo
+Av. argentina,2025-05-01,Jueves,23:00-00:00,si,ninguno,30,muy bajo
+Av. venezuela,2025-05-01,Jueves,00:00-01:00,si,ninguno,23,muy bajo
+Av. venezuela,2025-05-01,Jueves,01:00-02:00,si,ninguno,10,muy bajo
+Av. venezuela,2025-05-01,Jueves,02:00-03:00,si,ninguno,21,muy bajo
+Av. venezuela,2025-05-01,Jueves,03:00-04:00,si,ninguno,17,muy bajo
+Av. venezuela,2025-05-01,Jueves,04:00-05:00,si,ninguno,25,muy bajo
+Av. venezuela,2025-05-01,Jueves,05:00-06:00,si,ninguno,65,bajo
+Av. venezuela,2025-05-01,Jueves,06:00-07:00,si,ninguno,116,bajo
+Av. venezuela,2025-05-01,Jueves,07:00-08:00,si,ninguno,98,bajo
+Av. venezuela,2025-05-01,Jueves,08:00-09:00,si,ninguno,87,bajo
+Av. venezuela,2025-05-01,Jueves,09:00-10:00,si,ninguno,83,bajo
+Av. venezuela,2025-05-01,Jueves,10:00-11:00,si,ninguno,50,muy bajo
+Av. venezuela,2025-05-01,Jueves,11:00-12:00,si,ninguno,54,bajo
+Av. venezuela,2025-05-01,Jueves,12:00-13:00,si,ninguno,87,bajo
+Av. venezuela,2025-05-01,Jueves,13:00-14:00,si,ninguno,86,bajo
+Av. venezuela,2025-05-01,Jueves,14:00-15:00,si,ninguno,74,bajo
+Av. venezuela,2025-05-01,Jueves,15:00-16:00,si,ninguno,83,bajo
+Av. venezuela,2025-05-01,Jueves,16:00-17:00,si,ninguno,86,bajo
+Av. venezuela,2025-05-01,Jueves,17:00-18:00,si,ninguno,141,regular
+Av. venezuela,2025-05-01,Jueves,18:00-19:00,si,ninguno,116,bajo
+Av. venezuela,2025-05-01,Jueves,19:00-20:00,si,ninguno,74,bajo
+Av. venezuela,2025-05-01,Jueves,20:00-21:00,si,ninguno,91,bajo
+Av. venezuela,2025-05-01,Jueves,21:00-22:00,si,ninguno,57,bajo
+Av. venezuela,2025-05-01,Jueves,22:00-23:00,si,ninguno,69,bajo
+Av. venezuela,2025-05-01,Jueves,23:00-00:00,si,ninguno,59,bajo
+Av. paseo de la república,2025-05-02,Viernes,00:00-01:00,si,ninguno,40,muy bajo
+Av. paseo de la república,2025-05-02,Viernes,01:00-02:00,si,ninguno,34,muy bajo
+Av. paseo de la república,2025-05-02,Viernes,02:00-03:00,si,ninguno,38,muy bajo
+Av. paseo de la república,2025-05-02,Viernes,03:00-04:00,si,ninguno,32,muy bajo
+Av. paseo de la república,2025-05-02,Viernes,04:00-05:00,si,ninguno,46,muy bajo
+Av. paseo de la república,2025-05-02,Viernes,05:00-06:00,si,ninguno,250,alto
+Av. paseo de la república,2025-05-02,Viernes,06:00-07:00,si,ninguno,181,alto
+Av. paseo de la república,2025-05-02,Viernes,07:00-08:00,si,ninguno,178,regular
+Av. paseo de la república,2025-05-02,Viernes,08:00-09:00,si,ninguno,150,regular
+Av. paseo de la república,2025-05-02,Viernes,09:00-10:00,si,ninguno,148,regular
+Av. paseo de la república,2025-05-02,Viernes,10:00-11:00,si,ninguno,126,regular
+Av. paseo de la república,2025-05-02,Viernes,11:00-12:00,si,ninguno,114,bajo
+Av. paseo de la república,2025-05-02,Viernes,12:00-13:00,si,ninguno,124,regular
+Av. paseo de la república,2025-05-02,Viernes,13:00-14:00,si,ninguno,114,bajo
+Av. paseo de la república,2025-05-02,Viernes,14:00-15:00,si,ninguno,157,regular
+Av. paseo de la república,2025-05-02,Viernes,15:00-16:00,si,ninguno,139,regular
+Av. paseo de la república,2025-05-02,Viernes,16:00-17:00,si,ninguno,102,bajo
+Av. paseo de la república,2025-05-02,Viernes,17:00-18:00,si,ninguno,188,alto
+Av. paseo de la república,2025-05-02,Viernes,18:00-19:00,si,ninguno,233,alto
+Av. paseo de la república,2025-05-02,Viernes,19:00-20:00,si,ninguno,199,alto
+Av. paseo de la república,2025-05-02,Viernes,20:00-21:00,si,ninguno,163,regular
+Av. paseo de la república,2025-05-02,Viernes,21:00-22:00,si,ninguno,145,regular
+Av. paseo de la república,2025-05-02,Viernes,22:00-23:00,si,ninguno,125,regular
+Av. paseo de la república,2025-05-02,Viernes,23:00-00:00,si,ninguno,73,bajo
+Av. alfredo benavides,2025-05-02,Viernes,00:00-01:00,si,ninguno,27,muy bajo
+Av. alfredo benavides,2025-05-02,Viernes,01:00-02:00,si,ninguno,34,muy bajo
+Av. alfredo benavides,2025-05-02,Viernes,02:00-03:00,si,ninguno,43,muy bajo
+Av. alfredo benavides,2025-05-02,Viernes,03:00-04:00,si,ninguno,15,muy bajo
+Av. alfredo benavides,2025-05-02,Viernes,04:00-05:00,si,ninguno,12,muy bajo
+Av. alfredo benavides,2025-05-02,Viernes,05:00-06:00,si,ninguno,212,alto
+Av. alfredo benavides,2025-05-02,Viernes,06:00-07:00,si,ninguno,113,bajo
+Av. alfredo benavides,2025-05-02,Viernes,07:00-08:00,si,ninguno,110,bajo
+Av. alfredo benavides,2025-05-02,Viernes,08:00-09:00,si,ninguno,140,regular
+Av. alfredo benavides,2025-05-02,Viernes,09:00-10:00,si,ninguno,164,regular
+Av. alfredo benavides,2025-05-02,Viernes,10:00-11:00,si,ninguno,94,bajo
+Av. alfredo benavides,2025-05-02,Viernes,11:00-12:00,si,ninguno,93,bajo
+Av. alfredo benavides,2025-05-02,Viernes,12:00-13:00,si,ninguno,104,bajo
+Av. alfredo benavides,2025-05-02,Viernes,13:00-14:00,si,ninguno,121,regular
+Av. alfredo benavides,2025-05-02,Viernes,14:00-15:00,si,ninguno,171,regular
+Av. alfredo benavides,2025-05-02,Viernes,15:00-16:00,si,ninguno,132,regular
+Av. alfredo benavides,2025-05-02,Viernes,16:00-17:00,si,ninguno,177,regular
+Av. alfredo benavides,2025-05-02,Viernes,17:00-18:00,si,ninguno,246,alto
+Av. alfredo benavides,2025-05-02,Viernes,18:00-19:00,si,ninguno,164,regular
+Av. alfredo benavides,2025-05-02,Viernes,19:00-20:00,si,ninguno,219,alto
+Av. alfredo benavides,2025-05-02,Viernes,20:00-21:00,si,ninguno,203,alto
+Av. alfredo benavides,2025-05-02,Viernes,21:00-22:00,si,ninguno,113,bajo
+Av. alfredo benavides,2025-05-02,Viernes,22:00-23:00,si,ninguno,146,regular
+Av. alfredo benavides,2025-05-02,Viernes,23:00-00:00,si,ninguno,119,bajo
+Av. universitaria,2025-05-02,Viernes,00:00-01:00,si,ninguno,20,muy bajo
+Av. universitaria,2025-05-02,Viernes,01:00-02:00,si,ninguno,17,muy bajo
+Av. universitaria,2025-05-02,Viernes,02:00-03:00,si,ninguno,11,muy bajo
+Av. universitaria,2025-05-02,Viernes,03:00-04:00,si,ninguno,44,muy bajo
+Av. universitaria,2025-05-02,Viernes,04:00-05:00,si,ninguno,47,muy bajo
+Av. universitaria,2025-05-02,Viernes,05:00-06:00,si,ninguno,161,regular
+Av. universitaria,2025-05-02,Viernes,06:00-07:00,si,ninguno,217,alto
+Av. universitaria,2025-05-02,Viernes,07:00-08:00,si,ninguno,160,regular
+Av. universitaria,2025-05-02,Viernes,08:00-09:00,si,ninguno,112,bajo
+Av. universitaria,2025-05-02,Viernes,09:00-10:00,si,ninguno,140,regular
+Av. universitaria,2025-05-02,Viernes,10:00-11:00,si,ninguno,100,bajo
+Av. universitaria,2025-05-02,Viernes,11:00-12:00,si,ninguno,176,regular
+Av. universitaria,2025-05-02,Viernes,12:00-13:00,si,ninguno,90,bajo
+Av. universitaria,2025-05-02,Viernes,13:00-14:00,si,ninguno,155,regular
+Av. universitaria,2025-05-02,Viernes,14:00-15:00,si,ninguno,162,regular
+Av. universitaria,2025-05-02,Viernes,15:00-16:00,si,ninguno,179,regular
+Av. universitaria,2025-05-02,Viernes,16:00-17:00,si,ninguno,95,bajo
+Av. universitaria,2025-05-02,Viernes,17:00-18:00,si,ninguno,226,alto
+Av. universitaria,2025-05-02,Viernes,18:00-19:00,si,ninguno,245,alto
+Av. universitaria,2025-05-02,Viernes,19:00-20:00,si,ninguno,239,alto
+Av. universitaria,2025-05-02,Viernes,20:00-21:00,si,ninguno,152,regular
+Av. universitaria,2025-05-02,Viernes,21:00-22:00,si,ninguno,122,regular
+Av. universitaria,2025-05-02,Viernes,22:00-23:00,si,ninguno,108,bajo
+Av. universitaria,2025-05-02,Viernes,23:00-00:00,si,ninguno,88,bajo
+Av. la marina,2025-05-02,Viernes,00:00-01:00,si,ninguno,35,muy bajo
+Av. la marina,2025-05-02,Viernes,01:00-02:00,si,ninguno,46,muy bajo
+Av. la marina,2025-05-02,Viernes,02:00-03:00,si,ninguno,24,muy bajo
+Av. la marina,2025-05-02,Viernes,03:00-04:00,si,ninguno,19,muy bajo
+Av. la marina,2025-05-02,Viernes,04:00-05:00,si,ninguno,13,muy bajo
+Av. la marina,2025-05-02,Viernes,05:00-06:00,si,ninguno,246,alto
+Av. la marina,2025-05-02,Viernes,06:00-07:00,si,ninguno,128,regular
+Av. la marina,2025-05-02,Viernes,07:00-08:00,si,ninguno,229,alto
+Av. la marina,2025-05-02,Viernes,08:00-09:00,si,ninguno,119,bajo
+Av. la marina,2025-05-02,Viernes,09:00-10:00,si,ninguno,134,regular
+Av. la marina,2025-05-02,Viernes,10:00-11:00,si,ninguno,93,bajo
+Av. la marina,2025-05-02,Viernes,11:00-12:00,si,ninguno,106,bajo
+Av. la marina,2025-05-02,Viernes,12:00-13:00,si,ninguno,104,bajo
+Av. la marina,2025-05-02,Viernes,13:00-14:00,si,ninguno,154,regular
+Av. la marina,2025-05-02,Viernes,14:00-15:00,si,ninguno,171,regular
+Av. la marina,2025-05-02,Viernes,15:00-16:00,si,ninguno,164,regular
+Av. la marina,2025-05-02,Viernes,16:00-17:00,si,ninguno,120,bajo
+Av. la marina,2025-05-02,Viernes,17:00-18:00,si,ninguno,146,regular
+Av. la marina,2025-05-02,Viernes,18:00-19:00,si,ninguno,190,alto
+Av. la marina,2025-05-02,Viernes,19:00-20:00,si,ninguno,133,regular
+Av. la marina,2025-05-02,Viernes,20:00-21:00,si,ninguno,194,alto
+Av. la marina,2025-05-02,Viernes,21:00-22:00,si,ninguno,148,regular
+Av. la marina,2025-05-02,Viernes,22:00-23:00,si,ninguno,64,bajo
+Av. la marina,2025-05-02,Viernes,23:00-00:00,si,ninguno,93,bajo
+Av. abancay,2025-05-02,Viernes,00:00-01:00,si,ninguno,33,muy bajo
+Av. abancay,2025-05-02,Viernes,01:00-02:00,si,ninguno,32,muy bajo
+Av. abancay,2025-05-02,Viernes,02:00-03:00,si,ninguno,32,muy bajo
+Av. abancay,2025-05-02,Viernes,03:00-04:00,si,ninguno,42,muy bajo
+Av. abancay,2025-05-02,Viernes,04:00-05:00,si,ninguno,28,muy bajo
+Av. abancay,2025-05-02,Viernes,05:00-06:00,si,ninguno,152,regular
+Av. abancay,2025-05-02,Viernes,06:00-07:00,si,ninguno,232,alto
+Av. abancay,2025-05-02,Viernes,07:00-08:00,si,ninguno,126,regular
+Av. abancay,2025-05-02,Viernes,08:00-09:00,si,ninguno,95,bajo
+Av. abancay,2025-05-02,Viernes,09:00-10:00,si,ninguno,111,bajo
+Av. abancay,2025-05-02,Viernes,10:00-11:00,si,ninguno,163,regular
+Av. abancay,2025-05-02,Viernes,11:00-12:00,si,ninguno,128,regular
+Av. abancay,2025-05-02,Viernes,12:00-13:00,si,ninguno,153,regular
+Av. abancay,2025-05-02,Viernes,13:00-14:00,si,ninguno,104,bajo
+Av. abancay,2025-05-02,Viernes,14:00-15:00,si,ninguno,144,regular
+Av. abancay,2025-05-02,Viernes,15:00-16:00,si,ninguno,164,regular
+Av. abancay,2025-05-02,Viernes,16:00-17:00,si,ninguno,101,bajo
+Av. abancay,2025-05-02,Viernes,17:00-18:00,si,ninguno,187,alto
+Av. abancay,2025-05-02,Viernes,18:00-19:00,si,ninguno,160,regular
+Av. abancay,2025-05-02,Viernes,19:00-20:00,si,ninguno,244,alto
+Av. abancay,2025-05-02,Viernes,20:00-21:00,si,ninguno,227,alto
+Av. abancay,2025-05-02,Viernes,21:00-22:00,si,ninguno,102,bajo
+Av. abancay,2025-05-02,Viernes,22:00-23:00,si,ninguno,99,bajo
+Av. abancay,2025-05-02,Viernes,23:00-00:00,si,ninguno,106,bajo
+Av. mexico,2025-05-02,Viernes,00:00-01:00,si,ninguno,20,muy bajo
+Av. mexico,2025-05-02,Viernes,01:00-02:00,si,ninguno,37,muy bajo
+Av. mexico,2025-05-02,Viernes,02:00-03:00,si,ninguno,47,muy bajo
+Av. mexico,2025-05-02,Viernes,03:00-04:00,si,ninguno,50,muy bajo
+Av. mexico,2025-05-02,Viernes,04:00-05:00,si,ninguno,48,muy bajo
+Av. mexico,2025-05-02,Viernes,05:00-06:00,si,ninguno,129,regular
+Av. mexico,2025-05-02,Viernes,06:00-07:00,si,ninguno,199,alto
+Av. mexico,2025-05-02,Viernes,07:00-08:00,si,ninguno,176,regular
+Av. mexico,2025-05-02,Viernes,08:00-09:00,si,ninguno,156,regular
+Av. mexico,2025-05-02,Viernes,09:00-10:00,si,ninguno,141,regular
+Av. mexico,2025-05-02,Viernes,10:00-11:00,si,ninguno,140,regular
+Av. mexico,2025-05-02,Viernes,11:00-12:00,si,ninguno,157,regular
+Av. mexico,2025-05-02,Viernes,12:00-13:00,si,ninguno,109,bajo
+Av. mexico,2025-05-02,Viernes,13:00-14:00,si,ninguno,97,bajo
+Av. mexico,2025-05-02,Viernes,14:00-15:00,si,ninguno,127,regular
+Av. mexico,2025-05-02,Viernes,15:00-16:00,si,ninguno,157,regular
+Av. mexico,2025-05-02,Viernes,16:00-17:00,si,ninguno,152,regular
+Av. mexico,2025-05-02,Viernes,17:00-18:00,si,ninguno,287,alto
+Av. mexico,2025-05-02,Viernes,18:00-19:00,si,ninguno,240,alto
+Av. mexico,2025-05-02,Viernes,19:00-20:00,si,ninguno,191,alto
+Av. mexico,2025-05-02,Viernes,20:00-21:00,si,ninguno,196,alto
+Av. mexico,2025-05-02,Viernes,21:00-22:00,si,ninguno,119,bajo
+Av. mexico,2025-05-02,Viernes,22:00-23:00,si,ninguno,149,regular
+Av. mexico,2025-05-02,Viernes,23:00-00:00,si,ninguno,145,regular
+Av. argentina,2025-05-02,Viernes,00:00-01:00,si,ninguno,31,muy bajo
+Av. argentina,2025-05-02,Viernes,01:00-02:00,si,ninguno,29,muy bajo
+Av. argentina,2025-05-02,Viernes,02:00-03:00,si,ninguno,50,muy bajo
+Av. argentina,2025-05-02,Viernes,03:00-04:00,si,ninguno,31,muy bajo
+Av. argentina,2025-05-02,Viernes,04:00-05:00,si,ninguno,15,muy bajo
+Av. argentina,2025-05-02,Viernes,05:00-06:00,si,ninguno,163,regular
+Av. argentina,2025-05-02,Viernes,06:00-07:00,si,ninguno,246,alto
+Av. argentina,2025-05-02,Viernes,07:00-08:00,si,ninguno,106,bajo
+Av. argentina,2025-05-02,Viernes,08:00-09:00,si,ninguno,105,bajo
+Av. argentina,2025-05-02,Viernes,09:00-10:00,si,ninguno,104,bajo
+Av. argentina,2025-05-02,Viernes,10:00-11:00,si,ninguno,108,bajo
+Av. argentina,2025-05-02,Viernes,11:00-12:00,si,ninguno,92,bajo
+Av. argentina,2025-05-02,Viernes,12:00-13:00,si,ninguno,158,regular
+Av. argentina,2025-05-02,Viernes,13:00-14:00,si,ninguno,113,bajo
+Av. argentina,2025-05-02,Viernes,14:00-15:00,si,ninguno,96,bajo
+Av. argentina,2025-05-02,Viernes,15:00-16:00,si,ninguno,97,bajo
+Av. argentina,2025-05-02,Viernes,16:00-17:00,si,ninguno,143,regular
+Av. argentina,2025-05-02,Viernes,17:00-18:00,si,ninguno,134,regular
+Av. argentina,2025-05-02,Viernes,18:00-19:00,si,ninguno,247,alto
+Av. argentina,2025-05-02,Viernes,19:00-20:00,si,ninguno,201,alto
+Av. argentina,2025-05-02,Viernes,20:00-21:00,si,ninguno,258,alto
+Av. argentina,2025-05-02,Viernes,21:00-22:00,si,ninguno,136,regular
+Av. argentina,2025-05-02,Viernes,22:00-23:00,si,ninguno,114,bajo
+Av. argentina,2025-05-02,Viernes,23:00-00:00,si,ninguno,142,regular
+Av. venezuela,2025-05-02,Viernes,00:00-01:00,si,ninguno,47,muy bajo
+Av. venezuela,2025-05-02,Viernes,01:00-02:00,si,ninguno,21,muy bajo
+Av. venezuela,2025-05-02,Viernes,02:00-03:00,si,ninguno,41,muy bajo
+Av. venezuela,2025-05-02,Viernes,03:00-04:00,si,ninguno,24,muy bajo
+Av. venezuela,2025-05-02,Viernes,04:00-05:00,si,ninguno,41,muy bajo
+Av. venezuela,2025-05-02,Viernes,05:00-06:00,si,ninguno,244,alto
+Av. venezuela,2025-05-02,Viernes,06:00-07:00,si,ninguno,115,bajo
+Av. venezuela,2025-05-02,Viernes,07:00-08:00,si,ninguno,230,alto
+Av. venezuela,2025-05-02,Viernes,08:00-09:00,si,ninguno,120,bajo
+Av. venezuela,2025-05-02,Viernes,09:00-10:00,si,ninguno,118,bajo
+Av. venezuela,2025-05-02,Viernes,10:00-11:00,si,ninguno,151,regular
+Av. venezuela,2025-05-02,Viernes,11:00-12:00,si,ninguno,170,regular
+Av. venezuela,2025-05-02,Viernes,12:00-13:00,si,ninguno,152,regular
+Av. venezuela,2025-05-02,Viernes,13:00-14:00,si,ninguno,101,bajo
+Av. venezuela,2025-05-02,Viernes,14:00-15:00,si,ninguno,132,regular
+Av. venezuela,2025-05-02,Viernes,15:00-16:00,si,ninguno,161,regular
+Av. venezuela,2025-05-02,Viernes,16:00-17:00,si,ninguno,147,regular
+Av. venezuela,2025-05-02,Viernes,17:00-18:00,si,ninguno,252,alto
+Av. venezuela,2025-05-02,Viernes,18:00-19:00,si,ninguno,140,regular
+Av. venezuela,2025-05-02,Viernes,19:00-20:00,si,ninguno,162,regular
+Av. venezuela,2025-05-02,Viernes,20:00-21:00,si,ninguno,243,alto
+Av. venezuela,2025-05-02,Viernes,21:00-22:00,si,ninguno,90,bajo
+Av. venezuela,2025-05-02,Viernes,22:00-23:00,si,ninguno,82,bajo
+Av. venezuela,2025-05-02,Viernes,23:00-00:00,si,ninguno,138,regular
+Av. paseo de la república,2025-05-03,Sabado,00:00-01:00,no,ninguno,11,muy bajo
+Av. paseo de la república,2025-05-03,Sabado,01:00-02:00,no,ninguno,39,muy bajo
+Av. paseo de la república,2025-05-03,Sabado,02:00-03:00,no,ninguno,42,muy bajo
+Av. paseo de la república,2025-05-03,Sabado,03:00-04:00,no,ninguno,37,muy bajo
+Av. paseo de la república,2025-05-03,Sabado,04:00-05:00,no,ninguno,21,muy bajo
+Av. paseo de la república,2025-05-03,Sabado,05:00-06:00,no,ninguno,221,alto
+Av. paseo de la república,2025-05-03,Sabado,06:00-07:00,no,ninguno,245,alto
+Av. paseo de la república,2025-05-03,Sabado,07:00-08:00,no,ninguno,233,alto
+Av. paseo de la república,2025-05-03,Sabado,08:00-09:00,no,ninguno,104,bajo
+Av. paseo de la república,2025-05-03,Sabado,09:00-10:00,no,ninguno,180,regular
+Av. paseo de la república,2025-05-03,Sabado,10:00-11:00,no,ninguno,119,bajo
+Av. paseo de la república,2025-05-03,Sabado,11:00-12:00,no,ninguno,146,regular
+Av. paseo de la república,2025-05-03,Sabado,12:00-13:00,no,ninguno,118,bajo
+Av. paseo de la república,2025-05-03,Sabado,13:00-14:00,no,ninguno,107,bajo
+Av. paseo de la república,2025-05-03,Sabado,14:00-15:00,no,ninguno,125,regular
+Av. paseo de la república,2025-05-03,Sabado,15:00-16:00,no,ninguno,108,bajo
+Av. paseo de la república,2025-05-03,Sabado,16:00-17:00,no,ninguno,98,bajo
+Av. paseo de la república,2025-05-03,Sabado,17:00-18:00,no,ninguno,141,regular
+Av. paseo de la república,2025-05-03,Sabado,18:00-19:00,no,ninguno,239,alto
+Av. paseo de la república,2025-05-03,Sabado,19:00-20:00,no,ninguno,174,regular
+Av. paseo de la república,2025-05-03,Sabado,20:00-21:00,no,ninguno,262,alto
+Av. paseo de la república,2025-05-03,Sabado,21:00-22:00,no,ninguno,106,bajo
+Av. paseo de la república,2025-05-03,Sabado,22:00-23:00,no,ninguno,77,bajo
+Av. paseo de la república,2025-05-03,Sabado,23:00-00:00,no,ninguno,116,bajo
+Av. alfredo benavides,2025-05-03,Sabado,00:00-01:00,no,ninguno,42,muy bajo
+Av. alfredo benavides,2025-05-03,Sabado,01:00-02:00,no,ninguno,49,muy bajo
+Av. alfredo benavides,2025-05-03,Sabado,02:00-03:00,no,ninguno,13,muy bajo
+Av. alfredo benavides,2025-05-03,Sabado,03:00-04:00,no,ninguno,28,muy bajo
+Av. alfredo benavides,2025-05-03,Sabado,04:00-05:00,no,ninguno,48,muy bajo
+Av. alfredo benavides,2025-05-03,Sabado,05:00-06:00,no,ninguno,108,bajo
+Av. alfredo benavides,2025-05-03,Sabado,06:00-07:00,no,ninguno,130,regular
+Av. alfredo benavides,2025-05-03,Sabado,07:00-08:00,no,ninguno,130,regular
+Av. alfredo benavides,2025-05-03,Sabado,08:00-09:00,no,ninguno,171,regular
+Av. alfredo benavides,2025-05-03,Sabado,09:00-10:00,no,ninguno,125,regular
+Av. alfredo benavides,2025-05-03,Sabado,10:00-11:00,no,ninguno,118,bajo
+Av. alfredo benavides,2025-05-03,Sabado,11:00-12:00,no,ninguno,180,regular
+Av. alfredo benavides,2025-05-03,Sabado,12:00-13:00,no,ninguno,105,bajo
+Av. alfredo benavides,2025-05-03,Sabado,13:00-14:00,no,ninguno,123,regular
+Av. alfredo benavides,2025-05-03,Sabado,14:00-15:00,no,ninguno,128,regular
+Av. alfredo benavides,2025-05-03,Sabado,15:00-16:00,no,ninguno,91,bajo
+Av. alfredo benavides,2025-05-03,Sabado,16:00-17:00,no,ninguno,167,regular
+Av. alfredo benavides,2025-05-03,Sabado,17:00-18:00,no,ninguno,232,alto
+Av. alfredo benavides,2025-05-03,Sabado,18:00-19:00,no,ninguno,184,alto
+Av. alfredo benavides,2025-05-03,Sabado,19:00-20:00,no,ninguno,213,alto
+Av. alfredo benavides,2025-05-03,Sabado,20:00-21:00,no,ninguno,158,regular
+Av. alfredo benavides,2025-05-03,Sabado,21:00-22:00,no,ninguno,82,bajo
+Av. alfredo benavides,2025-05-03,Sabado,22:00-23:00,no,ninguno,75,bajo
+Av. alfredo benavides,2025-05-03,Sabado,23:00-00:00,no,ninguno,96,bajo
+Av. universitaria,2025-05-03,Sabado,00:00-01:00,no,ninguno,45,muy bajo
+Av. universitaria,2025-05-03,Sabado,01:00-02:00,no,ninguno,39,muy bajo
+Av. universitaria,2025-05-03,Sabado,02:00-03:00,no,ninguno,16,muy bajo
+Av. universitaria,2025-05-03,Sabado,03:00-04:00,no,ninguno,22,muy bajo
+Av. universitaria,2025-05-03,Sabado,04:00-05:00,no,ninguno,19,muy bajo
+Av. universitaria,2025-05-03,Sabado,05:00-06:00,no,ninguno,100,bajo
+Av. universitaria,2025-05-03,Sabado,06:00-07:00,no,ninguno,200,alto
+Av. universitaria,2025-05-03,Sabado,07:00-08:00,no,ninguno,127,regular
+Av. universitaria,2025-05-03,Sabado,08:00-09:00,no,ninguno,174,regular
+Av. universitaria,2025-05-03,Sabado,09:00-10:00,no,ninguno,102,bajo
+Av. universitaria,2025-05-03,Sabado,10:00-11:00,no,ninguno,132,regular
+Av. universitaria,2025-05-03,Sabado,11:00-12:00,no,ninguno,108,bajo
+Av. universitaria,2025-05-03,Sabado,12:00-13:00,no,ninguno,170,regular
+Av. universitaria,2025-05-03,Sabado,13:00-14:00,no,ninguno,156,regular
+Av. universitaria,2025-05-03,Sabado,14:00-15:00,no,ninguno,136,regular
+Av. universitaria,2025-05-03,Sabado,15:00-16:00,no,ninguno,149,regular
+Av. universitaria,2025-05-03,Sabado,16:00-17:00,no,ninguno,173,regular
+Av. universitaria,2025-05-03,Sabado,17:00-18:00,no,ninguno,189,alto
+Av. universitaria,2025-05-03,Sabado,18:00-19:00,no,ninguno,166,regular
+Av. universitaria,2025-05-03,Sabado,19:00-20:00,no,ninguno,220,alto
+Av. universitaria,2025-05-03,Sabado,20:00-21:00,no,ninguno,181,alto
+Av. universitaria,2025-05-03,Sabado,21:00-22:00,no,ninguno,69,bajo
+Av. universitaria,2025-05-03,Sabado,22:00-23:00,no,ninguno,133,regular
+Av. universitaria,2025-05-03,Sabado,23:00-00:00,no,ninguno,104,bajo
+Av. la marina,2025-05-03,Sabado,00:00-01:00,no,ninguno,39,muy bajo
+Av. la marina,2025-05-03,Sabado,01:00-02:00,no,ninguno,21,muy bajo
+Av. la marina,2025-05-03,Sabado,02:00-03:00,no,ninguno,20,muy bajo
+Av. la marina,2025-05-03,Sabado,03:00-04:00,no,ninguno,16,muy bajo
+Av. la marina,2025-05-03,Sabado,04:00-05:00,no,ninguno,14,muy bajo
+Av. la marina,2025-05-03,Sabado,05:00-06:00,no,ninguno,165,regular
+Av. la marina,2025-05-03,Sabado,06:00-07:00,no,ninguno,198,alto
+Av. la marina,2025-05-03,Sabado,07:00-08:00,no,ninguno,110,bajo
+Av. la marina,2025-05-03,Sabado,08:00-09:00,no,ninguno,164,regular
+Av. la marina,2025-05-03,Sabado,09:00-10:00,no,ninguno,143,regular
+Av. la marina,2025-05-03,Sabado,10:00-11:00,no,ninguno,123,regular
+Av. la marina,2025-05-03,Sabado,11:00-12:00,no,ninguno,155,regular
+Av. la marina,2025-05-03,Sabado,12:00-13:00,no,ninguno,143,regular
+Av. la marina,2025-05-03,Sabado,13:00-14:00,no,ninguno,108,bajo
+Av. la marina,2025-05-03,Sabado,14:00-15:00,no,ninguno,149,regular
+Av. la marina,2025-05-03,Sabado,15:00-16:00,no,ninguno,93,bajo
+Av. la marina,2025-05-03,Sabado,16:00-17:00,no,ninguno,107,bajo
+Av. la marina,2025-05-03,Sabado,17:00-18:00,no,ninguno,277,alto
+Av. la marina,2025-05-03,Sabado,18:00-19:00,no,ninguno,266,alto
+Av. la marina,2025-05-03,Sabado,19:00-20:00,no,ninguno,291,alto
+Av. la marina,2025-05-03,Sabado,20:00-21:00,no,ninguno,207,alto
+Av. la marina,2025-05-03,Sabado,21:00-22:00,no,ninguno,63,bajo
+Av. la marina,2025-05-03,Sabado,22:00-23:00,no,ninguno,97,bajo
+Av. la marina,2025-05-03,Sabado,23:00-00:00,no,ninguno,147,regular
+Av. abancay,2025-05-03,Sabado,00:00-01:00,no,ninguno,38,muy bajo
+Av. abancay,2025-05-03,Sabado,01:00-02:00,no,ninguno,16,muy bajo
+Av. abancay,2025-05-03,Sabado,02:00-03:00,no,ninguno,17,muy bajo
+Av. abancay,2025-05-03,Sabado,03:00-04:00,no,ninguno,40,muy bajo
+Av. abancay,2025-05-03,Sabado,04:00-05:00,no,ninguno,24,muy bajo
+Av. abancay,2025-05-03,Sabado,05:00-06:00,no,ninguno,147,regular
+Av. abancay,2025-05-03,Sabado,06:00-07:00,no,ninguno,246,alto
+Av. abancay,2025-05-03,Sabado,07:00-08:00,no,ninguno,213,alto
+Av. abancay,2025-05-03,Sabado,08:00-09:00,no,ninguno,150,regular
+Av. abancay,2025-05-03,Sabado,09:00-10:00,no,ninguno,126,regular
+Av. abancay,2025-05-03,Sabado,10:00-11:00,no,ninguno,103,bajo
+Av. abancay,2025-05-03,Sabado,11:00-12:00,no,ninguno,156,regular
+Av. abancay,2025-05-03,Sabado,12:00-13:00,no,ninguno,130,regular
+Av. abancay,2025-05-03,Sabado,13:00-14:00,no,ninguno,114,bajo
+Av. abancay,2025-05-03,Sabado,14:00-15:00,no,ninguno,109,bajo
+Av. abancay,2025-05-03,Sabado,15:00-16:00,no,ninguno,177,regular
+Av. abancay,2025-05-03,Sabado,16:00-17:00,no,ninguno,95,bajo
+Av. abancay,2025-05-03,Sabado,17:00-18:00,no,ninguno,276,alto
+Av. abancay,2025-05-03,Sabado,18:00-19:00,no,ninguno,137,regular
+Av. abancay,2025-05-03,Sabado,19:00-20:00,no,ninguno,170,regular
+Av. abancay,2025-05-03,Sabado,20:00-21:00,no,ninguno,285,alto
+Av. abancay,2025-05-03,Sabado,21:00-22:00,no,ninguno,89,bajo
+Av. abancay,2025-05-03,Sabado,22:00-23:00,no,ninguno,89,bajo
+Av. abancay,2025-05-03,Sabado,23:00-00:00,no,ninguno,125,regular
+Av. mexico,2025-05-03,Sabado,00:00-01:00,no,ninguno,51,muy bajo
+Av. mexico,2025-05-03,Sabado,01:00-02:00,no,ninguno,34,muy bajo
+Av. mexico,2025-05-03,Sabado,02:00-03:00,no,ninguno,28,muy bajo
+Av. mexico,2025-05-03,Sabado,03:00-04:00,no,ninguno,45,muy bajo
+Av. mexico,2025-05-03,Sabado,04:00-05:00,no,ninguno,46,muy bajo
+Av. mexico,2025-05-03,Sabado,05:00-06:00,no,ninguno,155,regular
+Av. mexico,2025-05-03,Sabado,06:00-07:00,no,ninguno,207,alto
+Av. mexico,2025-05-03,Sabado,07:00-08:00,no,ninguno,128,regular
+Av. mexico,2025-05-03,Sabado,08:00-09:00,no,ninguno,93,bajo
+Av. mexico,2025-05-03,Sabado,09:00-10:00,no,ninguno,108,bajo
+Av. mexico,2025-05-03,Sabado,10:00-11:00,no,ninguno,176,regular
+Av. mexico,2025-05-03,Sabado,11:00-12:00,no,ninguno,109,bajo
+Av. mexico,2025-05-03,Sabado,12:00-13:00,no,ninguno,168,regular
+Av. mexico,2025-05-03,Sabado,13:00-14:00,no,ninguno,140,regular
+Av. mexico,2025-05-03,Sabado,14:00-15:00,no,ninguno,113,bajo
+Av. mexico,2025-05-03,Sabado,15:00-16:00,no,ninguno,175,regular
+Av. mexico,2025-05-03,Sabado,16:00-17:00,no,ninguno,114,bajo
+Av. mexico,2025-05-03,Sabado,17:00-18:00,no,ninguno,183,alto
+Av. mexico,2025-05-03,Sabado,18:00-19:00,no,ninguno,246,alto
+Av. mexico,2025-05-03,Sabado,19:00-20:00,no,ninguno,149,regular
+Av. mexico,2025-05-03,Sabado,20:00-21:00,no,ninguno,170,regular
+Av. mexico,2025-05-03,Sabado,21:00-22:00,no,ninguno,148,regular
+Av. mexico,2025-05-03,Sabado,22:00-23:00,no,ninguno,125,regular
+Av. mexico,2025-05-03,Sabado,23:00-00:00,no,ninguno,83,bajo
+Av. argentina,2025-05-03,Sabado,00:00-01:00,no,ninguno,41,muy bajo
+Av. argentina,2025-05-03,Sabado,01:00-02:00,no,ninguno,10,muy bajo
+Av. argentina,2025-05-03,Sabado,02:00-03:00,no,ninguno,25,muy bajo
+Av. argentina,2025-05-03,Sabado,03:00-04:00,no,ninguno,42,muy bajo
+Av. argentina,2025-05-03,Sabado,04:00-05:00,no,ninguno,29,muy bajo
+Av. argentina,2025-05-03,Sabado,05:00-06:00,no,ninguno,162,regular
+Av. argentina,2025-05-03,Sabado,06:00-07:00,no,ninguno,158,regular
+Av. argentina,2025-05-03,Sabado,07:00-08:00,no,ninguno,142,regular
+Av. argentina,2025-05-03,Sabado,08:00-09:00,no,ninguno,146,regular
+Av. argentina,2025-05-03,Sabado,09:00-10:00,no,ninguno,108,bajo
+Av. argentina,2025-05-03,Sabado,10:00-11:00,no,ninguno,159,regular
+Av. argentina,2025-05-03,Sabado,11:00-12:00,no,ninguno,122,regular
+Av. argentina,2025-05-03,Sabado,12:00-13:00,no,ninguno,105,bajo
+Av. argentina,2025-05-03,Sabado,13:00-14:00,no,ninguno,129,regular
+Av. argentina,2025-05-03,Sabado,14:00-15:00,no,ninguno,102,bajo
+Av. argentina,2025-05-03,Sabado,15:00-16:00,no,ninguno,142,regular
+Av. argentina,2025-05-03,Sabado,16:00-17:00,no,ninguno,140,regular
+Av. argentina,2025-05-03,Sabado,17:00-18:00,no,ninguno,256,alto
+Av. argentina,2025-05-03,Sabado,18:00-19:00,no,ninguno,204,alto
+Av. argentina,2025-05-03,Sabado,19:00-20:00,no,ninguno,285,alto
+Av. argentina,2025-05-03,Sabado,20:00-21:00,no,ninguno,147,regular
+Av. argentina,2025-05-03,Sabado,21:00-22:00,no,ninguno,107,bajo
+Av. argentina,2025-05-03,Sabado,22:00-23:00,no,ninguno,133,regular
+Av. argentina,2025-05-03,Sabado,23:00-00:00,no,ninguno,72,bajo
+Av. venezuela,2025-05-03,Sabado,00:00-01:00,no,ninguno,47,muy bajo
+Av. venezuela,2025-05-03,Sabado,01:00-02:00,no,ninguno,11,muy bajo
+Av. venezuela,2025-05-03,Sabado,02:00-03:00,no,ninguno,23,muy bajo
+Av. venezuela,2025-05-03,Sabado,03:00-04:00,no,ninguno,23,muy bajo
+Av. venezuela,2025-05-03,Sabado,04:00-05:00,no,ninguno,25,muy bajo
+Av. venezuela,2025-05-03,Sabado,05:00-06:00,no,ninguno,215,alto
+Av. venezuela,2025-05-03,Sabado,06:00-07:00,no,ninguno,247,alto
+Av. venezuela,2025-05-03,Sabado,07:00-08:00,no,ninguno,248,alto
+Av. venezuela,2025-05-03,Sabado,08:00-09:00,no,ninguno,121,regular
+Av. venezuela,2025-05-03,Sabado,09:00-10:00,no,ninguno,142,regular
+Av. venezuela,2025-05-03,Sabado,10:00-11:00,no,ninguno,105,bajo
+Av. venezuela,2025-05-03,Sabado,11:00-12:00,no,ninguno,167,regular
+Av. venezuela,2025-05-03,Sabado,12:00-13:00,no,ninguno,129,regular
+Av. venezuela,2025-05-03,Sabado,13:00-14:00,no,ninguno,159,regular
+Av. venezuela,2025-05-03,Sabado,14:00-15:00,no,ninguno,103,bajo
+Av. venezuela,2025-05-03,Sabado,15:00-16:00,no,ninguno,180,regular
+Av. venezuela,2025-05-03,Sabado,16:00-17:00,no,ninguno,177,regular
+Av. venezuela,2025-05-03,Sabado,17:00-18:00,no,ninguno,149,regular
+Av. venezuela,2025-05-03,Sabado,18:00-19:00,no,ninguno,181,alto
+Av. venezuela,2025-05-03,Sabado,19:00-20:00,no,ninguno,206,alto
+Av. venezuela,2025-05-03,Sabado,20:00-21:00,no,ninguno,221,alto
+Av. venezuela,2025-05-03,Sabado,21:00-22:00,no,ninguno,117,bajo
+Av. venezuela,2025-05-03,Sabado,22:00-23:00,no,ninguno,95,bajo
+Av. venezuela,2025-05-03,Sabado,23:00-00:00,no,ninguno,139,regular
+Av. paseo de la república,2025-05-04,Domingo,00:00-01:00,no,ninguno,42,muy bajo
+Av. paseo de la república,2025-05-04,Domingo,01:00-02:00,no,ninguno,45,muy bajo
+Av. paseo de la república,2025-05-04,Domingo,02:00-03:00,no,ninguno,41,muy bajo
+Av. paseo de la república,2025-05-04,Domingo,03:00-04:00,no,ninguno,17,muy bajo
+Av. paseo de la república,2025-05-04,Domingo,04:00-05:00,no,ninguno,26,muy bajo
+Av. paseo de la república,2025-05-04,Domingo,05:00-06:00,no,ninguno,232,alto
+Av. paseo de la república,2025-05-04,Domingo,06:00-07:00,no,ninguno,231,alto
+Av. paseo de la república,2025-05-04,Domingo,07:00-08:00,no,ninguno,183,alto
+Av. paseo de la república,2025-05-04,Domingo,08:00-09:00,no,ninguno,151,regular
+Av. paseo de la república,2025-05-04,Domingo,09:00-10:00,no,ninguno,158,regular
+Av. paseo de la república,2025-05-04,Domingo,10:00-11:00,no,ninguno,173,regular
+Av. paseo de la república,2025-05-04,Domingo,11:00-12:00,no,ninguno,172,regular
+Av. paseo de la república,2025-05-04,Domingo,12:00-13:00,no,ninguno,179,regular
+Av. paseo de la república,2025-05-04,Domingo,13:00-14:00,no,ninguno,122,regular
+Av. paseo de la república,2025-05-04,Domingo,14:00-15:00,no,ninguno,124,regular
+Av. paseo de la república,2025-05-04,Domingo,15:00-16:00,no,ninguno,175,regular
+Av. paseo de la república,2025-05-04,Domingo,16:00-17:00,no,ninguno,154,regular
+Av. paseo de la república,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,284,alto
+Av. paseo de la república,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,314,alto
+Av. paseo de la república,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,332,alto
+Av. paseo de la república,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,242,alto
+Av. paseo de la república,2025-05-04,Domingo,21:00-22:00,no,ninguno,131,regular
+Av. paseo de la república,2025-05-04,Domingo,22:00-23:00,no,ninguno,85,bajo
+Av. paseo de la república,2025-05-04,Domingo,23:00-00:00,no,ninguno,97,bajo
+Av. alfredo benavides,2025-05-04,Domingo,00:00-01:00,no,ninguno,35,muy bajo
+Av. alfredo benavides,2025-05-04,Domingo,01:00-02:00,no,ninguno,50,muy bajo
+Av. alfredo benavides,2025-05-04,Domingo,02:00-03:00,no,ninguno,28,muy bajo
+Av. alfredo benavides,2025-05-04,Domingo,03:00-04:00,no,ninguno,24,muy bajo
+Av. alfredo benavides,2025-05-04,Domingo,04:00-05:00,no,ninguno,33,muy bajo
+Av. alfredo benavides,2025-05-04,Domingo,05:00-06:00,no,ninguno,205,alto
+Av. alfredo benavides,2025-05-04,Domingo,06:00-07:00,no,ninguno,112,bajo
+Av. alfredo benavides,2025-05-04,Domingo,07:00-08:00,no,ninguno,235,alto
+Av. alfredo benavides,2025-05-04,Domingo,08:00-09:00,no,ninguno,99,bajo
+Av. alfredo benavides,2025-05-04,Domingo,09:00-10:00,no,ninguno,94,bajo
+Av. alfredo benavides,2025-05-04,Domingo,10:00-11:00,no,ninguno,180,regular
+Av. alfredo benavides,2025-05-04,Domingo,11:00-12:00,no,ninguno,96,bajo
+Av. alfredo benavides,2025-05-04,Domingo,12:00-13:00,no,ninguno,159,regular
+Av. alfredo benavides,2025-05-04,Domingo,13:00-14:00,no,ninguno,119,bajo
+Av. alfredo benavides,2025-05-04,Domingo,14:00-15:00,no,ninguno,105,bajo
+Av. alfredo benavides,2025-05-04,Domingo,15:00-16:00,no,ninguno,127,regular
+Av. alfredo benavides,2025-05-04,Domingo,16:00-17:00,no,ninguno,165,regular
+Av. alfredo benavides,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,324,alto
+Av. alfredo benavides,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,339,alto
+Av. alfredo benavides,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,298,alto
+Av. alfredo benavides,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,272,alto
+Av. alfredo benavides,2025-05-04,Domingo,21:00-22:00,no,ninguno,119,bajo
+Av. alfredo benavides,2025-05-04,Domingo,22:00-23:00,no,ninguno,68,bajo
+Av. alfredo benavides,2025-05-04,Domingo,23:00-00:00,no,ninguno,90,bajo
+Av. universitaria,2025-05-04,Domingo,00:00-01:00,no,ninguno,24,muy bajo
+Av. universitaria,2025-05-04,Domingo,01:00-02:00,no,ninguno,33,muy bajo
+Av. universitaria,2025-05-04,Domingo,02:00-03:00,no,ninguno,32,muy bajo
+Av. universitaria,2025-05-04,Domingo,03:00-04:00,no,ninguno,42,muy bajo
+Av. universitaria,2025-05-04,Domingo,04:00-05:00,no,ninguno,44,muy bajo
+Av. universitaria,2025-05-04,Domingo,05:00-06:00,no,ninguno,103,bajo
+Av. universitaria,2025-05-04,Domingo,06:00-07:00,no,ninguno,136,regular
+Av. universitaria,2025-05-04,Domingo,07:00-08:00,no,ninguno,203,alto
+Av. universitaria,2025-05-04,Domingo,08:00-09:00,no,ninguno,102,bajo
+Av. universitaria,2025-05-04,Domingo,09:00-10:00,no,ninguno,99,bajo
+Av. universitaria,2025-05-04,Domingo,10:00-11:00,no,ninguno,178,regular
+Av. universitaria,2025-05-04,Domingo,11:00-12:00,no,ninguno,163,regular
+Av. universitaria,2025-05-04,Domingo,12:00-13:00,no,ninguno,176,regular
+Av. universitaria,2025-05-04,Domingo,13:00-14:00,no,ninguno,166,regular
+Av. universitaria,2025-05-04,Domingo,14:00-15:00,no,ninguno,148,regular
+Av. universitaria,2025-05-04,Domingo,15:00-16:00,no,ninguno,165,regular
+Av. universitaria,2025-05-04,Domingo,16:00-17:00,no,ninguno,110,bajo
+Av. universitaria,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,279,alto
+Av. universitaria,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,260,alto
+Av. universitaria,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,337,alto
+Av. universitaria,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,231,alto
+Av. universitaria,2025-05-04,Domingo,21:00-22:00,no,ninguno,65,bajo
+Av. universitaria,2025-05-04,Domingo,22:00-23:00,no,ninguno,83,bajo
+Av. universitaria,2025-05-04,Domingo,23:00-00:00,no,ninguno,73,bajo
+Av. la marina,2025-05-04,Domingo,00:00-01:00,no,ninguno,14,muy bajo
+Av. la marina,2025-05-04,Domingo,01:00-02:00,no,ninguno,30,muy bajo
+Av. la marina,2025-05-04,Domingo,02:00-03:00,no,ninguno,32,muy bajo
+Av. la marina,2025-05-04,Domingo,03:00-04:00,no,ninguno,12,muy bajo
+Av. la marina,2025-05-04,Domingo,04:00-05:00,no,ninguno,24,muy bajo
+Av. la marina,2025-05-04,Domingo,05:00-06:00,no,ninguno,228,alto
+Av. la marina,2025-05-04,Domingo,06:00-07:00,no,ninguno,111,bajo
+Av. la marina,2025-05-04,Domingo,07:00-08:00,no,ninguno,236,alto
+Av. la marina,2025-05-04,Domingo,08:00-09:00,no,ninguno,124,regular
+Av. la marina,2025-05-04,Domingo,09:00-10:00,no,ninguno,151,regular
+Av. la marina,2025-05-04,Domingo,10:00-11:00,no,ninguno,95,bajo
+Av. la marina,2025-05-04,Domingo,11:00-12:00,no,ninguno,176,regular
+Av. la marina,2025-05-04,Domingo,12:00-13:00,no,ninguno,140,regular
+Av. la marina,2025-05-04,Domingo,13:00-14:00,no,ninguno,168,regular
+Av. la marina,2025-05-04,Domingo,14:00-15:00,no,ninguno,175,regular
+Av. la marina,2025-05-04,Domingo,15:00-16:00,no,ninguno,99,bajo
+Av. la marina,2025-05-04,Domingo,16:00-17:00,no,ninguno,94,bajo
+Av. la marina,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,327,alto
+Av. la marina,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,286,alto
+Av. la marina,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,195,alto
+Av. la marina,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,171,regular
+Av. la marina,2025-05-04,Domingo,21:00-22:00,no,ninguno,103,bajo
+Av. la marina,2025-05-04,Domingo,22:00-23:00,no,ninguno,123,regular
+Av. la marina,2025-05-04,Domingo,23:00-00:00,no,ninguno,67,bajo
+Av. abancay,2025-05-04,Domingo,00:00-01:00,no,ninguno,49,muy bajo
+Av. abancay,2025-05-04,Domingo,01:00-02:00,no,ninguno,30,muy bajo
+Av. abancay,2025-05-04,Domingo,02:00-03:00,no,ninguno,49,muy bajo
+Av. abancay,2025-05-04,Domingo,03:00-04:00,no,ninguno,25,muy bajo
+Av. abancay,2025-05-04,Domingo,04:00-05:00,no,ninguno,19,muy bajo
+Av. abancay,2025-05-04,Domingo,05:00-06:00,no,ninguno,145,regular
+Av. abancay,2025-05-04,Domingo,06:00-07:00,no,ninguno,191,alto
+Av. abancay,2025-05-04,Domingo,07:00-08:00,no,ninguno,149,regular
+Av. abancay,2025-05-04,Domingo,08:00-09:00,no,ninguno,118,bajo
+Av. abancay,2025-05-04,Domingo,09:00-10:00,no,ninguno,171,regular
+Av. abancay,2025-05-04,Domingo,10:00-11:00,no,ninguno,117,bajo
+Av. abancay,2025-05-04,Domingo,11:00-12:00,no,ninguno,111,bajo
+Av. abancay,2025-05-04,Domingo,12:00-13:00,no,ninguno,175,regular
+Av. abancay,2025-05-04,Domingo,13:00-14:00,no,ninguno,165,regular
+Av. abancay,2025-05-04,Domingo,14:00-15:00,no,ninguno,170,regular
+Av. abancay,2025-05-04,Domingo,15:00-16:00,no,ninguno,107,bajo
+Av. abancay,2025-05-04,Domingo,16:00-17:00,no,ninguno,115,bajo
+Av. abancay,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,321,alto
+Av. abancay,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,208,alto
+Av. abancay,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,198,alto
+Av. abancay,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,246,alto
+Av. abancay,2025-05-04,Domingo,21:00-22:00,no,ninguno,120,bajo
+Av. abancay,2025-05-04,Domingo,22:00-23:00,no,ninguno,144,regular
+Av. abancay,2025-05-04,Domingo,23:00-00:00,no,ninguno,106,bajo
+Av. mexico,2025-05-04,Domingo,00:00-01:00,no,ninguno,31,muy bajo
+Av. mexico,2025-05-04,Domingo,01:00-02:00,no,ninguno,49,muy bajo
+Av. mexico,2025-05-04,Domingo,02:00-03:00,no,ninguno,43,muy bajo
+Av. mexico,2025-05-04,Domingo,03:00-04:00,no,ninguno,49,muy bajo
+Av. mexico,2025-05-04,Domingo,04:00-05:00,no,ninguno,27,muy bajo
+Av. mexico,2025-05-04,Domingo,05:00-06:00,no,ninguno,100,bajo
+Av. mexico,2025-05-04,Domingo,06:00-07:00,no,ninguno,249,alto
+Av. mexico,2025-05-04,Domingo,07:00-08:00,no,ninguno,248,alto
+Av. mexico,2025-05-04,Domingo,08:00-09:00,no,ninguno,180,regular
+Av. mexico,2025-05-04,Domingo,09:00-10:00,no,ninguno,112,bajo
+Av. mexico,2025-05-04,Domingo,10:00-11:00,no,ninguno,123,regular
+Av. mexico,2025-05-04,Domingo,11:00-12:00,no,ninguno,97,bajo
+Av. mexico,2025-05-04,Domingo,12:00-13:00,no,ninguno,156,regular
+Av. mexico,2025-05-04,Domingo,13:00-14:00,no,ninguno,126,regular
+Av. mexico,2025-05-04,Domingo,14:00-15:00,no,ninguno,157,regular
+Av. mexico,2025-05-04,Domingo,15:00-16:00,no,ninguno,103,bajo
+Av. mexico,2025-05-04,Domingo,16:00-17:00,no,ninguno,98,bajo
+Av. mexico,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,157,regular
+Av. mexico,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,182,alto
+Av. mexico,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,314,alto
+Av. mexico,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,273,alto
+Av. mexico,2025-05-04,Domingo,21:00-22:00,no,ninguno,122,regular
+Av. mexico,2025-05-04,Domingo,22:00-23:00,no,ninguno,135,regular
+Av. mexico,2025-05-04,Domingo,23:00-00:00,no,ninguno,145,regular
+Av. argentina,2025-05-04,Domingo,00:00-01:00,no,ninguno,33,muy bajo
+Av. argentina,2025-05-04,Domingo,01:00-02:00,no,ninguno,10,muy bajo
+Av. argentina,2025-05-04,Domingo,02:00-03:00,no,ninguno,48,muy bajo
+Av. argentina,2025-05-04,Domingo,03:00-04:00,no,ninguno,49,muy bajo
+Av. argentina,2025-05-04,Domingo,04:00-05:00,no,ninguno,11,muy bajo
+Av. argentina,2025-05-04,Domingo,05:00-06:00,no,ninguno,162,regular
+Av. argentina,2025-05-04,Domingo,06:00-07:00,no,ninguno,126,regular
+Av. argentina,2025-05-04,Domingo,07:00-08:00,no,ninguno,120,bajo
+Av. argentina,2025-05-04,Domingo,08:00-09:00,no,ninguno,101,bajo
+Av. argentina,2025-05-04,Domingo,09:00-10:00,no,ninguno,161,regular
+Av. argentina,2025-05-04,Domingo,10:00-11:00,no,ninguno,114,bajo
+Av. argentina,2025-05-04,Domingo,11:00-12:00,no,ninguno,163,regular
+Av. argentina,2025-05-04,Domingo,12:00-13:00,no,ninguno,126,regular
+Av. argentina,2025-05-04,Domingo,13:00-14:00,no,ninguno,123,regular
+Av. argentina,2025-05-04,Domingo,14:00-15:00,no,ninguno,98,bajo
+Av. argentina,2025-05-04,Domingo,15:00-16:00,no,ninguno,164,regular
+Av. argentina,2025-05-04,Domingo,16:00-17:00,no,ninguno,105,bajo
+Av. argentina,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,184,alto
+Av. argentina,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,300,alto
+Av. argentina,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,175,regular
+Av. argentina,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,285,alto
+Av. argentina,2025-05-04,Domingo,21:00-22:00,no,ninguno,126,regular
+Av. argentina,2025-05-04,Domingo,22:00-23:00,no,ninguno,97,bajo
+Av. argentina,2025-05-04,Domingo,23:00-00:00,no,ninguno,122,regular
+Av. venezuela,2025-05-04,Domingo,00:00-01:00,no,ninguno,19,muy bajo
+Av. venezuela,2025-05-04,Domingo,01:00-02:00,no,ninguno,45,muy bajo
+Av. venezuela,2025-05-04,Domingo,02:00-03:00,no,ninguno,15,muy bajo
+Av. venezuela,2025-05-04,Domingo,03:00-04:00,no,ninguno,37,muy bajo
+Av. venezuela,2025-05-04,Domingo,04:00-05:00,no,ninguno,49,muy bajo
+Av. venezuela,2025-05-04,Domingo,05:00-06:00,no,ninguno,204,alto
+Av. venezuela,2025-05-04,Domingo,06:00-07:00,no,ninguno,112,bajo
+Av. venezuela,2025-05-04,Domingo,07:00-08:00,no,ninguno,174,regular
+Av. venezuela,2025-05-04,Domingo,08:00-09:00,no,ninguno,168,regular
+Av. venezuela,2025-05-04,Domingo,09:00-10:00,no,ninguno,129,regular
+Av. venezuela,2025-05-04,Domingo,10:00-11:00,no,ninguno,152,regular
+Av. venezuela,2025-05-04,Domingo,11:00-12:00,no,ninguno,167,regular
+Av. venezuela,2025-05-04,Domingo,12:00-13:00,no,ninguno,123,regular
+Av. venezuela,2025-05-04,Domingo,13:00-14:00,no,ninguno,156,regular
+Av. venezuela,2025-05-04,Domingo,14:00-15:00,no,ninguno,167,regular
+Av. venezuela,2025-05-04,Domingo,15:00-16:00,no,ninguno,136,regular
+Av. venezuela,2025-05-04,Domingo,16:00-17:00,no,ninguno,101,bajo
+Av. venezuela,2025-05-04,Domingo,17:00-18:00,no,Partido de Futbol,228,alto
+Av. venezuela,2025-05-04,Domingo,18:00-19:00,no,Partido de Futbol,287,alto
+Av. venezuela,2025-05-04,Domingo,19:00-20:00,no,Partido de Futbol,256,alto
+Av. venezuela,2025-05-04,Domingo,20:00-21:00,no,Partido de Futbol,338,alto
+Av. venezuela,2025-05-04,Domingo,21:00-22:00,no,ninguno,98,bajo
+Av. venezuela,2025-05-04,Domingo,22:00-23:00,no,ninguno,145,regular
+Av. venezuela,2025-05-04,Domingo,23:00-00:00,no,ninguno,127,regular
+Av. paseo de la república,2025-05-05,Lunes,00:00-01:00,no,ninguno,35,muy bajo
+Av. paseo de la república,2025-05-05,Lunes,01:00-02:00,no,ninguno,44,muy bajo
+Av. paseo de la república,2025-05-05,Lunes,02:00-03:00,no,ninguno,36,muy bajo
+Av. paseo de la república,2025-05-05,Lunes,03:00-04:00,no,ninguno,12,muy bajo
+Av. paseo de la república,2025-05-05,Lunes,04:00-05:00,no,ninguno,29,muy bajo
+Av. paseo de la república,2025-05-05,Lunes,05:00-06:00,no,ninguno,232,alto
+Av. paseo de la república,2025-05-05,Lunes,06:00-07:00,no,ninguno,201,alto
+Av. paseo de la república,2025-05-05,Lunes,07:00-08:00,no,ninguno,202,alto
+Av. paseo de la república,2025-05-05,Lunes,08:00-09:00,no,ninguno,164,regular
+Av. paseo de la república,2025-05-05,Lunes,09:00-10:00,no,ninguno,132,regular
+Av. paseo de la república,2025-05-05,Lunes,10:00-11:00,no,ninguno,175,regular
+Av. paseo de la república,2025-05-05,Lunes,11:00-12:00,no,ninguno,116,bajo
+Av. paseo de la república,2025-05-05,Lunes,12:00-13:00,no,ninguno,144,regular
+Av. paseo de la república,2025-05-05,Lunes,13:00-14:00,no,ninguno,137,regular
+Av. paseo de la república,2025-05-05,Lunes,14:00-15:00,no,ninguno,165,regular
+Av. paseo de la república,2025-05-05,Lunes,15:00-16:00,no,ninguno,178,regular
+Av. paseo de la república,2025-05-05,Lunes,16:00-17:00,no,ninguno,119,bajo
+Av. paseo de la república,2025-05-05,Lunes,17:00-18:00,no,ninguno,217,alto
+Av. paseo de la república,2025-05-05,Lunes,18:00-19:00,no,ninguno,210,alto
+Av. paseo de la república,2025-05-05,Lunes,19:00-20:00,no,ninguno,201,alto
+Av. paseo de la república,2025-05-05,Lunes,20:00-21:00,no,ninguno,206,alto
+Av. paseo de la república,2025-05-05,Lunes,21:00-22:00,no,ninguno,101,bajo
+Av. paseo de la república,2025-05-05,Lunes,22:00-23:00,no,ninguno,133,regular
+Av. paseo de la república,2025-05-05,Lunes,23:00-00:00,no,ninguno,110,bajo
+Av. alfredo benavides,2025-05-05,Lunes,00:00-01:00,no,ninguno,47,muy bajo
+Av. alfredo benavides,2025-05-05,Lunes,01:00-02:00,no,ninguno,14,muy bajo
+Av. alfredo benavides,2025-05-05,Lunes,02:00-03:00,no,ninguno,25,muy bajo
+Av. alfredo benavides,2025-05-05,Lunes,03:00-04:00,no,ninguno,36,muy bajo
+Av. alfredo benavides,2025-05-05,Lunes,04:00-05:00,no,ninguno,29,muy bajo
+Av. alfredo benavides,2025-05-05,Lunes,05:00-06:00,no,ninguno,162,regular
+Av. alfredo benavides,2025-05-05,Lunes,06:00-07:00,no,ninguno,173,regular
+Av. alfredo benavides,2025-05-05,Lunes,07:00-08:00,no,ninguno,246,alto
+Av. alfredo benavides,2025-05-05,Lunes,08:00-09:00,no,ninguno,119,bajo
+Av. alfredo benavides,2025-05-05,Lunes,09:00-10:00,no,ninguno,134,regular
+Av. alfredo benavides,2025-05-05,Lunes,10:00-11:00,no,ninguno,175,regular
+Av. alfredo benavides,2025-05-05,Lunes,11:00-12:00,no,ninguno,136,regular
+Av. alfredo benavides,2025-05-05,Lunes,12:00-13:00,no,ninguno,122,regular
+Av. alfredo benavides,2025-05-05,Lunes,13:00-14:00,no,ninguno,121,regular
+Av. alfredo benavides,2025-05-05,Lunes,14:00-15:00,no,ninguno,152,regular
+Av. alfredo benavides,2025-05-05,Lunes,15:00-16:00,no,ninguno,157,regular
+Av. alfredo benavides,2025-05-05,Lunes,16:00-17:00,no,ninguno,154,regular
+Av. alfredo benavides,2025-05-05,Lunes,17:00-18:00,no,ninguno,190,alto
+Av. alfredo benavides,2025-05-05,Lunes,18:00-19:00,no,ninguno,251,alto
+Av. alfredo benavides,2025-05-05,Lunes,19:00-20:00,no,ninguno,131,regular
+Av. alfredo benavides,2025-05-05,Lunes,20:00-21:00,no,ninguno,239,alto
+Av. alfredo benavides,2025-05-05,Lunes,21:00-22:00,no,ninguno,127,regular
+Av. alfredo benavides,2025-05-05,Lunes,22:00-23:00,no,ninguno,79,bajo
+Av. alfredo benavides,2025-05-05,Lunes,23:00-00:00,no,ninguno,94,bajo
+Av. universitaria,2025-05-05,Lunes,00:00-01:00,no,ninguno,43,muy bajo
+Av. universitaria,2025-05-05,Lunes,01:00-02:00,no,ninguno,49,muy bajo
+Av. universitaria,2025-05-05,Lunes,02:00-03:00,no,ninguno,50,muy bajo
+Av. universitaria,2025-05-05,Lunes,03:00-04:00,no,ninguno,28,muy bajo
+Av. universitaria,2025-05-05,Lunes,04:00-05:00,no,ninguno,47,muy bajo
+Av. universitaria,2025-05-05,Lunes,05:00-06:00,no,ninguno,237,alto
+Av. universitaria,2025-05-05,Lunes,06:00-07:00,no,ninguno,229,alto
+Av. universitaria,2025-05-05,Lunes,07:00-08:00,no,ninguno,248,alto
+Av. universitaria,2025-05-05,Lunes,08:00-09:00,no,ninguno,144,regular
+Av. universitaria,2025-05-05,Lunes,09:00-10:00,no,ninguno,91,bajo
+Av. universitaria,2025-05-05,Lunes,10:00-11:00,no,ninguno,106,bajo
+Av. universitaria,2025-05-05,Lunes,11:00-12:00,no,ninguno,160,regular
+Av. universitaria,2025-05-05,Lunes,12:00-13:00,no,ninguno,115,bajo
+Av. universitaria,2025-05-05,Lunes,13:00-14:00,no,ninguno,100,bajo
+Av. universitaria,2025-05-05,Lunes,14:00-15:00,no,ninguno,180,regular
+Av. universitaria,2025-05-05,Lunes,15:00-16:00,no,ninguno,163,regular
+Av. universitaria,2025-05-05,Lunes,16:00-17:00,no,ninguno,120,bajo
+Av. universitaria,2025-05-05,Lunes,17:00-18:00,no,ninguno,160,regular
+Av. universitaria,2025-05-05,Lunes,18:00-19:00,no,ninguno,250,alto
+Av. universitaria,2025-05-05,Lunes,19:00-20:00,no,ninguno,219,alto
+Av. universitaria,2025-05-05,Lunes,20:00-21:00,no,ninguno,220,alto
+Av. universitaria,2025-05-05,Lunes,21:00-22:00,no,ninguno,125,regular
+Av. universitaria,2025-05-05,Lunes,22:00-23:00,no,ninguno,98,bajo
+Av. universitaria,2025-05-05,Lunes,23:00-00:00,no,ninguno,98,bajo
+Av. la marina,2025-05-05,Lunes,00:00-01:00,no,ninguno,40,muy bajo
+Av. la marina,2025-05-05,Lunes,01:00-02:00,no,ninguno,12,muy bajo
+Av. la marina,2025-05-05,Lunes,02:00-03:00,no,ninguno,43,muy bajo
+Av. la marina,2025-05-05,Lunes,03:00-04:00,no,ninguno,33,muy bajo
+Av. la marina,2025-05-05,Lunes,04:00-05:00,no,ninguno,42,muy bajo
+Av. la marina,2025-05-05,Lunes,05:00-06:00,no,ninguno,104,bajo
+Av. la marina,2025-05-05,Lunes,06:00-07:00,no,ninguno,167,regular
+Av. la marina,2025-05-05,Lunes,07:00-08:00,no,ninguno,128,regular
+Av. la marina,2025-05-05,Lunes,08:00-09:00,no,ninguno,113,bajo
+Av. la marina,2025-05-05,Lunes,09:00-10:00,no,ninguno,168,regular
+Av. la marina,2025-05-05,Lunes,10:00-11:00,no,ninguno,120,bajo
+Av. la marina,2025-05-05,Lunes,11:00-12:00,no,ninguno,93,bajo
+Av. la marina,2025-05-05,Lunes,12:00-13:00,no,ninguno,160,regular
+Av. la marina,2025-05-05,Lunes,13:00-14:00,no,ninguno,136,regular
+Av. la marina,2025-05-05,Lunes,14:00-15:00,no,ninguno,130,regular
+Av. la marina,2025-05-05,Lunes,15:00-16:00,no,ninguno,144,regular
+Av. la marina,2025-05-05,Lunes,16:00-17:00,no,ninguno,98,bajo
+Av. la marina,2025-05-05,Lunes,17:00-18:00,no,ninguno,270,alto
+Av. la marina,2025-05-05,Lunes,18:00-19:00,no,ninguno,165,regular
+Av. la marina,2025-05-05,Lunes,19:00-20:00,no,ninguno,154,regular
+Av. la marina,2025-05-05,Lunes,20:00-21:00,no,ninguno,222,alto
+Av. la marina,2025-05-05,Lunes,21:00-22:00,no,ninguno,104,bajo
+Av. la marina,2025-05-05,Lunes,22:00-23:00,no,ninguno,81,bajo
+Av. la marina,2025-05-05,Lunes,23:00-00:00,no,ninguno,90,bajo
+Av. abancay,2025-05-05,Lunes,00:00-01:00,no,ninguno,50,muy bajo
+Av. abancay,2025-05-05,Lunes,01:00-02:00,no,ninguno,35,muy bajo
+Av. abancay,2025-05-05,Lunes,02:00-03:00,no,ninguno,42,muy bajo
+Av. abancay,2025-05-05,Lunes,03:00-04:00,no,ninguno,24,muy bajo
+Av. abancay,2025-05-05,Lunes,04:00-05:00,no,ninguno,17,muy bajo
+Av. abancay,2025-05-05,Lunes,05:00-06:00,no,ninguno,164,regular
+Av. abancay,2025-05-05,Lunes,06:00-07:00,no,ninguno,223,alto
+Av. abancay,2025-05-05,Lunes,07:00-08:00,no,ninguno,110,bajo
+Av. abancay,2025-05-05,Lunes,08:00-09:00,no,ninguno,174,regular
+Av. abancay,2025-05-05,Lunes,09:00-10:00,no,ninguno,129,regular
+Av. abancay,2025-05-05,Lunes,10:00-11:00,no,ninguno,91,bajo
+Av. abancay,2025-05-05,Lunes,11:00-12:00,no,ninguno,144,regular
+Av. abancay,2025-05-05,Lunes,12:00-13:00,no,ninguno,116,bajo
+Av. abancay,2025-05-05,Lunes,13:00-14:00,no,ninguno,91,bajo
+Av. abancay,2025-05-05,Lunes,14:00-15:00,no,ninguno,146,regular
+Av. abancay,2025-05-05,Lunes,15:00-16:00,no,ninguno,133,regular
+Av. abancay,2025-05-05,Lunes,16:00-17:00,no,ninguno,123,regular
+Av. abancay,2025-05-05,Lunes,17:00-18:00,no,ninguno,197,alto
+Av. abancay,2025-05-05,Lunes,18:00-19:00,no,ninguno,203,alto
+Av. abancay,2025-05-05,Lunes,19:00-20:00,no,ninguno,185,alto
+Av. abancay,2025-05-05,Lunes,20:00-21:00,no,ninguno,199,alto
+Av. abancay,2025-05-05,Lunes,21:00-22:00,no,ninguno,114,bajo
+Av. abancay,2025-05-05,Lunes,22:00-23:00,no,ninguno,89,bajo
+Av. abancay,2025-05-05,Lunes,23:00-00:00,no,ninguno,69,bajo
+Av. mexico,2025-05-05,Lunes,00:00-01:00,no,ninguno,41,muy bajo
+Av. mexico,2025-05-05,Lunes,01:00-02:00,no,ninguno,48,muy bajo
+Av. mexico,2025-05-05,Lunes,02:00-03:00,no,ninguno,16,muy bajo
+Av. mexico,2025-05-05,Lunes,03:00-04:00,no,ninguno,26,muy bajo
+Av. mexico,2025-05-05,Lunes,04:00-05:00,no,ninguno,45,muy bajo
+Av. mexico,2025-05-05,Lunes,05:00-06:00,no,ninguno,151,regular
+Av. mexico,2025-05-05,Lunes,06:00-07:00,no,ninguno,208,alto
+Av. mexico,2025-05-05,Lunes,07:00-08:00,no,ninguno,170,regular
+Av. mexico,2025-05-05,Lunes,08:00-09:00,no,ninguno,171,regular
+Av. mexico,2025-05-05,Lunes,09:00-10:00,no,ninguno,179,regular
+Av. mexico,2025-05-05,Lunes,10:00-11:00,no,ninguno,117,bajo
+Av. mexico,2025-05-05,Lunes,11:00-12:00,no,ninguno,90,bajo
+Av. mexico,2025-05-05,Lunes,12:00-13:00,no,ninguno,122,regular
+Av. mexico,2025-05-05,Lunes,13:00-14:00,no,ninguno,153,regular
+Av. mexico,2025-05-05,Lunes,14:00-15:00,no,ninguno,169,regular
+Av. mexico,2025-05-05,Lunes,15:00-16:00,no,ninguno,130,regular
+Av. mexico,2025-05-05,Lunes,16:00-17:00,no,ninguno,124,regular
+Av. mexico,2025-05-05,Lunes,17:00-18:00,no,ninguno,250,alto
+Av. mexico,2025-05-05,Lunes,18:00-19:00,no,ninguno,190,alto
+Av. mexico,2025-05-05,Lunes,19:00-20:00,no,ninguno,168,regular
+Av. mexico,2025-05-05,Lunes,20:00-21:00,no,ninguno,178,regular
+Av. mexico,2025-05-05,Lunes,21:00-22:00,no,ninguno,67,bajo
+Av. mexico,2025-05-05,Lunes,22:00-23:00,no,ninguno,64,bajo
+Av. mexico,2025-05-05,Lunes,23:00-00:00,no,ninguno,110,bajo
+Av. argentina,2025-05-05,Lunes,00:00-01:00,no,ninguno,16,muy bajo
+Av. argentina,2025-05-05,Lunes,01:00-02:00,no,ninguno,43,muy bajo
+Av. argentina,2025-05-05,Lunes,02:00-03:00,no,ninguno,36,muy bajo
+Av. argentina,2025-05-05,Lunes,03:00-04:00,no,ninguno,41,muy bajo
+Av. argentina,2025-05-05,Lunes,04:00-05:00,no,ninguno,16,muy bajo
+Av. argentina,2025-05-05,Lunes,05:00-06:00,no,ninguno,209,alto
+Av. argentina,2025-05-05,Lunes,06:00-07:00,no,ninguno,203,alto
+Av. argentina,2025-05-05,Lunes,07:00-08:00,no,ninguno,245,alto
+Av. argentina,2025-05-05,Lunes,08:00-09:00,no,ninguno,123,regular
+Av. argentina,2025-05-05,Lunes,09:00-10:00,no,ninguno,123,regular
+Av. argentina,2025-05-05,Lunes,10:00-11:00,no,ninguno,166,regular
+Av. argentina,2025-05-05,Lunes,11:00-12:00,no,ninguno,178,regular
+Av. argentina,2025-05-05,Lunes,12:00-13:00,no,ninguno,172,regular
+Av. argentina,2025-05-05,Lunes,13:00-14:00,no,ninguno,147,regular
+Av. argentina,2025-05-05,Lunes,14:00-15:00,no,ninguno,102,bajo
+Av. argentina,2025-05-05,Lunes,15:00-16:00,no,ninguno,111,bajo
+Av. argentina,2025-05-05,Lunes,16:00-17:00,no,ninguno,120,bajo
+Av. argentina,2025-05-05,Lunes,17:00-18:00,no,ninguno,146,regular
+Av. argentina,2025-05-05,Lunes,18:00-19:00,no,ninguno,258,alto
+Av. argentina,2025-05-05,Lunes,19:00-20:00,no,ninguno,267,alto
+Av. argentina,2025-05-05,Lunes,20:00-21:00,no,ninguno,204,alto
+Av. argentina,2025-05-05,Lunes,21:00-22:00,no,ninguno,145,regular
+Av. argentina,2025-05-05,Lunes,22:00-23:00,no,ninguno,121,regular
+Av. argentina,2025-05-05,Lunes,23:00-00:00,no,ninguno,140,regular
+Av. venezuela,2025-05-05,Lunes,00:00-01:00,no,ninguno,37,muy bajo
+Av. venezuela,2025-05-05,Lunes,01:00-02:00,no,ninguno,50,muy bajo
+Av. venezuela,2025-05-05,Lunes,02:00-03:00,no,Choque,19,muy bajo
+Av. venezuela,2025-05-05,Lunes,03:00-04:00,no,Choque,9,muy bajo
+Av. venezuela,2025-05-05,Lunes,04:00-05:00,no,Choque,13,muy bajo
+Av. venezuela,2025-05-05,Lunes,05:00-06:00,no,Choque,77,bajo
+Av. venezuela,2025-05-05,Lunes,06:00-07:00,no,ninguno,128,regular
+Av. venezuela,2025-05-05,Lunes,07:00-08:00,no,ninguno,151,regular
+Av. venezuela,2025-05-05,Lunes,08:00-09:00,no,ninguno,180,regular
+Av. venezuela,2025-05-05,Lunes,09:00-10:00,no,ninguno,144,regular
+Av. venezuela,2025-05-05,Lunes,10:00-11:00,no,ninguno,107,bajo
+Av. venezuela,2025-05-05,Lunes,11:00-12:00,no,ninguno,173,regular
+Av. venezuela,2025-05-05,Lunes,12:00-13:00,no,ninguno,124,regular
+Av. venezuela,2025-05-05,Lunes,13:00-14:00,no,ninguno,155,regular
+Av. venezuela,2025-05-05,Lunes,14:00-15:00,no,ninguno,159,regular
+Av. venezuela,2025-05-05,Lunes,15:00-16:00,no,ninguno,168,regular
+Av. venezuela,2025-05-05,Lunes,16:00-17:00,no,ninguno,123,regular
+Av. venezuela,2025-05-05,Lunes,17:00-18:00,no,ninguno,182,alto
+Av. venezuela,2025-05-05,Lunes,18:00-19:00,no,ninguno,220,alto
+Av. venezuela,2025-05-05,Lunes,19:00-20:00,no,ninguno,258,alto
+Av. venezuela,2025-05-05,Lunes,20:00-21:00,no,ninguno,185,alto
+Av. venezuela,2025-05-05,Lunes,21:00-22:00,no,ninguno,140,regular
+Av. venezuela,2025-05-05,Lunes,22:00-23:00,no,ninguno,133,regular
+Av. venezuela,2025-05-05,Lunes,23:00-00:00,no,ninguno,78,bajo
+Av. paseo de la república,2025-05-06,Martes,00:00-01:00,no,ninguno,35,muy bajo
+Av. paseo de la república,2025-05-06,Martes,01:00-02:00,no,ninguno,35,muy bajo
+Av. paseo de la república,2025-05-06,Martes,02:00-03:00,no,ninguno,22,muy bajo
+Av. paseo de la república,2025-05-06,Martes,03:00-04:00,no,ninguno,50,muy bajo
+Av. paseo de la república,2025-05-06,Martes,04:00-05:00,no,ninguno,47,muy bajo
+Av. paseo de la república,2025-05-06,Martes,05:00-06:00,no,ninguno,237,alto
+Av. paseo de la república,2025-05-06,Martes,06:00-07:00,no,ninguno,120,bajo
+Av. paseo de la república,2025-05-06,Martes,07:00-08:00,no,ninguno,155,regular
+Av. paseo de la república,2025-05-06,Martes,08:00-09:00,no,ninguno,114,bajo
+Av. paseo de la república,2025-05-06,Martes,09:00-10:00,no,ninguno,155,regular
+Av. paseo de la república,2025-05-06,Martes,10:00-11:00,no,ninguno,147,regular
+Av. paseo de la república,2025-05-06,Martes,11:00-12:00,no,ninguno,117,bajo
+Av. paseo de la república,2025-05-06,Martes,12:00-13:00,no,ninguno,150,regular
+Av. paseo de la república,2025-05-06,Martes,13:00-14:00,no,ninguno,172,regular
+Av. paseo de la república,2025-05-06,Martes,14:00-15:00,no,ninguno,125,regular
+Av. paseo de la república,2025-05-06,Martes,15:00-16:00,no,ninguno,108,bajo
+Av. paseo de la república,2025-05-06,Martes,16:00-17:00,no,ninguno,101,bajo
+Av. paseo de la república,2025-05-06,Martes,17:00-18:00,no,ninguno,227,alto
+Av. paseo de la república,2025-05-06,Martes,18:00-19:00,no,ninguno,247,alto
+Av. paseo de la república,2025-05-06,Martes,19:00-20:00,no,ninguno,265,alto
+Av. paseo de la república,2025-05-06,Martes,20:00-21:00,no,ninguno,215,alto
+Av. paseo de la república,2025-05-06,Martes,21:00-22:00,no,ninguno,114,bajo
+Av. paseo de la república,2025-05-06,Martes,22:00-23:00,no,ninguno,147,regular
+Av. paseo de la república,2025-05-06,Martes,23:00-00:00,no,ninguno,111,bajo
+Av. alfredo benavides,2025-05-06,Martes,00:00-01:00,no,ninguno,34,muy bajo
+Av. alfredo benavides,2025-05-06,Martes,01:00-02:00,no,ninguno,39,muy bajo
+Av. alfredo benavides,2025-05-06,Martes,02:00-03:00,no,ninguno,26,muy bajo
+Av. alfredo benavides,2025-05-06,Martes,03:00-04:00,no,ninguno,43,muy bajo
+Av. alfredo benavides,2025-05-06,Martes,04:00-05:00,no,ninguno,37,muy bajo
+Av. alfredo benavides,2025-05-06,Martes,05:00-06:00,no,ninguno,240,alto
+Av. alfredo benavides,2025-05-06,Martes,06:00-07:00,no,ninguno,209,alto
+Av. alfredo benavides,2025-05-06,Martes,07:00-08:00,no,ninguno,193,alto
+Av. alfredo benavides,2025-05-06,Martes,08:00-09:00,no,ninguno,107,bajo
+Av. alfredo benavides,2025-05-06,Martes,09:00-10:00,no,ninguno,106,bajo
+Av. alfredo benavides,2025-05-06,Martes,10:00-11:00,no,ninguno,162,regular
+Av. alfredo benavides,2025-05-06,Martes,11:00-12:00,no,ninguno,173,regular
+Av. alfredo benavides,2025-05-06,Martes,12:00-13:00,no,ninguno,130,regular
+Av. alfredo benavides,2025-05-06,Martes,13:00-14:00,no,ninguno,95,bajo
+Av. alfredo benavides,2025-05-06,Martes,14:00-15:00,no,ninguno,112,bajo
+Av. alfredo benavides,2025-05-06,Martes,15:00-16:00,no,ninguno,147,regular
+Av. alfredo benavides,2025-05-06,Martes,16:00-17:00,no,ninguno,115,bajo
+Av. alfredo benavides,2025-05-06,Martes,17:00-18:00,no,ninguno,249,alto
+Av. alfredo benavides,2025-05-06,Martes,18:00-19:00,no,ninguno,265,alto
+Av. alfredo benavides,2025-05-06,Martes,19:00-20:00,no,ninguno,151,regular
+Av. alfredo benavides,2025-05-06,Martes,20:00-21:00,no,ninguno,163,regular
+Av. alfredo benavides,2025-05-06,Martes,21:00-22:00,no,ninguno,80,bajo
+Av. alfredo benavides,2025-05-06,Martes,22:00-23:00,no,ninguno,132,regular
+Av. alfredo benavides,2025-05-06,Martes,23:00-00:00,no,ninguno,149,regular
+Av. universitaria,2025-05-06,Martes,00:00-01:00,no,ninguno,12,muy bajo
+Av. universitaria,2025-05-06,Martes,01:00-02:00,no,ninguno,45,muy bajo
+Av. universitaria,2025-05-06,Martes,02:00-03:00,no,ninguno,21,muy bajo
+Av. universitaria,2025-05-06,Martes,03:00-04:00,no,ninguno,22,muy bajo
+Av. universitaria,2025-05-06,Martes,04:00-05:00,no,ninguno,24,muy bajo
+Av. universitaria,2025-05-06,Martes,05:00-06:00,no,ninguno,206,alto
+Av. universitaria,2025-05-06,Martes,06:00-07:00,no,ninguno,111,bajo
+Av. universitaria,2025-05-06,Martes,07:00-08:00,no,ninguno,113,bajo
+Av. universitaria,2025-05-06,Martes,08:00-09:00,no,ninguno,137,regular
+Av. universitaria,2025-05-06,Martes,09:00-10:00,no,ninguno,142,regular
+Av. universitaria,2025-05-06,Martes,10:00-11:00,no,ninguno,174,regular
+Av. universitaria,2025-05-06,Martes,11:00-12:00,no,ninguno,133,regular
+Av. universitaria,2025-05-06,Martes,12:00-13:00,no,ninguno,96,bajo
+Av. universitaria,2025-05-06,Martes,13:00-14:00,no,ninguno,113,bajo
+Av. universitaria,2025-05-06,Martes,14:00-15:00,no,ninguno,105,bajo
+Av. universitaria,2025-05-06,Martes,15:00-16:00,no,ninguno,143,regular
+Av. universitaria,2025-05-06,Martes,16:00-17:00,no,ninguno,147,regular
+Av. universitaria,2025-05-06,Martes,17:00-18:00,no,ninguno,286,alto
+Av. universitaria,2025-05-06,Martes,18:00-19:00,no,ninguno,192,alto
+Av. universitaria,2025-05-06,Martes,19:00-20:00,no,ninguno,141,regular
+Av. universitaria,2025-05-06,Martes,20:00-21:00,no,ninguno,223,alto
+Av. universitaria,2025-05-06,Martes,21:00-22:00,no,ninguno,66,bajo
+Av. universitaria,2025-05-06,Martes,22:00-23:00,no,ninguno,141,regular
+Av. universitaria,2025-05-06,Martes,23:00-00:00,no,ninguno,117,bajo
+Av. la marina,2025-05-06,Martes,00:00-01:00,no,ninguno,19,muy bajo
+Av. la marina,2025-05-06,Martes,01:00-02:00,no,ninguno,32,muy bajo
+Av. la marina,2025-05-06,Martes,02:00-03:00,no,ninguno,36,muy bajo
+Av. la marina,2025-05-06,Martes,03:00-04:00,no,ninguno,33,muy bajo
+Av. la marina,2025-05-06,Martes,04:00-05:00,no,ninguno,13,muy bajo
+Av. la marina,2025-05-06,Martes,05:00-06:00,no,ninguno,148,regular
+Av. la marina,2025-05-06,Martes,06:00-07:00,no,ninguno,190,alto
+Av. la marina,2025-05-06,Martes,07:00-08:00,no,ninguno,175,regular
+Av. la marina,2025-05-06,Martes,08:00-09:00,no,ninguno,166,regular
+Av. la marina,2025-05-06,Martes,09:00-10:00,no,ninguno,98,bajo
+Av. la marina,2025-05-06,Martes,10:00-11:00,no,ninguno,175,regular
+Av. la marina,2025-05-06,Martes,11:00-12:00,no,ninguno,161,regular
+Av. la marina,2025-05-06,Martes,12:00-13:00,no,ninguno,155,regular
+Av. la marina,2025-05-06,Martes,13:00-14:00,no,ninguno,167,regular
+Av. la marina,2025-05-06,Martes,14:00-15:00,no,ninguno,135,regular
+Av. la marina,2025-05-06,Martes,15:00-16:00,no,ninguno,99,bajo
+Av. la marina,2025-05-06,Martes,16:00-17:00,no,ninguno,125,regular
+Av. la marina,2025-05-06,Martes,17:00-18:00,no,ninguno,195,alto
+Av. la marina,2025-05-06,Martes,18:00-19:00,no,ninguno,192,alto
+Av. la marina,2025-05-06,Martes,19:00-20:00,no,ninguno,241,alto
+Av. la marina,2025-05-06,Martes,20:00-21:00,no,ninguno,175,regular
+Av. la marina,2025-05-06,Martes,21:00-22:00,no,ninguno,135,regular
+Av. la marina,2025-05-06,Martes,22:00-23:00,no,ninguno,121,regular
+Av. la marina,2025-05-06,Martes,23:00-00:00,no,ninguno,112,bajo
+Av. abancay,2025-05-06,Martes,00:00-01:00,no,ninguno,36,muy bajo
+Av. abancay,2025-05-06,Martes,01:00-02:00,no,ninguno,39,muy bajo
+Av. abancay,2025-05-06,Martes,02:00-03:00,no,ninguno,17,muy bajo
+Av. abancay,2025-05-06,Martes,03:00-04:00,no,ninguno,34,muy bajo
+Av. abancay,2025-05-06,Martes,04:00-05:00,no,ninguno,23,muy bajo
+Av. abancay,2025-05-06,Martes,05:00-06:00,no,ninguno,214,alto
+Av. abancay,2025-05-06,Martes,06:00-07:00,no,ninguno,226,alto
+Av. abancay,2025-05-06,Martes,07:00-08:00,no,ninguno,174,regular
+Av. abancay,2025-05-06,Martes,08:00-09:00,no,ninguno,153,regular
+Av. abancay,2025-05-06,Martes,09:00-10:00,no,ninguno,101,bajo
+Av. abancay,2025-05-06,Martes,10:00-11:00,no,ninguno,150,regular
+Av. abancay,2025-05-06,Martes,11:00-12:00,no,ninguno,99,bajo
+Av. abancay,2025-05-06,Martes,12:00-13:00,no,ninguno,112,bajo
+Av. abancay,2025-05-06,Martes,13:00-14:00,no,ninguno,172,regular
+Av. abancay,2025-05-06,Martes,14:00-15:00,no,ninguno,102,bajo
+Av. abancay,2025-05-06,Martes,15:00-16:00,no,ninguno,96,bajo
+Av. abancay,2025-05-06,Martes,16:00-17:00,no,ninguno,165,regular
+Av. abancay,2025-05-06,Martes,17:00-18:00,no,ninguno,257,alto
+Av. abancay,2025-05-06,Martes,18:00-19:00,no,ninguno,196,alto
+Av. abancay,2025-05-06,Martes,19:00-20:00,no,ninguno,218,alto
+Av. abancay,2025-05-06,Martes,20:00-21:00,no,ninguno,130,regular
+Av. abancay,2025-05-06,Martes,21:00-22:00,no,ninguno,110,bajo
+Av. abancay,2025-05-06,Martes,22:00-23:00,no,ninguno,122,regular
+Av. abancay,2025-05-06,Martes,23:00-00:00,no,ninguno,130,regular
+Av. mexico,2025-05-06,Martes,00:00-01:00,no,ninguno,22,muy bajo
+Av. mexico,2025-05-06,Martes,01:00-02:00,no,ninguno,18,muy bajo
+Av. mexico,2025-05-06,Martes,02:00-03:00,no,ninguno,34,muy bajo
+Av. mexico,2025-05-06,Martes,03:00-04:00,no,ninguno,48,muy bajo
+Av. mexico,2025-05-06,Martes,04:00-05:00,no,ninguno,49,muy bajo
+Av. mexico,2025-05-06,Martes,05:00-06:00,no,ninguno,141,regular
+Av. mexico,2025-05-06,Martes,06:00-07:00,no,ninguno,119,bajo
+Av. mexico,2025-05-06,Martes,07:00-08:00,no,ninguno,231,alto
+Av. mexico,2025-05-06,Martes,08:00-09:00,no,ninguno,128,regular
+Av. mexico,2025-05-06,Martes,09:00-10:00,no,ninguno,133,regular
+Av. mexico,2025-05-06,Martes,10:00-11:00,no,ninguno,110,bajo
+Av. mexico,2025-05-06,Martes,11:00-12:00,no,ninguno,106,bajo
+Av. mexico,2025-05-06,Martes,12:00-13:00,no,ninguno,179,regular
+Av. mexico,2025-05-06,Martes,13:00-14:00,no,ninguno,105,bajo
+Av. mexico,2025-05-06,Martes,14:00-15:00,no,ninguno,107,bajo
+Av. mexico,2025-05-06,Martes,15:00-16:00,no,ninguno,107,bajo
+Av. mexico,2025-05-06,Martes,16:00-17:00,no,ninguno,103,bajo
+Av. mexico,2025-05-06,Martes,17:00-18:00,no,ninguno,206,alto
+Av. mexico,2025-05-06,Martes,18:00-19:00,no,ninguno,289,alto
+Av. mexico,2025-05-06,Martes,19:00-20:00,no,ninguno,240,alto
+Av. mexico,2025-05-06,Martes,20:00-21:00,no,ninguno,277,alto
+Av. mexico,2025-05-06,Martes,21:00-22:00,no,ninguno,108,bajo
+Av. mexico,2025-05-06,Martes,22:00-23:00,no,ninguno,96,bajo
+Av. mexico,2025-05-06,Martes,23:00-00:00,no,ninguno,111,bajo
+Av. argentina,2025-05-06,Martes,00:00-01:00,no,ninguno,14,muy bajo
+Av. argentina,2025-05-06,Martes,01:00-02:00,no,ninguno,34,muy bajo
+Av. argentina,2025-05-06,Martes,02:00-03:00,no,ninguno,19,muy bajo
+Av. argentina,2025-05-06,Martes,03:00-04:00,no,ninguno,27,muy bajo
+Av. argentina,2025-05-06,Martes,04:00-05:00,no,ninguno,15,muy bajo
+Av. argentina,2025-05-06,Martes,05:00-06:00,no,ninguno,140,regular
+Av. argentina,2025-05-06,Martes,06:00-07:00,no,ninguno,101,bajo
+Av. argentina,2025-05-06,Martes,07:00-08:00,no,ninguno,191,alto
+Av. argentina,2025-05-06,Martes,08:00-09:00,no,ninguno,173,regular
+Av. argentina,2025-05-06,Martes,09:00-10:00,no,ninguno,93,bajo
+Av. argentina,2025-05-06,Martes,10:00-11:00,no,ninguno,159,regular
+Av. argentina,2025-05-06,Martes,11:00-12:00,no,ninguno,167,regular
+Av. argentina,2025-05-06,Martes,12:00-13:00,no,ninguno,153,regular
+Av. argentina,2025-05-06,Martes,13:00-14:00,no,ninguno,145,regular
+Av. argentina,2025-05-06,Martes,14:00-15:00,no,ninguno,131,regular
+Av. argentina,2025-05-06,Martes,15:00-16:00,no,ninguno,125,regular
+Av. argentina,2025-05-06,Martes,16:00-17:00,no,ninguno,98,bajo
+Av. argentina,2025-05-06,Martes,17:00-18:00,no,ninguno,182,alto
+Av. argentina,2025-05-06,Martes,18:00-19:00,no,ninguno,153,regular
+Av. argentina,2025-05-06,Martes,19:00-20:00,no,ninguno,180,regular
+Av. argentina,2025-05-06,Martes,20:00-21:00,no,ninguno,274,alto
+Av. argentina,2025-05-06,Martes,21:00-22:00,no,ninguno,72,bajo
+Av. argentina,2025-05-06,Martes,22:00-23:00,no,ninguno,149,regular
+Av. argentina,2025-05-06,Martes,23:00-00:00,no,ninguno,107,bajo
+Av. venezuela,2025-05-06,Martes,00:00-01:00,no,ninguno,50,muy bajo
+Av. venezuela,2025-05-06,Martes,01:00-02:00,no,ninguno,14,muy bajo
+Av. venezuela,2025-05-06,Martes,02:00-03:00,no,ninguno,13,muy bajo
+Av. venezuela,2025-05-06,Martes,03:00-04:00,no,ninguno,31,muy bajo
+Av. venezuela,2025-05-06,Martes,04:00-05:00,no,ninguno,50,muy bajo
+Av. venezuela,2025-05-06,Martes,05:00-06:00,no,ninguno,158,regular
+Av. venezuela,2025-05-06,Martes,06:00-07:00,no,ninguno,101,bajo
+Av. venezuela,2025-05-06,Martes,07:00-08:00,no,ninguno,136,regular
+Av. venezuela,2025-05-06,Martes,08:00-09:00,no,ninguno,172,regular
+Av. venezuela,2025-05-06,Martes,09:00-10:00,no,ninguno,170,regular
+Av. venezuela,2025-05-06,Martes,10:00-11:00,no,ninguno,169,regular
+Av. venezuela,2025-05-06,Martes,11:00-12:00,no,ninguno,101,bajo
+Av. venezuela,2025-05-06,Martes,12:00-13:00,no,ninguno,160,regular
+Av. venezuela,2025-05-06,Martes,13:00-14:00,no,ninguno,158,regular
+Av. venezuela,2025-05-06,Martes,14:00-15:00,no,ninguno,167,regular
+Av. venezuela,2025-05-06,Martes,15:00-16:00,no,ninguno,115,bajo
+Av. venezuela,2025-05-06,Martes,16:00-17:00,no,ninguno,147,regular
+Av. venezuela,2025-05-06,Martes,17:00-18:00,no,ninguno,146,regular
+Av. venezuela,2025-05-06,Martes,18:00-19:00,no,ninguno,160,regular
+Av. venezuela,2025-05-06,Martes,19:00-20:00,no,ninguno,188,alto
+Av. venezuela,2025-05-06,Martes,20:00-21:00,no,ninguno,266,alto
+Av. venezuela,2025-05-06,Martes,21:00-22:00,no,ninguno,76,bajo
+Av. venezuela,2025-05-06,Martes,22:00-23:00,no,ninguno,93,bajo
+Av. venezuela,2025-05-06,Martes,23:00-00:00,no,ninguno,85,bajo
+Av. paseo de la república,2025-05-07,Miercoles,00:00-01:00,no,Paro,17,muy bajo
+Av. paseo de la república,2025-05-07,Miercoles,01:00-02:00,no,Paro,9,muy bajo
+Av. paseo de la república,2025-05-07,Miercoles,02:00-03:00,no,Paro,5,muy bajo
+Av. paseo de la república,2025-05-07,Miercoles,03:00-04:00,no,Paro,14,muy bajo
+Av. paseo de la república,2025-05-07,Miercoles,04:00-05:00,no,Paro,22,muy bajo
+Av. paseo de la república,2025-05-07,Miercoles,05:00-06:00,no,Paro,86,bajo
+Av. paseo de la república,2025-05-07,Miercoles,06:00-07:00,no,Paro,104,bajo
+Av. paseo de la república,2025-05-07,Miercoles,07:00-08:00,no,Paro,73,bajo
+Av. paseo de la república,2025-05-07,Miercoles,08:00-09:00,no,Paro,83,bajo
+Av. paseo de la república,2025-05-07,Miercoles,09:00-10:00,no,Paro,81,bajo
+Av. paseo de la república,2025-05-07,Miercoles,10:00-11:00,no,Paro,68,bajo
+Av. paseo de la república,2025-05-07,Miercoles,11:00-12:00,no,Paro,71,bajo
+Av. paseo de la república,2025-05-07,Miercoles,12:00-13:00,no,Paro,54,bajo
+Av. paseo de la república,2025-05-07,Miercoles,13:00-14:00,no,Paro,82,bajo
+Av. paseo de la república,2025-05-07,Miercoles,14:00-15:00,no,Paro,51,bajo
+Av. paseo de la república,2025-05-07,Miercoles,15:00-16:00,no,Paro,82,bajo
+Av. paseo de la república,2025-05-07,Miercoles,16:00-17:00,no,Paro,56,bajo
+Av. paseo de la república,2025-05-07,Miercoles,17:00-18:00,no,Paro,74,bajo
+Av. paseo de la república,2025-05-07,Miercoles,18:00-19:00,no,Paro,79,bajo
+Av. paseo de la república,2025-05-07,Miercoles,19:00-20:00,no,Paro,106,bajo
+Av. paseo de la república,2025-05-07,Miercoles,20:00-21:00,no,Paro,79,bajo
+Av. paseo de la república,2025-05-07,Miercoles,21:00-22:00,no,Paro,47,muy bajo
+Av. paseo de la república,2025-05-07,Miercoles,22:00-23:00,no,Paro,68,bajo
+Av. paseo de la república,2025-05-07,Miercoles,23:00-00:00,no,Paro,45,muy bajo
+Av. alfredo benavides,2025-05-07,Miercoles,00:00-01:00,no,Paro,11,muy bajo
+Av. alfredo benavides,2025-05-07,Miercoles,01:00-02:00,no,Paro,5,muy bajo
+Av. alfredo benavides,2025-05-07,Miercoles,02:00-03:00,no,Paro,20,muy bajo
+Av. alfredo benavides,2025-05-07,Miercoles,03:00-04:00,no,Paro,10,muy bajo
+Av. alfredo benavides,2025-05-07,Miercoles,04:00-05:00,no,Paro,14,muy bajo
+Av. alfredo benavides,2025-05-07,Miercoles,05:00-06:00,no,Paro,106,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,06:00-07:00,no,Paro,95,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,07:00-08:00,no,Paro,97,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,08:00-09:00,no,Paro,65,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,09:00-10:00,no,Paro,69,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,10:00-11:00,no,Paro,58,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,11:00-12:00,no,Paro,74,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,12:00-13:00,no,Paro,83,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,13:00-14:00,no,Paro,75,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,14:00-15:00,no,Paro,77,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,15:00-16:00,no,Paro,66,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,16:00-17:00,no,Paro,87,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,17:00-18:00,no,Paro,79,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,18:00-19:00,no,Paro,146,regular
+Av. alfredo benavides,2025-05-07,Miercoles,19:00-20:00,no,Paro,105,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,20:00-21:00,no,Paro,139,regular
+Av. alfredo benavides,2025-05-07,Miercoles,21:00-22:00,no,Paro,52,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,22:00-23:00,no,Paro,73,bajo
+Av. alfredo benavides,2025-05-07,Miercoles,23:00-00:00,no,Paro,32,muy bajo
+Av. universitaria,2025-05-07,Miercoles,00:00-01:00,no,Paro,7,muy bajo
+Av. universitaria,2025-05-07,Miercoles,01:00-02:00,no,Paro,10,muy bajo
+Av. universitaria,2025-05-07,Miercoles,02:00-03:00,no,Paro,23,muy bajo
+Av. universitaria,2025-05-07,Miercoles,03:00-04:00,no,Paro,20,muy bajo
+Av. universitaria,2025-05-07,Miercoles,04:00-05:00,no,Paro,13,muy bajo
+Av. universitaria,2025-05-07,Miercoles,05:00-06:00,no,Paro,82,bajo
+Av. universitaria,2025-05-07,Miercoles,06:00-07:00,no,Paro,121,regular
+Av. universitaria,2025-05-07,Miercoles,07:00-08:00,no,Paro,101,bajo
+Av. universitaria,2025-05-07,Miercoles,08:00-09:00,no,Paro,61,bajo
+Av. universitaria,2025-05-07,Miercoles,09:00-10:00,no,Paro,60,bajo
+Av. universitaria,2025-05-07,Miercoles,10:00-11:00,no,Paro,72,bajo
+Av. universitaria,2025-05-07,Miercoles,11:00-12:00,no,Paro,62,bajo
+Av. universitaria,2025-05-07,Miercoles,12:00-13:00,no,Paro,49,muy bajo
+Av. universitaria,2025-05-07,Miercoles,13:00-14:00,no,Paro,52,bajo
+Av. universitaria,2025-05-07,Miercoles,14:00-15:00,no,Paro,89,bajo
+Av. universitaria,2025-05-07,Miercoles,15:00-16:00,no,Paro,83,bajo
+Av. universitaria,2025-05-07,Miercoles,16:00-17:00,no,Paro,76,bajo
+Av. universitaria,2025-05-07,Miercoles,17:00-18:00,no,Paro,77,bajo
+Av. universitaria,2025-05-07,Miercoles,18:00-19:00,no,Paro,81,bajo
+Av. universitaria,2025-05-07,Miercoles,19:00-20:00,no,Paro,117,bajo
+Av. universitaria,2025-05-07,Miercoles,20:00-21:00,no,Paro,139,regular
+Av. universitaria,2025-05-07,Miercoles,21:00-22:00,no,Paro,36,muy bajo
+Av. universitaria,2025-05-07,Miercoles,22:00-23:00,no,Paro,32,muy bajo
+Av. universitaria,2025-05-07,Miercoles,23:00-00:00,no,Paro,65,bajo
+Av. la marina,2025-05-07,Miercoles,00:00-01:00,no,Paro,24,muy bajo
+Av. la marina,2025-05-07,Miercoles,01:00-02:00,no,Paro,19,muy bajo
+Av. la marina,2025-05-07,Miercoles,02:00-03:00,no,Paro,6,muy bajo
+Av. la marina,2025-05-07,Miercoles,03:00-04:00,no,Paro,12,muy bajo
+Av. la marina,2025-05-07,Miercoles,04:00-05:00,no,Paro,23,muy bajo
+Av. la marina,2025-05-07,Miercoles,05:00-06:00,no,Paro,81,bajo
+Av. la marina,2025-05-07,Miercoles,06:00-07:00,no,Paro,108,bajo
+Av. la marina,2025-05-07,Miercoles,07:00-08:00,no,Paro,122,regular
+Av. la marina,2025-05-07,Miercoles,08:00-09:00,no,Paro,74,bajo
+Av. la marina,2025-05-07,Miercoles,09:00-10:00,no,Paro,50,muy bajo
+Av. la marina,2025-05-07,Miercoles,10:00-11:00,no,Paro,58,bajo
+Av. la marina,2025-05-07,Miercoles,11:00-12:00,no,Paro,87,bajo
+Av. la marina,2025-05-07,Miercoles,12:00-13:00,no,Paro,64,bajo
+Av. la marina,2025-05-07,Miercoles,13:00-14:00,no,Paro,88,bajo
+Av. la marina,2025-05-07,Miercoles,14:00-15:00,no,Paro,45,muy bajo
+Av. la marina,2025-05-07,Miercoles,15:00-16:00,no,Paro,73,bajo
+Av. la marina,2025-05-07,Miercoles,16:00-17:00,no,Paro,65,bajo
+Av. la marina,2025-05-07,Miercoles,17:00-18:00,no,Paro,138,regular
+Av. la marina,2025-05-07,Miercoles,18:00-19:00,no,Paro,65,bajo
+Av. la marina,2025-05-07,Miercoles,19:00-20:00,no,Paro,92,bajo
+Av. la marina,2025-05-07,Miercoles,20:00-21:00,no,Paro,118,bajo
+Av. la marina,2025-05-07,Miercoles,21:00-22:00,no,Paro,67,bajo
+Av. la marina,2025-05-07,Miercoles,22:00-23:00,no,Paro,74,bajo
+Av. la marina,2025-05-07,Miercoles,23:00-00:00,no,Paro,37,muy bajo
+Av. abancay,2025-05-07,Miercoles,00:00-01:00,no,Paro,11,muy bajo
+Av. abancay,2025-05-07,Miercoles,01:00-02:00,no,Paro,6,muy bajo
+Av. abancay,2025-05-07,Miercoles,02:00-03:00,no,Paro,10,muy bajo
+Av. abancay,2025-05-07,Miercoles,03:00-04:00,no,Paro,20,muy bajo
+Av. abancay,2025-05-07,Miercoles,04:00-05:00,no,Paro,20,muy bajo
+Av. abancay,2025-05-07,Miercoles,05:00-06:00,no,Paro,98,bajo
+Av. abancay,2025-05-07,Miercoles,06:00-07:00,no,Paro,113,bajo
+Av. abancay,2025-05-07,Miercoles,07:00-08:00,no,Paro,57,bajo
+Av. abancay,2025-05-07,Miercoles,08:00-09:00,no,Paro,86,bajo
+Av. abancay,2025-05-07,Miercoles,09:00-10:00,no,Paro,68,bajo
+Av. abancay,2025-05-07,Miercoles,10:00-11:00,no,Paro,79,bajo
+Av. abancay,2025-05-07,Miercoles,11:00-12:00,no,Paro,56,bajo
+Av. abancay,2025-05-07,Miercoles,12:00-13:00,no,Paro,79,bajo
+Av. abancay,2025-05-07,Miercoles,13:00-14:00,no,Paro,73,bajo
+Av. abancay,2025-05-07,Miercoles,14:00-15:00,no,Paro,90,bajo
+Av. abancay,2025-05-07,Miercoles,15:00-16:00,no,Paro,59,bajo
+Av. abancay,2025-05-07,Miercoles,16:00-17:00,no,Paro,72,bajo
+Av. abancay,2025-05-07,Miercoles,17:00-18:00,no,Paro,142,regular
+Av. abancay,2025-05-07,Miercoles,18:00-19:00,no,Paro,120,bajo
+Av. abancay,2025-05-07,Miercoles,19:00-20:00,no,Paro,101,bajo
+Av. abancay,2025-05-07,Miercoles,20:00-21:00,no,Paro,95,bajo
+Av. abancay,2025-05-07,Miercoles,21:00-22:00,no,Paro,59,bajo
+Av. abancay,2025-05-07,Miercoles,22:00-23:00,no,Paro,56,bajo
+Av. abancay,2025-05-07,Miercoles,23:00-00:00,no,Paro,46,muy bajo
+Av. mexico,2025-05-07,Miercoles,00:00-01:00,no,Paro,16,muy bajo
+Av. mexico,2025-05-07,Miercoles,01:00-02:00,no,Paro,19,muy bajo
+Av. mexico,2025-05-07,Miercoles,02:00-03:00,no,Paro,18,muy bajo
+Av. mexico,2025-05-07,Miercoles,03:00-04:00,no,Paro,18,muy bajo
+Av. mexico,2025-05-07,Miercoles,04:00-05:00,no,Paro,5,muy bajo
+Av. mexico,2025-05-07,Miercoles,05:00-06:00,no,Paro,67,bajo
+Av. mexico,2025-05-07,Miercoles,06:00-07:00,no,Paro,102,bajo
+Av. mexico,2025-05-07,Miercoles,07:00-08:00,no,Paro,84,bajo
+Av. mexico,2025-05-07,Miercoles,08:00-09:00,no,Paro,65,bajo
+Av. mexico,2025-05-07,Miercoles,09:00-10:00,no,Paro,86,bajo
+Av. mexico,2025-05-07,Miercoles,10:00-11:00,no,Paro,69,bajo
+Av. mexico,2025-05-07,Miercoles,11:00-12:00,no,Paro,45,muy bajo
+Av. mexico,2025-05-07,Miercoles,12:00-13:00,no,Paro,90,bajo
+Av. mexico,2025-05-07,Miercoles,13:00-14:00,no,Paro,64,bajo
+Av. mexico,2025-05-07,Miercoles,14:00-15:00,no,Paro,56,bajo
+Av. mexico,2025-05-07,Miercoles,15:00-16:00,no,Paro,82,bajo
+Av. mexico,2025-05-07,Miercoles,16:00-17:00,no,Paro,68,bajo
+Av. mexico,2025-05-07,Miercoles,17:00-18:00,no,Paro,122,regular
+Av. mexico,2025-05-07,Miercoles,18:00-19:00,no,Paro,97,bajo
+Av. mexico,2025-05-07,Miercoles,19:00-20:00,no,Paro,115,bajo
+Av. mexico,2025-05-07,Miercoles,20:00-21:00,no,Paro,129,regular
+Av. mexico,2025-05-07,Miercoles,21:00-22:00,no,Paro,64,bajo
+Av. mexico,2025-05-07,Miercoles,22:00-23:00,no,Paro,59,bajo
+Av. mexico,2025-05-07,Miercoles,23:00-00:00,no,Paro,58,bajo
+Av. argentina,2025-05-07,Miercoles,00:00-01:00,no,Paro,19,muy bajo
+Av. argentina,2025-05-07,Miercoles,01:00-02:00,no,Paro,13,muy bajo
+Av. argentina,2025-05-07,Miercoles,02:00-03:00,no,Paro,7,muy bajo
+Av. argentina,2025-05-07,Miercoles,03:00-04:00,no,Paro,22,muy bajo
+Av. argentina,2025-05-07,Miercoles,04:00-05:00,no,Paro,23,muy bajo
+Av. argentina,2025-05-07,Miercoles,05:00-06:00,no,Paro,59,bajo
+Av. argentina,2025-05-07,Miercoles,06:00-07:00,no,Paro,118,bajo
+Av. argentina,2025-05-07,Miercoles,07:00-08:00,no,Paro,89,bajo
+Av. argentina,2025-05-07,Miercoles,08:00-09:00,no,Paro,57,bajo
+Av. argentina,2025-05-07,Miercoles,09:00-10:00,no,Paro,74,bajo
+Av. argentina,2025-05-07,Miercoles,10:00-11:00,no,Paro,47,muy bajo
+Av. argentina,2025-05-07,Miercoles,11:00-12:00,no,Paro,75,bajo
+Av. argentina,2025-05-07,Miercoles,12:00-13:00,no,Paro,67,bajo
+Av. argentina,2025-05-07,Miercoles,13:00-14:00,no,Paro,63,bajo
+Av. argentina,2025-05-07,Miercoles,14:00-15:00,no,Paro,53,bajo
+Av. argentina,2025-05-07,Miercoles,15:00-16:00,no,Paro,50,muy bajo
+Av. argentina,2025-05-07,Miercoles,16:00-17:00,no,Paro,81,bajo
+Av. argentina,2025-05-07,Miercoles,17:00-18:00,no,Paro,111,bajo
+Av. argentina,2025-05-07,Miercoles,18:00-19:00,no,Paro,108,bajo
+Av. argentina,2025-05-07,Miercoles,19:00-20:00,no,Paro,95,bajo
+Av. argentina,2025-05-07,Miercoles,20:00-21:00,no,Paro,106,bajo
+Av. argentina,2025-05-07,Miercoles,21:00-22:00,no,Paro,31,muy bajo
+Av. argentina,2025-05-07,Miercoles,22:00-23:00,no,Paro,33,muy bajo
+Av. argentina,2025-05-07,Miercoles,23:00-00:00,no,Paro,33,muy bajo
+Av. venezuela,2025-05-07,Miercoles,00:00-01:00,no,Paro,19,muy bajo
+Av. venezuela,2025-05-07,Miercoles,01:00-02:00,no,Paro,10,muy bajo
+Av. venezuela,2025-05-07,Miercoles,02:00-03:00,no,Paro,11,muy bajo
+Av. venezuela,2025-05-07,Miercoles,03:00-04:00,no,Paro,18,muy bajo
+Av. venezuela,2025-05-07,Miercoles,04:00-05:00,no,Paro,19,muy bajo
+Av. venezuela,2025-05-07,Miercoles,05:00-06:00,no,Paro,55,bajo
+Av. venezuela,2025-05-07,Miercoles,06:00-07:00,no,Paro,83,bajo
+Av. venezuela,2025-05-07,Miercoles,07:00-08:00,no,Paro,81,bajo
+Av. venezuela,2025-05-07,Miercoles,08:00-09:00,no,Paro,88,bajo
+Av. venezuela,2025-05-07,Miercoles,09:00-10:00,no,Paro,78,bajo
+Av. venezuela,2025-05-07,Miercoles,10:00-11:00,no,Paro,65,bajo
+Av. venezuela,2025-05-07,Miercoles,11:00-12:00,no,Paro,73,bajo
+Av. venezuela,2025-05-07,Miercoles,12:00-13:00,no,Paro,77,bajo
+Av. venezuela,2025-05-07,Miercoles,13:00-14:00,no,Paro,60,bajo
+Av. venezuela,2025-05-07,Miercoles,14:00-15:00,no,Paro,89,bajo
+Av. venezuela,2025-05-07,Miercoles,15:00-16:00,no,Paro,51,bajo
+Av. venezuela,2025-05-07,Miercoles,16:00-17:00,no,Paro,81,bajo
+Av. venezuela,2025-05-07,Miercoles,17:00-18:00,no,Paro,125,regular
+Av. venezuela,2025-05-07,Miercoles,18:00-19:00,no,Paro,75,bajo
+Av. venezuela,2025-05-07,Miercoles,19:00-20:00,no,Paro,71,bajo
+Av. venezuela,2025-05-07,Miercoles,20:00-21:00,no,Paro,117,bajo
+Av. venezuela,2025-05-07,Miercoles,21:00-22:00,no,Paro,70,bajo
+Av. venezuela,2025-05-07,Miercoles,22:00-23:00,no,Paro,61,bajo
+Av. venezuela,2025-05-07,Miercoles,23:00-00:00,no,Paro,63,bajo
+Av. paseo de la república,2025-05-08,Jueves,00:00-01:00,no,ninguno,39,muy bajo
+Av. paseo de la república,2025-05-08,Jueves,01:00-02:00,no,ninguno,44,muy bajo
+Av. paseo de la república,2025-05-08,Jueves,02:00-03:00,no,ninguno,10,muy bajo
+Av. paseo de la república,2025-05-08,Jueves,03:00-04:00,no,ninguno,50,muy bajo
+Av. paseo de la república,2025-05-08,Jueves,04:00-05:00,no,ninguno,39,muy bajo
+Av. paseo de la república,2025-05-08,Jueves,05:00-06:00,no,ninguno,129,regular
+Av. paseo de la república,2025-05-08,Jueves,06:00-07:00,no,ninguno,163,regular
+Av. paseo de la república,2025-05-08,Jueves,07:00-08:00,no,ninguno,131,regular
+Av. paseo de la república,2025-05-08,Jueves,08:00-09:00,no,ninguno,133,regular
+Av. paseo de la república,2025-05-08,Jueves,09:00-10:00,no,ninguno,154,regular
+Av. paseo de la república,2025-05-08,Jueves,10:00-11:00,no,ninguno,152,regular
+Av. paseo de la república,2025-05-08,Jueves,11:00-12:00,no,ninguno,159,regular
+Av. paseo de la república,2025-05-08,Jueves,12:00-13:00,no,ninguno,134,regular
+Av. paseo de la república,2025-05-08,Jueves,13:00-14:00,no,ninguno,162,regular
+Av. paseo de la república,2025-05-08,Jueves,14:00-15:00,no,ninguno,101,bajo
+Av. paseo de la república,2025-05-08,Jueves,15:00-16:00,no,ninguno,94,bajo
+Av. paseo de la república,2025-05-08,Jueves,16:00-17:00,no,ninguno,142,regular
+Av. paseo de la república,2025-05-08,Jueves,17:00-18:00,no,ninguno,142,regular
+Av. paseo de la república,2025-05-08,Jueves,18:00-19:00,no,ninguno,148,regular
+Av. paseo de la república,2025-05-08,Jueves,19:00-20:00,no,ninguno,206,alto
+Av. paseo de la república,2025-05-08,Jueves,20:00-21:00,no,ninguno,151,regular
+Av. paseo de la república,2025-05-08,Jueves,21:00-22:00,no,ninguno,111,bajo
+Av. paseo de la república,2025-05-08,Jueves,22:00-23:00,no,ninguno,79,bajo
+Av. paseo de la república,2025-05-08,Jueves,23:00-00:00,no,ninguno,65,bajo
+Av. alfredo benavides,2025-05-08,Jueves,00:00-01:00,no,ninguno,38,muy bajo
+Av. alfredo benavides,2025-05-08,Jueves,01:00-02:00,no,ninguno,45,muy bajo
+Av. alfredo benavides,2025-05-08,Jueves,02:00-03:00,no,ninguno,37,muy bajo
+Av. alfredo benavides,2025-05-08,Jueves,03:00-04:00,no,ninguno,33,muy bajo
+Av. alfredo benavides,2025-05-08,Jueves,04:00-05:00,no,ninguno,12,muy bajo
+Av. alfredo benavides,2025-05-08,Jueves,05:00-06:00,no,ninguno,137,regular
+Av. alfredo benavides,2025-05-08,Jueves,06:00-07:00,no,ninguno,230,alto
+Av. alfredo benavides,2025-05-08,Jueves,07:00-08:00,no,ninguno,217,alto
+Av. alfredo benavides,2025-05-08,Jueves,08:00-09:00,no,ninguno,104,bajo
+Av. alfredo benavides,2025-05-08,Jueves,09:00-10:00,no,ninguno,152,regular
+Av. alfredo benavides,2025-05-08,Jueves,10:00-11:00,no,ninguno,135,regular
+Av. alfredo benavides,2025-05-08,Jueves,11:00-12:00,no,ninguno,164,regular
+Av. alfredo benavides,2025-05-08,Jueves,12:00-13:00,no,ninguno,114,bajo
+Av. alfredo benavides,2025-05-08,Jueves,13:00-14:00,no,ninguno,170,regular
+Av. alfredo benavides,2025-05-08,Jueves,14:00-15:00,no,ninguno,165,regular
+Av. alfredo benavides,2025-05-08,Jueves,15:00-16:00,no,ninguno,144,regular
+Av. alfredo benavides,2025-05-08,Jueves,16:00-17:00,no,ninguno,150,regular
+Av. alfredo benavides,2025-05-08,Jueves,17:00-18:00,no,ninguno,176,regular
+Av. alfredo benavides,2025-05-08,Jueves,18:00-19:00,no,ninguno,286,alto
+Av. alfredo benavides,2025-05-08,Jueves,19:00-20:00,no,ninguno,132,regular
+Av. alfredo benavides,2025-05-08,Jueves,20:00-21:00,no,ninguno,252,alto
+Av. alfredo benavides,2025-05-08,Jueves,21:00-22:00,no,ninguno,112,bajo
+Av. alfredo benavides,2025-05-08,Jueves,22:00-23:00,no,ninguno,62,bajo
+Av. alfredo benavides,2025-05-08,Jueves,23:00-00:00,no,ninguno,65,bajo
+Av. universitaria,2025-05-08,Jueves,00:00-01:00,no,ninguno,31,muy bajo
+Av. universitaria,2025-05-08,Jueves,01:00-02:00,no,ninguno,48,muy bajo
+Av. universitaria,2025-05-08,Jueves,02:00-03:00,no,ninguno,39,muy bajo
+Av. universitaria,2025-05-08,Jueves,03:00-04:00,no,ninguno,38,muy bajo
+Av. universitaria,2025-05-08,Jueves,04:00-05:00,no,ninguno,21,muy bajo
+Av. universitaria,2025-05-08,Jueves,05:00-06:00,no,ninguno,214,alto
+Av. universitaria,2025-05-08,Jueves,06:00-07:00,no,ninguno,175,regular
+Av. universitaria,2025-05-08,Jueves,07:00-08:00,no,ninguno,141,regular
+Av. universitaria,2025-05-08,Jueves,08:00-09:00,no,ninguno,157,regular
+Av. universitaria,2025-05-08,Jueves,09:00-10:00,no,ninguno,175,regular
+Av. universitaria,2025-05-08,Jueves,10:00-11:00,no,ninguno,96,bajo
+Av. universitaria,2025-05-08,Jueves,11:00-12:00,no,ninguno,90,bajo
+Av. universitaria,2025-05-08,Jueves,12:00-13:00,no,ninguno,171,regular
+Av. universitaria,2025-05-08,Jueves,13:00-14:00,no,ninguno,173,regular
+Av. universitaria,2025-05-08,Jueves,14:00-15:00,no,ninguno,180,regular
+Av. universitaria,2025-05-08,Jueves,15:00-16:00,no,ninguno,151,regular
+Av. universitaria,2025-05-08,Jueves,16:00-17:00,no,ninguno,102,bajo
+Av. universitaria,2025-05-08,Jueves,17:00-18:00,no,ninguno,156,regular
+Av. universitaria,2025-05-08,Jueves,18:00-19:00,no,ninguno,269,alto
+Av. universitaria,2025-05-08,Jueves,19:00-20:00,no,ninguno,145,regular
+Av. universitaria,2025-05-08,Jueves,20:00-21:00,no,ninguno,244,alto
+Av. universitaria,2025-05-08,Jueves,21:00-22:00,no,ninguno,105,bajo
+Av. universitaria,2025-05-08,Jueves,22:00-23:00,no,ninguno,111,bajo
+Av. universitaria,2025-05-08,Jueves,23:00-00:00,no,ninguno,135,regular
+Av. la marina,2025-05-08,Jueves,00:00-01:00,no,ninguno,48,muy bajo
+Av. la marina,2025-05-08,Jueves,01:00-02:00,no,ninguno,46,muy bajo
+Av. la marina,2025-05-08,Jueves,02:00-03:00,no,ninguno,10,muy bajo
+Av. la marina,2025-05-08,Jueves,03:00-04:00,no,ninguno,44,muy bajo
+Av. la marina,2025-05-08,Jueves,04:00-05:00,no,ninguno,37,muy bajo
+Av. la marina,2025-05-08,Jueves,05:00-06:00,no,ninguno,150,regular
+Av. la marina,2025-05-08,Jueves,06:00-07:00,no,ninguno,135,regular
+Av. la marina,2025-05-08,Jueves,07:00-08:00,no,ninguno,225,alto
+Av. la marina,2025-05-08,Jueves,08:00-09:00,no,ninguno,97,bajo
+Av. la marina,2025-05-08,Jueves,09:00-10:00,no,ninguno,158,regular
+Av. la marina,2025-05-08,Jueves,10:00-11:00,no,ninguno,143,regular
+Av. la marina,2025-05-08,Jueves,11:00-12:00,no,ninguno,92,bajo
+Av. la marina,2025-05-08,Jueves,12:00-13:00,no,ninguno,96,bajo
+Av. la marina,2025-05-08,Jueves,13:00-14:00,no,ninguno,103,bajo
+Av. la marina,2025-05-08,Jueves,14:00-15:00,no,ninguno,167,regular
+Av. la marina,2025-05-08,Jueves,15:00-16:00,no,ninguno,131,regular
+Av. la marina,2025-05-08,Jueves,16:00-17:00,no,ninguno,180,regular
+Av. la marina,2025-05-08,Jueves,17:00-18:00,no,ninguno,153,regular
+Av. la marina,2025-05-08,Jueves,18:00-19:00,no,ninguno,135,regular
+Av. la marina,2025-05-08,Jueves,19:00-20:00,no,ninguno,270,alto
+Av. la marina,2025-05-08,Jueves,20:00-21:00,no,ninguno,201,alto
+Av. la marina,2025-05-08,Jueves,21:00-22:00,no,ninguno,74,bajo
+Av. la marina,2025-05-08,Jueves,22:00-23:00,no,ninguno,114,bajo
+Av. la marina,2025-05-08,Jueves,23:00-00:00,no,ninguno,101,bajo
+Av. abancay,2025-05-08,Jueves,00:00-01:00,no,ninguno,28,muy bajo
+Av. abancay,2025-05-08,Jueves,01:00-02:00,no,ninguno,46,muy bajo
+Av. abancay,2025-05-08,Jueves,02:00-03:00,no,ninguno,43,muy bajo
+Av. abancay,2025-05-08,Jueves,03:00-04:00,no,ninguno,24,muy bajo
+Av. abancay,2025-05-08,Jueves,04:00-05:00,no,ninguno,12,muy bajo
+Av. abancay,2025-05-08,Jueves,05:00-06:00,no,ninguno,217,alto
+Av. abancay,2025-05-08,Jueves,06:00-07:00,no,ninguno,150,regular
+Av. abancay,2025-05-08,Jueves,07:00-08:00,no,ninguno,210,alto
+Av. abancay,2025-05-08,Jueves,08:00-09:00,no,ninguno,148,regular
+Av. abancay,2025-05-08,Jueves,09:00-10:00,no,ninguno,174,regular
+Av. abancay,2025-05-08,Jueves,10:00-11:00,no,ninguno,109,bajo
+Av. abancay,2025-05-08,Jueves,11:00-12:00,no,ninguno,162,regular
+Av. abancay,2025-05-08,Jueves,12:00-13:00,no,ninguno,166,regular
+Av. abancay,2025-05-08,Jueves,13:00-14:00,no,ninguno,146,regular
+Av. abancay,2025-05-08,Jueves,14:00-15:00,no,ninguno,120,bajo
+Av. abancay,2025-05-08,Jueves,15:00-16:00,no,ninguno,179,regular
+Av. abancay,2025-05-08,Jueves,16:00-17:00,no,ninguno,164,regular
+Av. abancay,2025-05-08,Jueves,17:00-18:00,no,ninguno,294,alto
+Av. abancay,2025-05-08,Jueves,18:00-19:00,no,ninguno,246,alto
+Av. abancay,2025-05-08,Jueves,19:00-20:00,no,ninguno,180,regular
+Av. abancay,2025-05-08,Jueves,20:00-21:00,no,ninguno,261,alto
+Av. abancay,2025-05-08,Jueves,21:00-22:00,no,ninguno,113,bajo
+Av. abancay,2025-05-08,Jueves,22:00-23:00,no,ninguno,141,regular
+Av. abancay,2025-05-08,Jueves,23:00-00:00,no,ninguno,146,regular
+Av. mexico,2025-05-08,Jueves,00:00-01:00,no,ninguno,48,muy bajo
+Av. mexico,2025-05-08,Jueves,01:00-02:00,no,ninguno,36,muy bajo
+Av. mexico,2025-05-08,Jueves,02:00-03:00,no,ninguno,31,muy bajo
+Av. mexico,2025-05-08,Jueves,03:00-04:00,no,ninguno,48,muy bajo
+Av. mexico,2025-05-08,Jueves,04:00-05:00,no,ninguno,48,muy bajo
+Av. mexico,2025-05-08,Jueves,05:00-06:00,no,ninguno,203,alto
+Av. mexico,2025-05-08,Jueves,06:00-07:00,no,ninguno,202,alto
+Av. mexico,2025-05-08,Jueves,07:00-08:00,no,ninguno,185,alto
+Av. mexico,2025-05-08,Jueves,08:00-09:00,no,ninguno,178,regular
+Av. mexico,2025-05-08,Jueves,09:00-10:00,no,ninguno,142,regular
+Av. mexico,2025-05-08,Jueves,10:00-11:00,no,ninguno,136,regular
+Av. mexico,2025-05-08,Jueves,11:00-12:00,no,ninguno,125,regular
+Av. mexico,2025-05-08,Jueves,12:00-13:00,no,ninguno,132,regular
+Av. mexico,2025-05-08,Jueves,13:00-14:00,no,ninguno,150,regular
+Av. mexico,2025-05-08,Jueves,14:00-15:00,no,ninguno,145,regular
+Av. mexico,2025-05-08,Jueves,15:00-16:00,no,ninguno,141,regular
+Av. mexico,2025-05-08,Jueves,16:00-17:00,no,ninguno,105,bajo
+Av. mexico,2025-05-08,Jueves,17:00-18:00,no,ninguno,203,alto
+Av. mexico,2025-05-08,Jueves,18:00-19:00,no,ninguno,243,alto
+Av. mexico,2025-05-08,Jueves,19:00-20:00,no,ninguno,257,alto
+Av. mexico,2025-05-08,Jueves,20:00-21:00,no,ninguno,144,regular
+Av. mexico,2025-05-08,Jueves,21:00-22:00,no,ninguno,71,bajo
+Av. mexico,2025-05-08,Jueves,22:00-23:00,no,ninguno,83,bajo
+Av. mexico,2025-05-08,Jueves,23:00-00:00,no,ninguno,97,bajo
+Av. argentina,2025-05-08,Jueves,00:00-01:00,no,ninguno,17,muy bajo
+Av. argentina,2025-05-08,Jueves,01:00-02:00,no,ninguno,24,muy bajo
+Av. argentina,2025-05-08,Jueves,02:00-03:00,no,ninguno,14,muy bajo
+Av. argentina,2025-05-08,Jueves,03:00-04:00,no,ninguno,36,muy bajo
+Av. argentina,2025-05-08,Jueves,04:00-05:00,no,ninguno,40,muy bajo
+Av. argentina,2025-05-08,Jueves,05:00-06:00,no,ninguno,165,regular
+Av. argentina,2025-05-08,Jueves,06:00-07:00,no,ninguno,158,regular
+Av. argentina,2025-05-08,Jueves,07:00-08:00,no,ninguno,100,bajo
+Av. argentina,2025-05-08,Jueves,08:00-09:00,no,ninguno,147,regular
+Av. argentina,2025-05-08,Jueves,09:00-10:00,no,ninguno,92,bajo
+Av. argentina,2025-05-08,Jueves,10:00-11:00,no,ninguno,126,regular
+Av. argentina,2025-05-08,Jueves,11:00-12:00,no,ninguno,172,regular
+Av. argentina,2025-05-08,Jueves,12:00-13:00,no,ninguno,125,regular
+Av. argentina,2025-05-08,Jueves,13:00-14:00,no,ninguno,156,regular
+Av. argentina,2025-05-08,Jueves,14:00-15:00,no,ninguno,127,regular
+Av. argentina,2025-05-08,Jueves,15:00-16:00,no,ninguno,94,bajo
+Av. argentina,2025-05-08,Jueves,16:00-17:00,no,ninguno,139,regular
+Av. argentina,2025-05-08,Jueves,17:00-18:00,no,ninguno,164,regular
+Av. argentina,2025-05-08,Jueves,18:00-19:00,no,ninguno,165,regular
+Av. argentina,2025-05-08,Jueves,19:00-20:00,no,ninguno,161,regular
+Av. argentina,2025-05-08,Jueves,20:00-21:00,no,ninguno,210,alto
+Av. argentina,2025-05-08,Jueves,21:00-22:00,no,ninguno,132,regular
+Av. argentina,2025-05-08,Jueves,22:00-23:00,no,ninguno,122,regular
+Av. argentina,2025-05-08,Jueves,23:00-00:00,no,ninguno,125,regular
+Av. venezuela,2025-05-08,Jueves,00:00-01:00,no,ninguno,36,muy bajo
+Av. venezuela,2025-05-08,Jueves,01:00-02:00,no,ninguno,31,muy bajo
+Av. venezuela,2025-05-08,Jueves,02:00-03:00,no,ninguno,47,muy bajo
+Av. venezuela,2025-05-08,Jueves,03:00-04:00,no,ninguno,43,muy bajo
+Av. venezuela,2025-05-08,Jueves,04:00-05:00,no,ninguno,21,muy bajo
+Av. venezuela,2025-05-08,Jueves,05:00-06:00,no,ninguno,212,alto
+Av. venezuela,2025-05-08,Jueves,06:00-07:00,no,ninguno,166,regular
+Av. venezuela,2025-05-08,Jueves,07:00-08:00,no,ninguno,109,bajo
+Av. venezuela,2025-05-08,Jueves,08:00-09:00,no,ninguno,113,bajo
+Av. venezuela,2025-05-08,Jueves,09:00-10:00,no,ninguno,158,regular
+Av. venezuela,2025-05-08,Jueves,10:00-11:00,no,ninguno,139,regular
+Av. venezuela,2025-05-08,Jueves,11:00-12:00,no,ninguno,153,regular
+Av. venezuela,2025-05-08,Jueves,12:00-13:00,no,ninguno,118,bajo
+Av. venezuela,2025-05-08,Jueves,13:00-14:00,no,ninguno,112,bajo
+Av. venezuela,2025-05-08,Jueves,14:00-15:00,no,ninguno,93,bajo
+Av. venezuela,2025-05-08,Jueves,15:00-16:00,no,ninguno,101,bajo
+Av. venezuela,2025-05-08,Jueves,16:00-17:00,no,ninguno,175,regular
+Av. venezuela,2025-05-08,Jueves,17:00-18:00,no,ninguno,255,alto
+Av. venezuela,2025-05-08,Jueves,18:00-19:00,no,ninguno,164,regular
+Av. venezuela,2025-05-08,Jueves,19:00-20:00,no,ninguno,207,alto
+Av. venezuela,2025-05-08,Jueves,20:00-21:00,no,ninguno,159,regular
+Av. venezuela,2025-05-08,Jueves,21:00-22:00,no,ninguno,102,bajo
+Av. venezuela,2025-05-08,Jueves,22:00-23:00,no,ninguno,68,bajo
+Av. venezuela,2025-05-08,Jueves,23:00-00:00,no,ninguno,96,bajo
+Av. paseo de la república,2025-05-09,Viernes,00:00-01:00,no,ninguno,48,muy bajo
+Av. paseo de la república,2025-05-09,Viernes,01:00-02:00,no,ninguno,16,muy bajo
+Av. paseo de la república,2025-05-09,Viernes,02:00-03:00,no,ninguno,35,muy bajo
+Av. paseo de la república,2025-05-09,Viernes,03:00-04:00,no,ninguno,18,muy bajo
+Av. paseo de la república,2025-05-09,Viernes,04:00-05:00,no,ninguno,37,muy bajo
+Av. paseo de la república,2025-05-09,Viernes,05:00-06:00,no,ninguno,227,alto
+Av. paseo de la república,2025-05-09,Viernes,06:00-07:00,no,ninguno,188,alto
+Av. paseo de la república,2025-05-09,Viernes,07:00-08:00,no,ninguno,200,alto
+Av. paseo de la república,2025-05-09,Viernes,08:00-09:00,no,ninguno,127,regular
+Av. paseo de la república,2025-05-09,Viernes,09:00-10:00,no,ninguno,175,regular
+Av. paseo de la república,2025-05-09,Viernes,10:00-11:00,no,ninguno,130,regular
+Av. paseo de la república,2025-05-09,Viernes,11:00-12:00,no,ninguno,94,bajo
+Av. paseo de la república,2025-05-09,Viernes,12:00-13:00,no,ninguno,119,bajo
+Av. paseo de la república,2025-05-09,Viernes,13:00-14:00,no,ninguno,147,regular
+Av. paseo de la república,2025-05-09,Viernes,14:00-15:00,no,ninguno,115,bajo
+Av. paseo de la república,2025-05-09,Viernes,15:00-16:00,no,ninguno,118,bajo
+Av. paseo de la república,2025-05-09,Viernes,16:00-17:00,no,ninguno,138,regular
+Av. paseo de la república,2025-05-09,Viernes,17:00-18:00,no,ninguno,201,alto
+Av. paseo de la república,2025-05-09,Viernes,18:00-19:00,no,ninguno,198,alto
+Av. paseo de la república,2025-05-09,Viernes,19:00-20:00,no,ninguno,211,alto
+Av. paseo de la república,2025-05-09,Viernes,20:00-21:00,no,ninguno,171,regular
+Av. paseo de la república,2025-05-09,Viernes,21:00-22:00,no,ninguno,64,bajo
+Av. paseo de la república,2025-05-09,Viernes,22:00-23:00,no,ninguno,124,regular
+Av. paseo de la república,2025-05-09,Viernes,23:00-00:00,no,ninguno,110,bajo
+Av. alfredo benavides,2025-05-09,Viernes,00:00-01:00,no,ninguno,32,muy bajo
+Av. alfredo benavides,2025-05-09,Viernes,01:00-02:00,no,ninguno,19,muy bajo
+Av. alfredo benavides,2025-05-09,Viernes,02:00-03:00,no,ninguno,24,muy bajo
+Av. alfredo benavides,2025-05-09,Viernes,03:00-04:00,no,ninguno,30,muy bajo
+Av. alfredo benavides,2025-05-09,Viernes,04:00-05:00,no,ninguno,24,muy bajo
+Av. alfredo benavides,2025-05-09,Viernes,05:00-06:00,no,ninguno,138,regular
+Av. alfredo benavides,2025-05-09,Viernes,06:00-07:00,no,ninguno,153,regular
+Av. alfredo benavides,2025-05-09,Viernes,07:00-08:00,no,ninguno,160,regular
+Av. alfredo benavides,2025-05-09,Viernes,08:00-09:00,no,ninguno,120,bajo
+Av. alfredo benavides,2025-05-09,Viernes,09:00-10:00,no,ninguno,126,regular
+Av. alfredo benavides,2025-05-09,Viernes,10:00-11:00,no,ninguno,180,regular
+Av. alfredo benavides,2025-05-09,Viernes,11:00-12:00,no,ninguno,179,regular
+Av. alfredo benavides,2025-05-09,Viernes,12:00-13:00,no,ninguno,115,bajo
+Av. alfredo benavides,2025-05-09,Viernes,13:00-14:00,no,ninguno,100,bajo
+Av. alfredo benavides,2025-05-09,Viernes,14:00-15:00,no,ninguno,142,regular
+Av. alfredo benavides,2025-05-09,Viernes,15:00-16:00,no,ninguno,141,regular
+Av. alfredo benavides,2025-05-09,Viernes,16:00-17:00,no,ninguno,161,regular
+Av. alfredo benavides,2025-05-09,Viernes,17:00-18:00,no,ninguno,158,regular
+Av. alfredo benavides,2025-05-09,Viernes,18:00-19:00,no,ninguno,232,alto
+Av. alfredo benavides,2025-05-09,Viernes,19:00-20:00,no,ninguno,210,alto
+Av. alfredo benavides,2025-05-09,Viernes,20:00-21:00,no,ninguno,250,alto
+Av. alfredo benavides,2025-05-09,Viernes,21:00-22:00,no,ninguno,69,bajo
+Av. alfredo benavides,2025-05-09,Viernes,22:00-23:00,no,ninguno,68,bajo
+Av. alfredo benavides,2025-05-09,Viernes,23:00-00:00,no,ninguno,118,bajo
+Av. universitaria,2025-05-09,Viernes,00:00-01:00,no,ninguno,26,muy bajo
+Av. universitaria,2025-05-09,Viernes,01:00-02:00,no,ninguno,21,muy bajo
+Av. universitaria,2025-05-09,Viernes,02:00-03:00,no,ninguno,15,muy bajo
+Av. universitaria,2025-05-09,Viernes,03:00-04:00,no,ninguno,47,muy bajo
+Av. universitaria,2025-05-09,Viernes,04:00-05:00,no,ninguno,49,muy bajo
+Av. universitaria,2025-05-09,Viernes,05:00-06:00,no,ninguno,171,regular
+Av. universitaria,2025-05-09,Viernes,06:00-07:00,no,ninguno,215,alto
+Av. universitaria,2025-05-09,Viernes,07:00-08:00,no,ninguno,140,regular
+Av. universitaria,2025-05-09,Viernes,08:00-09:00,no,ninguno,108,bajo
+Av. universitaria,2025-05-09,Viernes,09:00-10:00,no,ninguno,148,regular
+Av. universitaria,2025-05-09,Viernes,10:00-11:00,no,ninguno,92,bajo
+Av. universitaria,2025-05-09,Viernes,11:00-12:00,no,ninguno,116,bajo
+Av. universitaria,2025-05-09,Viernes,12:00-13:00,no,ninguno,116,bajo
+Av. universitaria,2025-05-09,Viernes,13:00-14:00,no,ninguno,105,bajo
+Av. universitaria,2025-05-09,Viernes,14:00-15:00,no,ninguno,160,regular
+Av. universitaria,2025-05-09,Viernes,15:00-16:00,no,ninguno,129,regular
+Av. universitaria,2025-05-09,Viernes,16:00-17:00,no,ninguno,119,bajo
+Av. universitaria,2025-05-09,Viernes,17:00-18:00,no,ninguno,139,regular
+Av. universitaria,2025-05-09,Viernes,18:00-19:00,no,ninguno,169,regular
+Av. universitaria,2025-05-09,Viernes,19:00-20:00,no,ninguno,144,regular
+Av. universitaria,2025-05-09,Viernes,20:00-21:00,no,ninguno,244,alto
+Av. universitaria,2025-05-09,Viernes,21:00-22:00,no,ninguno,144,regular
+Av. universitaria,2025-05-09,Viernes,22:00-23:00,no,ninguno,68,bajo
+Av. universitaria,2025-05-09,Viernes,23:00-00:00,no,ninguno,87,bajo
+Av. la marina,2025-05-09,Viernes,00:00-01:00,no,ninguno,27,muy bajo
+Av. la marina,2025-05-09,Viernes,01:00-02:00,no,ninguno,14,muy bajo
+Av. la marina,2025-05-09,Viernes,02:00-03:00,no,ninguno,29,muy bajo
+Av. la marina,2025-05-09,Viernes,03:00-04:00,no,ninguno,11,muy bajo
+Av. la marina,2025-05-09,Viernes,04:00-05:00,no,ninguno,17,muy bajo
+Av. la marina,2025-05-09,Viernes,05:00-06:00,no,ninguno,176,regular
+Av. la marina,2025-05-09,Viernes,06:00-07:00,no,ninguno,131,regular
+Av. la marina,2025-05-09,Viernes,07:00-08:00,no,ninguno,222,alto
+Av. la marina,2025-05-09,Viernes,08:00-09:00,no,ninguno,103,bajo
+Av. la marina,2025-05-09,Viernes,09:00-10:00,no,ninguno,178,regular
+Av. la marina,2025-05-09,Viernes,10:00-11:00,no,ninguno,98,bajo
+Av. la marina,2025-05-09,Viernes,11:00-12:00,no,ninguno,121,regular
+Av. la marina,2025-05-09,Viernes,12:00-13:00,no,ninguno,145,regular
+Av. la marina,2025-05-09,Viernes,13:00-14:00,no,ninguno,163,regular
+Av. la marina,2025-05-09,Viernes,14:00-15:00,no,ninguno,161,regular
+Av. la marina,2025-05-09,Viernes,15:00-16:00,no,ninguno,149,regular
+Av. la marina,2025-05-09,Viernes,16:00-17:00,no,ninguno,91,bajo
+Av. la marina,2025-05-09,Viernes,17:00-18:00,no,ninguno,289,alto
+Av. la marina,2025-05-09,Viernes,18:00-19:00,no,ninguno,147,regular
+Av. la marina,2025-05-09,Viernes,19:00-20:00,no,ninguno,247,alto
+Av. la marina,2025-05-09,Viernes,20:00-21:00,no,ninguno,283,alto
+Av. la marina,2025-05-09,Viernes,21:00-22:00,no,ninguno,60,bajo
+Av. la marina,2025-05-09,Viernes,22:00-23:00,no,ninguno,71,bajo
+Av. la marina,2025-05-09,Viernes,23:00-00:00,no,ninguno,121,regular
+Av. abancay,2025-05-09,Viernes,00:00-01:00,no,ninguno,16,muy bajo
+Av. abancay,2025-05-09,Viernes,01:00-02:00,no,ninguno,15,muy bajo
+Av. abancay,2025-05-09,Viernes,02:00-03:00,no,ninguno,18,muy bajo
+Av. abancay,2025-05-09,Viernes,03:00-04:00,no,ninguno,36,muy bajo
+Av. abancay,2025-05-09,Viernes,04:00-05:00,no,ninguno,23,muy bajo
+Av. abancay,2025-05-09,Viernes,05:00-06:00,no,ninguno,246,alto
+Av. abancay,2025-05-09,Viernes,06:00-07:00,no,ninguno,166,regular
+Av. abancay,2025-05-09,Viernes,07:00-08:00,no,ninguno,118,bajo
+Av. abancay,2025-05-09,Viernes,08:00-09:00,no,ninguno,108,bajo
+Av. abancay,2025-05-09,Viernes,09:00-10:00,no,ninguno,101,bajo
+Av. abancay,2025-05-09,Viernes,10:00-11:00,no,ninguno,164,regular
+Av. abancay,2025-05-09,Viernes,11:00-12:00,no,ninguno,146,regular
+Av. abancay,2025-05-09,Viernes,12:00-13:00,no,ninguno,99,bajo
+Av. abancay,2025-05-09,Viernes,13:00-14:00,no,ninguno,150,regular
+Av. abancay,2025-05-09,Viernes,14:00-15:00,no,ninguno,152,regular
+Av. abancay,2025-05-09,Viernes,15:00-16:00,no,ninguno,144,regular
+Av. abancay,2025-05-09,Viernes,16:00-17:00,no,ninguno,163,regular
+Av. abancay,2025-05-09,Viernes,17:00-18:00,no,ninguno,294,alto
+Av. abancay,2025-05-09,Viernes,18:00-19:00,no,ninguno,163,regular
+Av. abancay,2025-05-09,Viernes,19:00-20:00,no,ninguno,162,regular
+Av. abancay,2025-05-09,Viernes,20:00-21:00,no,ninguno,148,regular
+Av. abancay,2025-05-09,Viernes,21:00-22:00,no,ninguno,121,regular
+Av. abancay,2025-05-09,Viernes,22:00-23:00,no,ninguno,102,bajo
+Av. abancay,2025-05-09,Viernes,23:00-00:00,no,ninguno,133,regular
+Av. mexico,2025-05-09,Viernes,00:00-01:00,no,ninguno,47,muy bajo
+Av. mexico,2025-05-09,Viernes,01:00-02:00,no,ninguno,30,muy bajo
+Av. mexico,2025-05-09,Viernes,02:00-03:00,no,ninguno,12,muy bajo
+Av. mexico,2025-05-09,Viernes,03:00-04:00,no,ninguno,47,muy bajo
+Av. mexico,2025-05-09,Viernes,04:00-05:00,no,ninguno,45,muy bajo
+Av. mexico,2025-05-09,Viernes,05:00-06:00,no,ninguno,204,alto
+Av. mexico,2025-05-09,Viernes,06:00-07:00,no,ninguno,156,regular
+Av. mexico,2025-05-09,Viernes,07:00-08:00,no,ninguno,158,regular
+Av. mexico,2025-05-09,Viernes,08:00-09:00,no,ninguno,105,bajo
+Av. mexico,2025-05-09,Viernes,09:00-10:00,no,ninguno,95,bajo
+Av. mexico,2025-05-09,Viernes,10:00-11:00,no,ninguno,154,regular
+Av. mexico,2025-05-09,Viernes,11:00-12:00,no,ninguno,111,bajo
+Av. mexico,2025-05-09,Viernes,12:00-13:00,no,ninguno,173,regular
+Av. mexico,2025-05-09,Viernes,13:00-14:00,no,ninguno,164,regular
+Av. mexico,2025-05-09,Viernes,14:00-15:00,no,ninguno,122,regular
+Av. mexico,2025-05-09,Viernes,15:00-16:00,no,ninguno,177,regular
+Av. mexico,2025-05-09,Viernes,16:00-17:00,no,ninguno,163,regular
+Av. mexico,2025-05-09,Viernes,17:00-18:00,no,ninguno,135,regular
+Av. mexico,2025-05-09,Viernes,18:00-19:00,no,ninguno,227,alto
+Av. mexico,2025-05-09,Viernes,19:00-20:00,no,ninguno,274,alto
+Av. mexico,2025-05-09,Viernes,20:00-21:00,no,ninguno,281,alto
+Av. mexico,2025-05-09,Viernes,21:00-22:00,no,ninguno,60,bajo
+Av. mexico,2025-05-09,Viernes,22:00-23:00,no,ninguno,149,regular
+Av. mexico,2025-05-09,Viernes,23:00-00:00,no,ninguno,107,bajo
+Av. argentina,2025-05-09,Viernes,00:00-01:00,no,ninguno,48,muy bajo
+Av. argentina,2025-05-09,Viernes,01:00-02:00,no,ninguno,14,muy bajo
+Av. argentina,2025-05-09,Viernes,02:00-03:00,no,ninguno,40,muy bajo
+Av. argentina,2025-05-09,Viernes,03:00-04:00,no,ninguno,11,muy bajo
+Av. argentina,2025-05-09,Viernes,04:00-05:00,no,ninguno,18,muy bajo
+Av. argentina,2025-05-09,Viernes,05:00-06:00,no,ninguno,155,regular
+Av. argentina,2025-05-09,Viernes,06:00-07:00,no,ninguno,141,regular
+Av. argentina,2025-05-09,Viernes,07:00-08:00,no,ninguno,236,alto
+Av. argentina,2025-05-09,Viernes,08:00-09:00,no,ninguno,165,regular
+Av. argentina,2025-05-09,Viernes,09:00-10:00,no,ninguno,108,bajo
+Av. argentina,2025-05-09,Viernes,10:00-11:00,no,ninguno,118,bajo
+Av. argentina,2025-05-09,Viernes,11:00-12:00,no,ninguno,141,regular
+Av. argentina,2025-05-09,Viernes,12:00-13:00,no,ninguno,149,regular
+Av. argentina,2025-05-09,Viernes,13:00-14:00,no,ninguno,102,bajo
+Av. argentina,2025-05-09,Viernes,14:00-15:00,no,ninguno,155,regular
+Av. argentina,2025-05-09,Viernes,15:00-16:00,no,ninguno,140,regular
+Av. argentina,2025-05-09,Viernes,16:00-17:00,no,ninguno,132,regular
+Av. argentina,2025-05-09,Viernes,17:00-18:00,no,ninguno,216,alto
+Av. argentina,2025-05-09,Viernes,18:00-19:00,no,ninguno,160,regular
+Av. argentina,2025-05-09,Viernes,19:00-20:00,no,ninguno,243,alto
+Av. argentina,2025-05-09,Viernes,20:00-21:00,no,ninguno,144,regular
+Av. argentina,2025-05-09,Viernes,21:00-22:00,no,ninguno,150,regular
+Av. argentina,2025-05-09,Viernes,22:00-23:00,no,ninguno,137,regular
+Av. argentina,2025-05-09,Viernes,23:00-00:00,no,ninguno,113,bajo
+Av. venezuela,2025-05-09,Viernes,00:00-01:00,no,ninguno,29,muy bajo
+Av. venezuela,2025-05-09,Viernes,01:00-02:00,no,ninguno,19,muy bajo
+Av. venezuela,2025-05-09,Viernes,02:00-03:00,no,ninguno,32,muy bajo
+Av. venezuela,2025-05-09,Viernes,03:00-04:00,no,ninguno,12,muy bajo
+Av. venezuela,2025-05-09,Viernes,04:00-05:00,no,ninguno,13,muy bajo
+Av. venezuela,2025-05-09,Viernes,05:00-06:00,no,ninguno,138,regular
+Av. venezuela,2025-05-09,Viernes,06:00-07:00,no,ninguno,126,regular
+Av. venezuela,2025-05-09,Viernes,07:00-08:00,no,ninguno,123,regular
+Av. venezuela,2025-05-09,Viernes,08:00-09:00,no,ninguno,151,regular
+Av. venezuela,2025-05-09,Viernes,09:00-10:00,no,ninguno,126,regular
+Av. venezuela,2025-05-09,Viernes,10:00-11:00,no,ninguno,141,regular
+Av. venezuela,2025-05-09,Viernes,11:00-12:00,no,ninguno,165,regular
+Av. venezuela,2025-05-09,Viernes,12:00-13:00,no,ninguno,93,bajo
+Av. venezuela,2025-05-09,Viernes,13:00-14:00,no,ninguno,101,bajo
+Av. venezuela,2025-05-09,Viernes,14:00-15:00,no,ninguno,124,regular
+Av. venezuela,2025-05-09,Viernes,15:00-16:00,no,ninguno,101,bajo
+Av. venezuela,2025-05-09,Viernes,16:00-17:00,no,ninguno,156,regular
+Av. venezuela,2025-05-09,Viernes,17:00-18:00,no,ninguno,185,alto
+Av. venezuela,2025-05-09,Viernes,18:00-19:00,no,ninguno,259,alto
+Av. venezuela,2025-05-09,Viernes,19:00-20:00,no,ninguno,151,regular
+Av. venezuela,2025-05-09,Viernes,20:00-21:00,no,ninguno,238,alto
+Av. venezuela,2025-05-09,Viernes,21:00-22:00,no,ninguno,124,regular
+Av. venezuela,2025-05-09,Viernes,22:00-23:00,no,ninguno,77,bajo
+Av. venezuela,2025-05-09,Viernes,23:00-00:00,no,ninguno,125,regular
+Av. paseo de la república,2025-05-10,Sabado,00:00-01:00,no,ninguno,10,muy bajo
+Av. paseo de la república,2025-05-10,Sabado,01:00-02:00,no,ninguno,50,muy bajo
+Av. paseo de la república,2025-05-10,Sabado,02:00-03:00,no,ninguno,35,muy bajo
+Av. paseo de la república,2025-05-10,Sabado,03:00-04:00,no,ninguno,48,muy bajo
+Av. paseo de la república,2025-05-10,Sabado,04:00-05:00,no,ninguno,42,muy bajo
+Av. paseo de la república,2025-05-10,Sabado,05:00-06:00,no,ninguno,103,bajo
+Av. paseo de la república,2025-05-10,Sabado,06:00-07:00,no,ninguno,107,bajo
+Av. paseo de la república,2025-05-10,Sabado,07:00-08:00,no,ninguno,195,alto
+Av. paseo de la república,2025-05-10,Sabado,08:00-09:00,no,ninguno,152,regular
+Av. paseo de la república,2025-05-10,Sabado,09:00-10:00,no,ninguno,174,regular
+Av. paseo de la república,2025-05-10,Sabado,10:00-11:00,no,ninguno,166,regular
+Av. paseo de la república,2025-05-10,Sabado,11:00-12:00,no,ninguno,128,regular
+Av. paseo de la república,2025-05-10,Sabado,12:00-13:00,no,ninguno,93,bajo
+Av. paseo de la república,2025-05-10,Sabado,13:00-14:00,no,ninguno,140,regular
+Av. paseo de la república,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,156,regular
+Av. paseo de la república,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,171,regular
+Av. paseo de la república,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,181,alto
+Av. paseo de la república,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,224,alto
+Av. paseo de la república,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,308,alto
+Av. paseo de la república,2025-05-10,Sabado,19:00-20:00,no,ninguno,256,alto
+Av. paseo de la república,2025-05-10,Sabado,20:00-21:00,no,ninguno,286,alto
+Av. paseo de la república,2025-05-10,Sabado,21:00-22:00,no,ninguno,112,bajo
+Av. paseo de la república,2025-05-10,Sabado,22:00-23:00,no,ninguno,69,bajo
+Av. paseo de la república,2025-05-10,Sabado,23:00-00:00,no,ninguno,136,regular
+Av. alfredo benavides,2025-05-10,Sabado,00:00-01:00,no,ninguno,45,muy bajo
+Av. alfredo benavides,2025-05-10,Sabado,01:00-02:00,no,ninguno,50,muy bajo
+Av. alfredo benavides,2025-05-10,Sabado,02:00-03:00,no,ninguno,28,muy bajo
+Av. alfredo benavides,2025-05-10,Sabado,03:00-04:00,no,ninguno,13,muy bajo
+Av. alfredo benavides,2025-05-10,Sabado,04:00-05:00,no,ninguno,45,muy bajo
+Av. alfredo benavides,2025-05-10,Sabado,05:00-06:00,no,ninguno,102,bajo
+Av. alfredo benavides,2025-05-10,Sabado,06:00-07:00,no,ninguno,235,alto
+Av. alfredo benavides,2025-05-10,Sabado,07:00-08:00,no,ninguno,191,alto
+Av. alfredo benavides,2025-05-10,Sabado,08:00-09:00,no,ninguno,174,regular
+Av. alfredo benavides,2025-05-10,Sabado,09:00-10:00,no,ninguno,129,regular
+Av. alfredo benavides,2025-05-10,Sabado,10:00-11:00,no,ninguno,95,bajo
+Av. alfredo benavides,2025-05-10,Sabado,11:00-12:00,no,ninguno,101,bajo
+Av. alfredo benavides,2025-05-10,Sabado,12:00-13:00,no,ninguno,117,bajo
+Av. alfredo benavides,2025-05-10,Sabado,13:00-14:00,no,ninguno,111,bajo
+Av. alfredo benavides,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,148,regular
+Av. alfredo benavides,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,169,regular
+Av. alfredo benavides,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,166,regular
+Av. alfredo benavides,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,176,regular
+Av. alfredo benavides,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,219,alto
+Av. alfredo benavides,2025-05-10,Sabado,19:00-20:00,no,ninguno,204,alto
+Av. alfredo benavides,2025-05-10,Sabado,20:00-21:00,no,ninguno,271,alto
+Av. alfredo benavides,2025-05-10,Sabado,21:00-22:00,no,ninguno,66,bajo
+Av. alfredo benavides,2025-05-10,Sabado,22:00-23:00,no,ninguno,69,bajo
+Av. alfredo benavides,2025-05-10,Sabado,23:00-00:00,no,ninguno,131,regular
+Av. universitaria,2025-05-10,Sabado,00:00-01:00,no,ninguno,44,muy bajo
+Av. universitaria,2025-05-10,Sabado,01:00-02:00,no,ninguno,49,muy bajo
+Av. universitaria,2025-05-10,Sabado,02:00-03:00,no,ninguno,27,muy bajo
+Av. universitaria,2025-05-10,Sabado,03:00-04:00,no,ninguno,14,muy bajo
+Av. universitaria,2025-05-10,Sabado,04:00-05:00,no,ninguno,30,muy bajo
+Av. universitaria,2025-05-10,Sabado,05:00-06:00,no,ninguno,121,regular
+Av. universitaria,2025-05-10,Sabado,06:00-07:00,no,ninguno,240,alto
+Av. universitaria,2025-05-10,Sabado,07:00-08:00,no,ninguno,155,regular
+Av. universitaria,2025-05-10,Sabado,08:00-09:00,no,ninguno,116,bajo
+Av. universitaria,2025-05-10,Sabado,09:00-10:00,no,ninguno,130,regular
+Av. universitaria,2025-05-10,Sabado,10:00-11:00,no,ninguno,96,bajo
+Av. universitaria,2025-05-10,Sabado,11:00-12:00,no,ninguno,96,bajo
+Av. universitaria,2025-05-10,Sabado,12:00-13:00,no,ninguno,140,regular
+Av. universitaria,2025-05-10,Sabado,13:00-14:00,no,ninguno,157,regular
+Av. universitaria,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,177,regular
+Av. universitaria,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,174,regular
+Av. universitaria,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,176,regular
+Av. universitaria,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,279,alto
+Av. universitaria,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,330,alto
+Av. universitaria,2025-05-10,Sabado,19:00-20:00,no,ninguno,229,alto
+Av. universitaria,2025-05-10,Sabado,20:00-21:00,no,ninguno,250,alto
+Av. universitaria,2025-05-10,Sabado,21:00-22:00,no,ninguno,63,bajo
+Av. universitaria,2025-05-10,Sabado,22:00-23:00,no,ninguno,140,regular
+Av. universitaria,2025-05-10,Sabado,23:00-00:00,no,ninguno,136,regular
+Av. la marina,2025-05-10,Sabado,00:00-01:00,no,ninguno,37,muy bajo
+Av. la marina,2025-05-10,Sabado,01:00-02:00,no,ninguno,32,muy bajo
+Av. la marina,2025-05-10,Sabado,02:00-03:00,no,ninguno,33,muy bajo
+Av. la marina,2025-05-10,Sabado,03:00-04:00,no,ninguno,20,muy bajo
+Av. la marina,2025-05-10,Sabado,04:00-05:00,no,ninguno,25,muy bajo
+Av. la marina,2025-05-10,Sabado,05:00-06:00,no,ninguno,194,alto
+Av. la marina,2025-05-10,Sabado,06:00-07:00,no,ninguno,200,alto
+Av. la marina,2025-05-10,Sabado,07:00-08:00,no,ninguno,117,bajo
+Av. la marina,2025-05-10,Sabado,08:00-09:00,no,ninguno,122,regular
+Av. la marina,2025-05-10,Sabado,09:00-10:00,no,ninguno,125,regular
+Av. la marina,2025-05-10,Sabado,10:00-11:00,no,ninguno,100,bajo
+Av. la marina,2025-05-10,Sabado,11:00-12:00,no,ninguno,125,regular
+Av. la marina,2025-05-10,Sabado,12:00-13:00,no,ninguno,99,bajo
+Av. la marina,2025-05-10,Sabado,13:00-14:00,no,ninguno,163,regular
+Av. la marina,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,156,regular
+Av. la marina,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,195,alto
+Av. la marina,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,190,alto
+Av. la marina,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,184,alto
+Av. la marina,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,211,alto
+Av. la marina,2025-05-10,Sabado,19:00-20:00,no,ninguno,260,alto
+Av. la marina,2025-05-10,Sabado,20:00-21:00,no,ninguno,198,alto
+Av. la marina,2025-05-10,Sabado,21:00-22:00,no,ninguno,112,bajo
+Av. la marina,2025-05-10,Sabado,22:00-23:00,no,ninguno,115,bajo
+Av. la marina,2025-05-10,Sabado,23:00-00:00,no,ninguno,121,bajo
+Av. abancay,2025-05-10,Sabado,00:00-01:00,no,ninguno,48,muy bajo
+Av. abancay,2025-05-10,Sabado,01:00-02:00,no,ninguno,27,muy bajo
+Av. abancay,2025-05-10,Sabado,02:00-03:00,no,ninguno,26,muy bajo
+Av. abancay,2025-05-10,Sabado,03:00-04:00,no,ninguno,46,muy bajo
+Av. abancay,2025-05-10,Sabado,04:00-05:00,no,ninguno,20,muy bajo
+Av. abancay,2025-05-10,Sabado,05:00-06:00,no,ninguno,109,bajo
+Av. abancay,2025-05-10,Sabado,06:00-07:00,no,ninguno,194,alto
+Av. abancay,2025-05-10,Sabado,07:00-08:00,no,ninguno,110,bajo
+Av. abancay,2025-05-10,Sabado,08:00-09:00,no,ninguno,134,regular
+Av. abancay,2025-05-10,Sabado,09:00-10:00,no,ninguno,173,regular
+Av. abancay,2025-05-10,Sabado,10:00-11:00,no,ninguno,97,bajo
+Av. abancay,2025-05-10,Sabado,11:00-12:00,no,ninguno,138,regular
+Av. abancay,2025-05-10,Sabado,12:00-13:00,no,ninguno,146,regular
+Av. abancay,2025-05-10,Sabado,13:00-14:00,no,ninguno,137,regular
+Av. abancay,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,163,regular
+Av. abancay,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,187,alto
+Av. abancay,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,145,regular
+Av. abancay,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,282,alto
+Av. abancay,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,228,alto
+Av. abancay,2025-05-10,Sabado,19:00-20:00,no,ninguno,178,regular
+Av. abancay,2025-05-10,Sabado,20:00-21:00,no,ninguno,177,regular
+Av. abancay,2025-05-10,Sabado,21:00-22:00,no,ninguno,67,bajo
+Av. abancay,2025-05-10,Sabado,22:00-23:00,no,ninguno,109,bajo
+Av. abancay,2025-05-10,Sabado,23:00-00:00,no,ninguno,88,bajo
+Av. mexico,2025-05-10,Sabado,00:00-01:00,no,ninguno,27,muy bajo
+Av. mexico,2025-05-10,Sabado,01:00-02:00,no,ninguno,10,muy bajo
+Av. mexico,2025-05-10,Sabado,02:00-03:00,no,ninguno,38,muy bajo
+Av. mexico,2025-05-10,Sabado,03:00-04:00,no,ninguno,23,muy bajo
+Av. mexico,2025-05-10,Sabado,04:00-05:00,no,ninguno,15,muy bajo
+Av. mexico,2025-05-10,Sabado,05:00-06:00,no,ninguno,152,regular
+Av. mexico,2025-05-10,Sabado,06:00-07:00,no,ninguno,180,regular
+Av. mexico,2025-05-10,Sabado,07:00-08:00,no,ninguno,197,alto
+Av. mexico,2025-05-10,Sabado,08:00-09:00,no,ninguno,143,regular
+Av. mexico,2025-05-10,Sabado,09:00-10:00,no,ninguno,170,regular
+Av. mexico,2025-05-10,Sabado,10:00-11:00,no,ninguno,121,regular
+Av. mexico,2025-05-10,Sabado,11:00-12:00,no,ninguno,123,regular
+Av. mexico,2025-05-10,Sabado,12:00-13:00,no,ninguno,117,bajo
+Av. mexico,2025-05-10,Sabado,13:00-14:00,no,ninguno,114,bajo
+Av. mexico,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,110,bajo
+Av. mexico,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,121,regular
+Av. mexico,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,211,alto
+Av. mexico,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,183,alto
+Av. mexico,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,204,alto
+Av. mexico,2025-05-10,Sabado,19:00-20:00,no,ninguno,162,regular
+Av. mexico,2025-05-10,Sabado,20:00-21:00,no,ninguno,141,regular
+Av. mexico,2025-05-10,Sabado,21:00-22:00,no,ninguno,106,bajo
+Av. mexico,2025-05-10,Sabado,22:00-23:00,no,ninguno,136,regular
+Av. mexico,2025-05-10,Sabado,23:00-00:00,no,ninguno,92,bajo
+Av. argentina,2025-05-10,Sabado,00:00-01:00,no,ninguno,46,muy bajo
+Av. argentina,2025-05-10,Sabado,01:00-02:00,no,ninguno,45,muy bajo
+Av. argentina,2025-05-10,Sabado,02:00-03:00,no,ninguno,14,muy bajo
+Av. argentina,2025-05-10,Sabado,03:00-04:00,no,ninguno,49,muy bajo
+Av. argentina,2025-05-10,Sabado,04:00-05:00,no,ninguno,49,muy bajo
+Av. argentina,2025-05-10,Sabado,05:00-06:00,no,ninguno,162,regular
+Av. argentina,2025-05-10,Sabado,06:00-07:00,no,ninguno,109,bajo
+Av. argentina,2025-05-10,Sabado,07:00-08:00,no,ninguno,166,regular
+Av. argentina,2025-05-10,Sabado,08:00-09:00,no,ninguno,136,regular
+Av. argentina,2025-05-10,Sabado,09:00-10:00,no,ninguno,170,regular
+Av. argentina,2025-05-10,Sabado,10:00-11:00,no,ninguno,134,regular
+Av. argentina,2025-05-10,Sabado,11:00-12:00,no,ninguno,159,regular
+Av. argentina,2025-05-10,Sabado,12:00-13:00,no,ninguno,169,regular
+Av. argentina,2025-05-10,Sabado,13:00-14:00,no,ninguno,113,bajo
+Av. argentina,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,181,alto
+Av. argentina,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,204,alto
+Av. argentina,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,183,alto
+Av. argentina,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,193,alto
+Av. argentina,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,289,alto
+Av. argentina,2025-05-10,Sabado,19:00-20:00,no,ninguno,136,regular
+Av. argentina,2025-05-10,Sabado,20:00-21:00,no,ninguno,236,alto
+Av. argentina,2025-05-10,Sabado,21:00-22:00,no,ninguno,91,bajo
+Av. argentina,2025-05-10,Sabado,22:00-23:00,no,ninguno,122,regular
+Av. argentina,2025-05-10,Sabado,23:00-00:00,no,ninguno,132,regular
+Av. venezuela,2025-05-10,Sabado,00:00-01:00,no,ninguno,39,muy bajo
+Av. venezuela,2025-05-10,Sabado,01:00-02:00,no,ninguno,37,muy bajo
+Av. venezuela,2025-05-10,Sabado,02:00-03:00,no,ninguno,47,muy bajo
+Av. venezuela,2025-05-10,Sabado,03:00-04:00,no,ninguno,24,muy bajo
+Av. venezuela,2025-05-10,Sabado,04:00-05:00,no,ninguno,38,muy bajo
+Av. venezuela,2025-05-10,Sabado,05:00-06:00,no,ninguno,117,bajo
+Av. venezuela,2025-05-10,Sabado,06:00-07:00,no,ninguno,135,regular
+Av. venezuela,2025-05-10,Sabado,07:00-08:00,no,ninguno,116,bajo
+Av. venezuela,2025-05-10,Sabado,08:00-09:00,no,ninguno,96,bajo
+Av. venezuela,2025-05-10,Sabado,09:00-10:00,no,ninguno,133,regular
+Av. venezuela,2025-05-10,Sabado,10:00-11:00,no,ninguno,167,regular
+Av. venezuela,2025-05-10,Sabado,11:00-12:00,no,ninguno,168,regular
+Av. venezuela,2025-05-10,Sabado,12:00-13:00,no,ninguno,136,regular
+Av. venezuela,2025-05-10,Sabado,13:00-14:00,no,ninguno,95,bajo
+Av. venezuela,2025-05-10,Sabado,14:00-15:00,no,Partido de Futbol,206,alto
+Av. venezuela,2025-05-10,Sabado,15:00-16:00,no,Partido de Futbol,124,regular
+Av. venezuela,2025-05-10,Sabado,16:00-17:00,no,Partido de Futbol,122,regular
+Av. venezuela,2025-05-10,Sabado,17:00-18:00,no,Partido de Futbol,314,alto
+Av. venezuela,2025-05-10,Sabado,18:00-19:00,no,Partido de Futbol,247,alto
+Av. venezuela,2025-05-10,Sabado,19:00-20:00,no,ninguno,147,regular
+Av. venezuela,2025-05-10,Sabado,20:00-21:00,no,ninguno,165,regular
+Av. venezuela,2025-05-10,Sabado,21:00-22:00,no,ninguno,131,regular
+Av. venezuela,2025-05-10,Sabado,22:00-23:00,no,ninguno,138,regular
+Av. venezuela,2025-05-10,Sabado,23:00-00:00,no,ninguno,141,regular
+Av. paseo de la república,2025-05-11,Domingo,00:00-01:00,si,ninguno,34,muy bajo
+Av. paseo de la república,2025-05-11,Domingo,01:00-02:00,si,ninguno,47,muy bajo
+Av. paseo de la república,2025-05-11,Domingo,02:00-03:00,si,ninguno,24,muy bajo
+Av. paseo de la república,2025-05-11,Domingo,03:00-04:00,si,ninguno,43,muy bajo
+Av. paseo de la república,2025-05-11,Domingo,04:00-05:00,si,ninguno,45,muy bajo
+Av. paseo de la república,2025-05-11,Domingo,05:00-06:00,si,ninguno,244,alto
+Av. paseo de la república,2025-05-11,Domingo,06:00-07:00,si,ninguno,235,alto
+Av. paseo de la república,2025-05-11,Domingo,07:00-08:00,si,ninguno,156,regular
+Av. paseo de la república,2025-05-11,Domingo,08:00-09:00,si,ninguno,114,bajo
+Av. paseo de la república,2025-05-11,Domingo,09:00-10:00,si,ninguno,125,regular
+Av. paseo de la república,2025-05-11,Domingo,10:00-11:00,si,ninguno,173,regular
+Av. paseo de la república,2025-05-11,Domingo,11:00-12:00,si,ninguno,148,regular
+Av. paseo de la república,2025-05-11,Domingo,12:00-13:00,si,ninguno,144,regular
+Av. paseo de la república,2025-05-11,Domingo,13:00-14:00,si,ninguno,104,bajo
+Av. paseo de la república,2025-05-11,Domingo,14:00-15:00,si,ninguno,102,bajo
+Av. paseo de la república,2025-05-11,Domingo,15:00-16:00,si,ninguno,170,regular
+Av. paseo de la república,2025-05-11,Domingo,16:00-17:00,si,ninguno,175,regular
+Av. paseo de la república,2025-05-11,Domingo,17:00-18:00,si,ninguno,160,regular
+Av. paseo de la república,2025-05-11,Domingo,18:00-19:00,si,ninguno,220,alto
+Av. paseo de la república,2025-05-11,Domingo,19:00-20:00,si,ninguno,202,alto
+Av. paseo de la república,2025-05-11,Domingo,20:00-21:00,si,ninguno,135,regular
+Av. paseo de la república,2025-05-11,Domingo,21:00-22:00,si,ninguno,127,regular
+Av. paseo de la república,2025-05-11,Domingo,22:00-23:00,si,ninguno,62,bajo
+Av. paseo de la república,2025-05-11,Domingo,23:00-00:00,si,ninguno,147,regular
+Av. alfredo benavides,2025-05-11,Domingo,00:00-01:00,si,ninguno,40,muy bajo
+Av. alfredo benavides,2025-05-11,Domingo,01:00-02:00,si,ninguno,43,muy bajo
+Av. alfredo benavides,2025-05-11,Domingo,02:00-03:00,si,ninguno,33,muy bajo
+Av. alfredo benavides,2025-05-11,Domingo,03:00-04:00,si,ninguno,46,muy bajo
+Av. alfredo benavides,2025-05-11,Domingo,04:00-05:00,si,ninguno,41,muy bajo
+Av. alfredo benavides,2025-05-11,Domingo,05:00-06:00,si,ninguno,160,regular
+Av. alfredo benavides,2025-05-11,Domingo,06:00-07:00,si,ninguno,183,alto
+Av. alfredo benavides,2025-05-11,Domingo,07:00-08:00,si,ninguno,201,alto
+Av. alfredo benavides,2025-05-11,Domingo,08:00-09:00,si,ninguno,124,regular
+Av. alfredo benavides,2025-05-11,Domingo,09:00-10:00,si,ninguno,95,bajo
+Av. alfredo benavides,2025-05-11,Domingo,10:00-11:00,si,ninguno,177,regular
+Av. alfredo benavides,2025-05-11,Domingo,11:00-12:00,si,ninguno,161,regular
+Av. alfredo benavides,2025-05-11,Domingo,12:00-13:00,si,ninguno,174,regular
+Av. alfredo benavides,2025-05-11,Domingo,13:00-14:00,si,ninguno,174,regular
+Av. alfredo benavides,2025-05-11,Domingo,14:00-15:00,si,ninguno,174,regular
+Av. alfredo benavides,2025-05-11,Domingo,15:00-16:00,si,ninguno,177,regular
+Av. alfredo benavides,2025-05-11,Domingo,16:00-17:00,si,ninguno,120,bajo
+Av. alfredo benavides,2025-05-11,Domingo,17:00-18:00,si,ninguno,192,alto
+Av. alfredo benavides,2025-05-11,Domingo,18:00-19:00,si,ninguno,162,regular
+Av. alfredo benavides,2025-05-11,Domingo,19:00-20:00,si,ninguno,175,regular
+Av. alfredo benavides,2025-05-11,Domingo,20:00-21:00,si,ninguno,140,regular
+Av. alfredo benavides,2025-05-11,Domingo,21:00-22:00,si,ninguno,83,bajo
+Av. alfredo benavides,2025-05-11,Domingo,22:00-23:00,si,ninguno,130,regular
+Av. alfredo benavides,2025-05-11,Domingo,23:00-00:00,si,ninguno,122,regular
+Av. universitaria,2025-05-11,Domingo,00:00-01:00,si,ninguno,38,muy bajo
+Av. universitaria,2025-05-11,Domingo,01:00-02:00,si,ninguno,44,muy bajo
+Av. universitaria,2025-05-11,Domingo,02:00-03:00,si,ninguno,32,muy bajo
+Av. universitaria,2025-05-11,Domingo,03:00-04:00,si,ninguno,34,muy bajo
+Av. universitaria,2025-05-11,Domingo,04:00-05:00,si,ninguno,27,muy bajo
+Av. universitaria,2025-05-11,Domingo,05:00-06:00,si,ninguno,189,alto
+Av. universitaria,2025-05-11,Domingo,06:00-07:00,si,ninguno,101,bajo
+Av. universitaria,2025-05-11,Domingo,07:00-08:00,si,ninguno,122,regular
+Av. universitaria,2025-05-11,Domingo,08:00-09:00,si,ninguno,159,regular
+Av. universitaria,2025-05-11,Domingo,09:00-10:00,si,ninguno,101,bajo
+Av. universitaria,2025-05-11,Domingo,10:00-11:00,si,ninguno,170,regular
+Av. universitaria,2025-05-11,Domingo,11:00-12:00,si,ninguno,96,bajo
+Av. universitaria,2025-05-11,Domingo,12:00-13:00,si,ninguno,162,regular
+Av. universitaria,2025-05-11,Domingo,13:00-14:00,si,ninguno,107,bajo
+Av. universitaria,2025-05-11,Domingo,14:00-15:00,si,ninguno,97,bajo
+Av. universitaria,2025-05-11,Domingo,15:00-16:00,si,ninguno,102,bajo
+Av. universitaria,2025-05-11,Domingo,16:00-17:00,si,ninguno,130,regular
+Av. universitaria,2025-05-11,Domingo,17:00-18:00,si,ninguno,265,alto
+Av. universitaria,2025-05-11,Domingo,18:00-19:00,si,ninguno,153,regular
+Av. universitaria,2025-05-11,Domingo,19:00-20:00,si,ninguno,266,alto
+Av. universitaria,2025-05-11,Domingo,20:00-21:00,si,ninguno,171,regular
+Av. universitaria,2025-05-11,Domingo,21:00-22:00,si,ninguno,82,bajo
+Av. universitaria,2025-05-11,Domingo,22:00-23:00,si,ninguno,63,bajo
+Av. universitaria,2025-05-11,Domingo,23:00-00:00,si,ninguno,97,bajo
+Av. la marina,2025-05-11,Domingo,00:00-01:00,si,ninguno,20,muy bajo
+Av. la marina,2025-05-11,Domingo,01:00-02:00,si,ninguno,13,muy bajo
+Av. la marina,2025-05-11,Domingo,02:00-03:00,si,ninguno,31,muy bajo
+Av. la marina,2025-05-11,Domingo,03:00-04:00,si,ninguno,25,muy bajo
+Av. la marina,2025-05-11,Domingo,04:00-05:00,si,ninguno,14,muy bajo
+Av. la marina,2025-05-11,Domingo,05:00-06:00,si,ninguno,147,regular
+Av. la marina,2025-05-11,Domingo,06:00-07:00,si,ninguno,148,regular
+Av. la marina,2025-05-11,Domingo,07:00-08:00,si,ninguno,198,alto
+Av. la marina,2025-05-11,Domingo,08:00-09:00,si,ninguno,143,regular
+Av. la marina,2025-05-11,Domingo,09:00-10:00,si,ninguno,144,regular
+Av. la marina,2025-05-11,Domingo,10:00-11:00,si,ninguno,104,bajo
+Av. la marina,2025-05-11,Domingo,11:00-12:00,si,ninguno,101,bajo
+Av. la marina,2025-05-11,Domingo,12:00-13:00,si,ninguno,93,bajo
+Av. la marina,2025-05-11,Domingo,13:00-14:00,si,ninguno,178,regular
+Av. la marina,2025-05-11,Domingo,14:00-15:00,si,ninguno,150,regular
+Av. la marina,2025-05-11,Domingo,15:00-16:00,si,ninguno,109,bajo
+Av. la marina,2025-05-11,Domingo,16:00-17:00,si,ninguno,124,regular
+Av. la marina,2025-05-11,Domingo,17:00-18:00,si,ninguno,272,alto
+Av. la marina,2025-05-11,Domingo,18:00-19:00,si,ninguno,155,regular
+Av. la marina,2025-05-11,Domingo,19:00-20:00,si,ninguno,274,alto
+Av. la marina,2025-05-11,Domingo,20:00-21:00,si,ninguno,219,alto
+Av. la marina,2025-05-11,Domingo,21:00-22:00,si,ninguno,97,bajo
+Av. la marina,2025-05-11,Domingo,22:00-23:00,si,ninguno,67,bajo
+Av. la marina,2025-05-11,Domingo,23:00-00:00,si,ninguno,105,bajo
+Av. abancay,2025-05-11,Domingo,00:00-01:00,si,ninguno,25,muy bajo
+Av. abancay,2025-05-11,Domingo,01:00-02:00,si,ninguno,24,muy bajo
+Av. abancay,2025-05-11,Domingo,02:00-03:00,si,ninguno,42,muy bajo
+Av. abancay,2025-05-11,Domingo,03:00-04:00,si,ninguno,45,muy bajo
+Av. abancay,2025-05-11,Domingo,04:00-05:00,si,ninguno,31,muy bajo
+Av. abancay,2025-05-11,Domingo,05:00-06:00,si,ninguno,241,alto
+Av. abancay,2025-05-11,Domingo,06:00-07:00,si,ninguno,219,alto
+Av. abancay,2025-05-11,Domingo,07:00-08:00,si,ninguno,178,regular
+Av. abancay,2025-05-11,Domingo,08:00-09:00,si,ninguno,156,regular
+Av. abancay,2025-05-11,Domingo,09:00-10:00,si,ninguno,174,regular
+Av. abancay,2025-05-11,Domingo,10:00-11:00,si,ninguno,162,regular
+Av. abancay,2025-05-11,Domingo,11:00-12:00,si,ninguno,159,regular
+Av. abancay,2025-05-11,Domingo,12:00-13:00,si,ninguno,169,regular
+Av. abancay,2025-05-11,Domingo,13:00-14:00,si,ninguno,144,regular
+Av. abancay,2025-05-11,Domingo,14:00-15:00,si,ninguno,154,regular
+Av. abancay,2025-05-11,Domingo,15:00-16:00,si,ninguno,168,regular
+Av. abancay,2025-05-11,Domingo,16:00-17:00,si,ninguno,147,regular
+Av. abancay,2025-05-11,Domingo,17:00-18:00,si,ninguno,225,alto
+Av. abancay,2025-05-11,Domingo,18:00-19:00,si,ninguno,191,alto
+Av. abancay,2025-05-11,Domingo,19:00-20:00,si,ninguno,269,alto
+Av. abancay,2025-05-11,Domingo,20:00-21:00,si,ninguno,194,alto
+Av. abancay,2025-05-11,Domingo,21:00-22:00,si,ninguno,125,regular
+Av. abancay,2025-05-11,Domingo,22:00-23:00,si,ninguno,114,bajo
+Av. abancay,2025-05-11,Domingo,23:00-00:00,si,ninguno,113,bajo
+Av. mexico,2025-05-11,Domingo,00:00-01:00,si,ninguno,11,muy bajo
+Av. mexico,2025-05-11,Domingo,01:00-02:00,si,ninguno,33,muy bajo
+Av. mexico,2025-05-11,Domingo,02:00-03:00,si,ninguno,24,muy bajo
+Av. mexico,2025-05-11,Domingo,03:00-04:00,si,ninguno,46,muy bajo
+Av. mexico,2025-05-11,Domingo,04:00-05:00,si,ninguno,23,muy bajo
+Av. mexico,2025-05-11,Domingo,05:00-06:00,si,ninguno,227,alto
+Av. mexico,2025-05-11,Domingo,06:00-07:00,si,ninguno,217,alto
+Av. mexico,2025-05-11,Domingo,07:00-08:00,si,ninguno,146,regular
+Av. mexico,2025-05-11,Domingo,08:00-09:00,si,ninguno,95,bajo
+Av. mexico,2025-05-11,Domingo,09:00-10:00,si,ninguno,106,bajo
+Av. mexico,2025-05-11,Domingo,10:00-11:00,si,ninguno,160,regular
+Av. mexico,2025-05-11,Domingo,11:00-12:00,si,ninguno,96,bajo
+Av. mexico,2025-05-11,Domingo,12:00-13:00,si,ninguno,114,bajo
+Av. mexico,2025-05-11,Domingo,13:00-14:00,si,ninguno,92,bajo
+Av. mexico,2025-05-11,Domingo,14:00-15:00,si,ninguno,96,bajo
+Av. mexico,2025-05-11,Domingo,15:00-16:00,si,ninguno,172,regular
+Av. mexico,2025-05-11,Domingo,16:00-17:00,si,ninguno,155,regular
+Av. mexico,2025-05-11,Domingo,17:00-18:00,si,ninguno,233,alto
+Av. mexico,2025-05-11,Domingo,18:00-19:00,si,ninguno,223,alto
+Av. mexico,2025-05-11,Domingo,19:00-20:00,si,ninguno,234,alto
+Av. mexico,2025-05-11,Domingo,20:00-21:00,si,ninguno,236,alto
+Av. mexico,2025-05-11,Domingo,21:00-22:00,si,ninguno,91,bajo
+Av. mexico,2025-05-11,Domingo,22:00-23:00,si,ninguno,80,bajo
+Av. mexico,2025-05-11,Domingo,23:00-00:00,si,ninguno,67,bajo
+Av. argentina,2025-05-11,Domingo,00:00-01:00,si,ninguno,20,muy bajo
+Av. argentina,2025-05-11,Domingo,01:00-02:00,si,ninguno,21,muy bajo
+Av. argentina,2025-05-11,Domingo,02:00-03:00,si,ninguno,22,muy bajo
+Av. argentina,2025-05-11,Domingo,03:00-04:00,si,ninguno,39,muy bajo
+Av. argentina,2025-05-11,Domingo,04:00-05:00,si,ninguno,40,muy bajo
+Av. argentina,2025-05-11,Domingo,05:00-06:00,si,ninguno,115,bajo
+Av. argentina,2025-05-11,Domingo,06:00-07:00,si,ninguno,249,alto
+Av. argentina,2025-05-11,Domingo,07:00-08:00,si,ninguno,207,alto
+Av. argentina,2025-05-11,Domingo,08:00-09:00,si,ninguno,150,regular
+Av. argentina,2025-05-11,Domingo,09:00-10:00,si,ninguno,178,regular
+Av. argentina,2025-05-11,Domingo,10:00-11:00,si,ninguno,118,bajo
+Av. argentina,2025-05-11,Domingo,11:00-12:00,si,ninguno,138,regular
+Av. argentina,2025-05-11,Domingo,12:00-13:00,si,ninguno,100,bajo
+Av. argentina,2025-05-11,Domingo,13:00-14:00,si,ninguno,145,regular
+Av. argentina,2025-05-11,Domingo,14:00-15:00,si,ninguno,131,regular
+Av. argentina,2025-05-11,Domingo,15:00-16:00,si,ninguno,101,bajo
+Av. argentina,2025-05-11,Domingo,16:00-17:00,si,ninguno,170,regular
+Av. argentina,2025-05-11,Domingo,17:00-18:00,si,ninguno,283,alto
+Av. argentina,2025-05-11,Domingo,18:00-19:00,si,ninguno,225,alto
+Av. argentina,2025-05-11,Domingo,19:00-20:00,si,ninguno,197,alto
+Av. argentina,2025-05-11,Domingo,20:00-21:00,si,ninguno,270,alto
+Av. argentina,2025-05-11,Domingo,21:00-22:00,si,ninguno,141,regular
+Av. argentina,2025-05-11,Domingo,22:00-23:00,si,ninguno,103,bajo
+Av. argentina,2025-05-11,Domingo,23:00-00:00,si,ninguno,67,bajo
+Av. venezuela,2025-05-11,Domingo,00:00-01:00,si,ninguno,14,muy bajo
+Av. venezuela,2025-05-11,Domingo,01:00-02:00,si,ninguno,13,muy bajo
+Av. venezuela,2025-05-11,Domingo,02:00-03:00,si,ninguno,34,muy bajo
+Av. venezuela,2025-05-11,Domingo,03:00-04:00,si,ninguno,32,muy bajo
+Av. venezuela,2025-05-11,Domingo,04:00-05:00,si,ninguno,38,muy bajo
+Av. venezuela,2025-05-11,Domingo,05:00-06:00,si,ninguno,140,regular
+Av. venezuela,2025-05-11,Domingo,06:00-07:00,si,ninguno,119,bajo
+Av. venezuela,2025-05-11,Domingo,07:00-08:00,si,ninguno,168,regular
+Av. venezuela,2025-05-11,Domingo,08:00-09:00,si,ninguno,158,regular
+Av. venezuela,2025-05-11,Domingo,09:00-10:00,si,ninguno,149,regular
+Av. venezuela,2025-05-11,Domingo,10:00-11:00,si,ninguno,139,regular
+Av. venezuela,2025-05-11,Domingo,11:00-12:00,si,ninguno,131,regular
+Av. venezuela,2025-05-11,Domingo,12:00-13:00,si,ninguno,92,bajo
+Av. venezuela,2025-05-11,Domingo,13:00-14:00,si,ninguno,116,bajo
+Av. venezuela,2025-05-11,Domingo,14:00-15:00,si,ninguno,162,regular
+Av. venezuela,2025-05-11,Domingo,15:00-16:00,si,ninguno,174,regular
+Av. venezuela,2025-05-11,Domingo,16:00-17:00,si,ninguno,160,regular
+Av. venezuela,2025-05-11,Domingo,17:00-18:00,si,ninguno,247,alto
+Av. venezuela,2025-05-11,Domingo,18:00-19:00,si,ninguno,135,regular
+Av. venezuela,2025-05-11,Domingo,19:00-20:00,si,ninguno,136,regular
+Av. venezuela,2025-05-11,Domingo,20:00-21:00,si,ninguno,219,alto
+Av. venezuela,2025-05-11,Domingo,21:00-22:00,si,ninguno,139,regular
+Av. venezuela,2025-05-11,Domingo,22:00-23:00,si,ninguno,106,bajo
+Av. venezuela,2025-05-11,Domingo,23:00-00:00,si,ninguno,133,regular
