@@ -176,7 +176,7 @@ def main():
                 components.html(f"""
                 <div style="border:3px solid #2c3e50; border-radius:20px; overflow:hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
                     <iframe
-                        src='https://www.google.com/maps/embed/v1/directions?key={api_key}&origin={res1}&destination={res2}&mode=driving&avoid=tolls&region=PE'
+                        src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyDOd6ZFmKTMdfjLuQ0v66SbN3vnOUdOOMY&origin={res1}&destination={res2}&mode=driving&avoid=tolls&region=PE'
                         height="510" width= "100%"
                     ></iframe>
                 </div>""",height=520)
