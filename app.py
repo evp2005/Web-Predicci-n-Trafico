@@ -12,6 +12,18 @@ from modelo_prediccion import predecir_trafico_diario
 api_key = st.secrets["API_KEY"]
 
 def main():
+    # Configuración de la página
+    st.set_page_config(
+    page_title="Web Predicción de Tráfico",
+    page_icon="🚦",
+    layout="centered",
+    initial_sidebar_state="expanded",
+    menu_items={
+        'Get Help': 'https://www.gob.pe/mtc',
+        'Report a bug': 'https://github.com/evp2005',
+        'About': "# Navegación Inteligente para una Lima sin Tráfico\n\nEsta aplicación utiliza modelos predictivos avanzados para optimizar el flujo vehicular en Lima, Perú. Desarrollada por [Tu Nombre o Tu Empresa].\n\n## Contacto\nPara más información, visita [tu sitio web](https://github.com/evp2005) o contáctanos a través de nuestras redes sociales."
+    })
+    
     # Carga y preprocesamiento del dataset
     datosTrafico = pd.read_csv("Dataset_limpio.csv")
     datosTrafico["Fecha"] = pd.to_datetime(datosTrafico["Fecha"], format="%Y-%m-%d")
