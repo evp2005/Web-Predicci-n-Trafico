@@ -21,8 +21,7 @@ def main():
     menu_items={
         'Get Help': 'https://www.gob.pe/mtc',
         'Report a bug': 'https://github.com/evp2005',
-        'About': "# Navegación Inteligente para una Lima sin Tráfico\n\nEsta aplicación utiliza modelos predictivos avanzados para optimizar el flujo vehicular en Lima, Perú. Desarrollada por 
-        APVD Software Innovators .\n\n## Contacto\nPara más información, visita [tu sitio web](https://github.com/evp2005) o contáctanos a través de nuestras redes sociales."
+        'About': "# Navegación Inteligente para una Lima sin Tráfico\n\nEsta aplicación utiliza modelos predictivos avanzados para optimizar el flujo vehicular en Lima, Perú. Desarrollada por APVD Software Innovators.\n\n## Contacto\nPara más información, visita [tu sitio web](https://www.tusitio.com) o contáctanos a través de nuestras redes sociales."
     })
     
     # Carga y preprocesamiento del dataset
